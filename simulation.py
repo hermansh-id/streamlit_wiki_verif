@@ -15,16 +15,16 @@ if not os.path.exists(CSV_HASIL_FOLDER):
 if not os.path.exists(CSV_JELEK):
     os.makedirs(CSV_JELEK)
 
-csv_files = [f for f in os.listdir(CSV_DATA_FOLDER) if f.endswith('.csv')]
+csv_fold = [f for f in os.listdir(CSV_DATA_FOLDER) if f.endswith('.csv')]
 hasil = [f for f in os.listdir(CSV_HASIL_FOLDER) if f.endswith('.csv')]
 jelek = [f for f in os.listdir(CSV_JELEK) if f.endswith('.csv')]
-csv_files = [x for x in csv_files if x not in hasil and x not in jelek]
+csv_files = [x for x in csv_fold if x not in hasil and x not in jelek]
 csv_x = random.choice(csv_files)
 
 csv_path = os.path.join(CSV_DATA_FOLDER, csv_x)
 df = pd.read_csv(csv_path)
 
-st.write("Data")
+st.write("Data: "+str(len(csv_files)) + "/" + str(len(csv_fold)))
 st.dataframe(df)
 
 save = st.button('Save')
