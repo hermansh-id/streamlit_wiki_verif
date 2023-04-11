@@ -24,7 +24,7 @@ csv_x = random.choice(csv_files)
 csv_path = os.path.join(CSV_DATA_FOLDER, csv_x)
 df = pd.read_csv(csv_path)
 
-st.write("Data: "+str(len(csv_files)) + "/" + str(len(csv_fold)))
+st.write("Data: "+str(len(csv_fold) - len(csv_files)) + "/" + str(len(csv_fold)))
 st.dataframe(df)
 
 save = st.button('Save')
