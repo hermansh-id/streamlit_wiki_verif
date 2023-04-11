@@ -12,6 +12,9 @@ ACTION_CSV_FILE = 'action.csv'
 if not os.path.exists(CSV_HASIL_FOLDER):
     os.makedirs(CSV_HASIL_FOLDER)
 
+if not os.path.exists(CSV_JELEK):
+    os.makedirs(CSV_JELEK)
+
 csv_files = [f for f in os.listdir(CSV_DATA_FOLDER) if f.endswith('.csv')]
 hasil = [f for f in os.listdir(CSV_HASIL_FOLDER) if f.endswith('.csv')]
 jelek = [f for f in os.listdir(CSV_JELEK) if f.endswith('.csv')]
