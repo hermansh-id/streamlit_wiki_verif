@@ -30,6 +30,15 @@ if(len(csv_files) > 0):
 
     save = st.button('Save')
     no_save = st.button("No save")
+    if save:
+        csv_files.remove(csv_x)
+        df.to_csv(os.path.join("hasil", csv_x))
+        csv_x = random.choice(csv_files)
+
+    if no_save:
+        csv_files.remove(csv_x)
+        df.to_csv(os.path.join("jelek", csv_x))
+        csv_x = random.choice(csv_files)
 else:
     st.write("Tidak ada yang perlu di kurasi lagi, terimakasih!")
 if(st.button("ZIP")):
@@ -47,13 +56,3 @@ if os.path.isfile("hasil.zip"):
 
 if(st.button("Delete ZIP")):
     os.remove("hasil.zip")
-
-if save:
-    csv_files.remove(csv_x)
-    df.to_csv(os.path.join("hasil", csv_x))
-    csv_x = random.choice(csv_files)
-
-if no_save:
-    csv_files.remove(csv_x)
-    df.to_csv(os.path.join("jelek", csv_x))
-    csv_x = random.choice(csv_files)
