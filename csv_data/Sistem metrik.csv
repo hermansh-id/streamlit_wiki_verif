@@ -1,0 +1,32 @@
+,B e s a r a n,D i m e n s i,S a t u a n   S I   d a n   s i m b o l,S a t u a n   l a m a   d a n   s i m b o l,F a k t o r k o n v e r s i
+0,Waktu,T,detik (s),detik (s),1
+1,Panjang,L,meter (m),sentimeter (cm)ångström (Å),0.01 10−10
+2,Massa,M,kilogram (kg),gram (g),0.001
+3,Arus listrik,I,ampere (A),international ampereabampere atau biotstatampere,"1,00002210.03,335641×10−10"
+4,Temperatur,Θ,kelvin (K) derajat Celsius (°C),centigrade (°C),[K] = [°C] + 273.151
+5,Intensitas cahaya,J,candela (cd),international candle,0.982
+6,Jumlah zat,N,Mol,Tidak ada satuan lama,
+7,Luas,L2,meter persegi (m2),are (are),100
+8,Percepatan,LT−2,(m·s−2),gal (gal),10−2
+9,Frekuensi,T−1,hertz (Hz),siklus per detik,1
+10,Energi,L2MT−2,joule (J),erg (erg),10−7
+11,Daya,L2MT−3,watt (W),(erg/s)daya kuda (HP)Pferdestärke (PS),10−7745.7735.5
+12,Gaya,LMT−2,newton (N),dyne (dyn) sthene (sn)kilopond (kp),"10−5 103 9,80665"
+13,Tekanan,L−1MT−2,pascal (Pa),barye (Ba) pieze (pz) atmosfer (at),"0.1 1031,01325×105"
+14,Muatan listrik,IT,coulomb (C),abcoulombstatcoulomb atau franklin,"103,335641×10−10"
+15,Perbedaan potensial,L2MT−3I−1,volt (V),internasional voltabvoltstatvolt,"1,0003410−82,997925×102"
+16,Kapasitansi,L−2M−1T4I2,farad (F),abfaradstatfarad,"1091,112650×10−12"
+17,Induktansi,L2MT−2I−2,henry (H),abhenrystathenry,"10−98,987552×1011"
+18,Hambatan listrik,L2MT−3I−2,ohm (Ω),international ohmabohmstatohm,"1,0004910−98,987552×1011"
+19,Konduktansi listrik,L−2M−1T3I2,siemens (S),international mho (℧)abmhostatmho,"0,999511091,112650×10−12"
+20,Fluks magnetik,L2MT−2I−1,weber (Wb),maxwell (Mx),10−8
+21,Densitas fluks magnetik,MT−2I−1,tesla (T),gauss (G),10−4
+22,Kekuatan medan magnetik,IL−1,(A/m),oersted (Oe),"103⁄4π = 79,57747"
+23,Viskositas dinamik,ML−1T−1,(Pa·s),poise (P),0.1
+24,Viskositas kinematik,L2T−1,(m2·s−1),stokes (St),10−4
+25,Fluks cahaya,J,lumen (lm),stilb (sb),104
+26,Iluminansi,JL−2,lux (lx),phot (ph),104
+27,Radioaktivitas (Peluruhan radioaktif),T−1,becquerel (Bq),curie (Ci),"3,70×1010"
+28,Dosis (radiasi) terserap,L2T−2,gray (Gy),roentgen (R)rad (rad),≈0.01[Note 2]0.01
+29,Dosis radiasi ekivalen,L2T−2,sievert,roentgen equivalent man (rem),0.01
+30,Aktivitas katalitik,NT−1,katal (kat),Tidak ada satuan lama,

@@ -1,0 +1,4 @@
+,P e n g u k u r a n,R u m u s,D e s k r i p s i
+0,Volume menit pernapasan,volume tidal * laju pernapasan,jumlah volume udara yang memasuki atau meninggalkan hidung atau mulut per menit.
+1,Ventilasi alveolar,(volume tidal – ruang mati) * laju pernapasan,volume udara yang memasuki atau meninggalkan alveoli per menit.
+2,Ventilasi ruang mati,ruang mati * laju pernapasan,"volume udara yang tidak mampu mencapai alveoli ketika inhalasi, tetapi tetap tinggal di saluran pernapasan, per menit."

@@ -1,0 +1,12 @@
+,N a m a,P a t o g e n,C a t a t a n
+0,Malaria,Plasmodium falciparum,malaria parah yang memengaruhi sistem kardiovaskular dan menyebabkan kedinginan dan kejutan sirkulasi
+1,Malaria bilious,Plasmodium falciparum,malaria parah yang memengaruhi hati dan menyebabkan muntah dan penyakit kuning
+2,Malaria serebral,Plasmodium falciparum,malaria parah yang memengaruhi otak besar
+3,Malaria kongenital,berbagai plasmodia,plasmodium yang menginfeksi dari ibu melalui sirkulasi fetal
+4,"Malaria falciparum, malaria Plasmodium falciparum, malaria pernisiosa",Plasmodium falciparum,
+5,"Malaria ovale, malaria Plasmodium ovale",Plasmodium ovale,
+6,"Malaria kuartana, malaria malariae, malaria Plasmodium malariae",Plasmodium malariae,"hilang timbul setiap hari keempat (quartan), menghitung hari kejadian sebagai hari pertama"
+7,Malaria quotidian,"Plasmodium falciparum, Plasmodium vivax",hilang timbul setiap hari (quotidian)
+8,Malaria tertiana,"Plasmodium falciparum, Plasmodium ovale, Plasmodium vivax","hilang timbul setiap hari ketiga (tertian), menghitung hari kejadian sebagai hari pertama"
+9,Malaria transfusi,berbagai plasmodia,"plasmodium yang menginfeksi melalui transfusi darah, berbagi jarum, atau perlukaan jarum suntik"
+10,"Malaria vivax, malaria Plasmodium vivax",Plasmodium vivax,

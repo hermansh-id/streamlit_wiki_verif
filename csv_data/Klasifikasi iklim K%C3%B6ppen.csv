@@ -1,0 +1,24 @@
+,P e r t a m a,K e d u a,K e t i g a,D e s k r i p s i,D e s k r i p s i . 1,D e s k r i p s i . 2
+0,A,f,,Tropis,Hutan hujan,
+1,A,m,,Tropis,Musim,
+2,A,w,,Tropis,Sabana,
+3,B,W,,Gersang,Gurun,
+4,B,S,,Gersang,Stepa,
+5,B,,h,Gersang,,Panas
+6,B,,k,Gersang,,Dingin
+7,B,,n,Gersang,,Ringan
+8,C,s,,Subtropis,Musim panas yang kering,
+9,C,w,,Subtropis,Musim dingin yang kering,
+10,C,f,,Subtropis,Tanpa musim kering,
+11,C,,a,Subtropis,,Musim panas yang terik
+12,C,,b,Subtropis,,Musim panas yang hangat
+13,C,,c,Subtropis,,Musim panas yang dingin
+14,D,s,,Dingin (benua),Musim panas yang kering,
+15,D,w,,Dingin (benua),Musim dingin yang kering,
+16,D,f,,Dingin (benua),Tanpa musim kering,
+17,D,,a,Dingin (benua),,Musim panas yang terik
+18,D,,b,Dingin (benua),,Musim panas yang hangat
+19,D,,c,Dingin (benua),,Musim panas yang dingin
+20,D,,d,Dingin (benua),,Musim dingin sangat dingin
+21,E,T,,Kutub,Tundra,
+22,E,F,,Kutub,Salju abadi,

@@ -1,0 +1,7 @@
+,' g r a m   T N T ',S i m b o l,' T o n   T N T ',S i m b o l . 1,E n e r g i
+0,gram TNT,g,,,4.184 × 103 J
+1,Kilo gram TNT,Kg,,,4.184 × 106 J
+2,Mega gram TNT,Mg,ton TNT,t,4.184 × 109 J
+3,Giga gram TNT,Gg,Kilo ton TNT,Kt,4.184 × 1012 J
+4,Tera gram TNT,Tg,Mega ton TNT,Mt,4.184 × 1015 J
+5,Peta gram TNT,Pg,Giga ton TNT,Gt,4.184 × 1018 J

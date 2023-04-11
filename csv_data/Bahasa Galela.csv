@@ -1,0 +1,330 @@
+,N o m o r,B a h a s a   G a l e l a,B a h a s a   I n d o n e s i a
+0,1.,ngohi,saya
+1,2.,ngona,engkau
+2,3.,ngini,kalian
+3,4.,una,dia lelaki
+4,5.,muna,dia perempuan
+5,6.,ngone,kita
+6,7.,ona,mereka
+7,8.,manena,ini
+8,9.,magena,itu
+9,10.,kanena,di sini
+10,11.,madoke,di sana
+11,12.,kadoke,di situ
+12,13.,kia,apa
+13,14.,nago ona,siapa
+14,15.,muruo,berapa
+15,16.,kiaka,di mana
+16,17.,dadooha,mengapa
+17,18.,dadooha,bagaimana
+18,19.,dala,banyak
+19,20.,dangodu,semua
+20,21.,masononga,separuh
+21,22.,moi,satu
+22,23.,sinoto,dua
+23,24.,saange,tiga
+24,25.,iha,empat
+25,26.,motoha,lima
+26,27.,butanga,enam
+27,28.,tumudingi,tujuh
+28,29.,tupaange,delapan
+29,30.,siwo,sembilan
+30,31.,mogiowo,sepuluh
+31,32.,mogiowo de moi,sebelas
+32,33.,mogiowo de sinoto,dua belas
+33,34.,mogiowo de saange,tiga belas
+34,35.,mogiowo de iha,empat belas
+35,36.,mogiowo de motoha,lima belas
+36,37.,monahalo,dua puluh
+37,38.,moruange,tiga puluh
+38,39.,moruba,empat puluh
+39,40.,moritoha,lima puluh
+40,41.,ratu moi,seratus
+41,42.,ratu moi demoi,seratus satu
+42,43.,ratu moi de sinoto,seratus dua
+43,44.,ratu moi de mogiowo,seratus sepuluh
+44,45.,ratu moi de mogiowo de motoha,seratus lima belas
+45,46.,cala moi,seribu
+46,47.,cala mogiowo,sepuluh ribu
+47,48.,doduga,ukuran
+48,49.,daceke,kecil
+49,50.,lamo,besar
+50,51.,kaku-kuru,panjang
+51,52.,kakue,tinggi
+52,53.,ngoha,lebar
+53,54.,maraba,dalam
+54,55.,timisi,pendek
+55,56.,yanau,laki-laki
+56,57.,ngapedeka,perempuan
+57,58.,nao,ikan
+58,59.,namo,burung
+59,60.,luri,nuri
+60,61.,gotola,kakatua putih
+61,62.,gatopa,kakatua hijau
+62,63.,tuma,bangun
+63,64.,meleu,ayam hutan
+64,65.,goroko,burung hantu
+65,66.,gegeko,sapi
+66,67.,kabi,kambing
+67,68.,titi mamoka,babi jantan
+68,69.,titi maesa,babi betina
+69,70.,kaso,anjing
+70,71.,boki,kucing
+71,72.,manjanga,rusa
+72,73.,ngihiya,ular
+73,74.,kuso,kuskus
+74,75.,karianga,biawak
+75,76.,lalaheka,cecak
+76,77.,gosoma,buaya
+77,78.,dode,udang
+78,79.,kohora,ketam
+79,80.,ori,penyu
+80,8L,sangkura,penyu darat
+81,82.,gosango,ikan hiu
+82,83.,rumo,ikan kembung
+83,84.,ido,ikan tongkol
+84,85.,ngawaro,ikan julung
+85,86.,lebo,ikan gabus
+86,87.,tohi,ikan terbang
+87,88.,laluba,lumba-lumba
+88,89.,sangu-sangu,ikan paus
+89,90.,nyoa,ikan pari
+90,91.,tauja,teripang
+91,92.,mia,kera
+92,Tun,ibuhan,
+93,93.,wale,mangga
+94,94.,tamo,padi
+95,95.,goko,jagung
+96,96.,igo kela,kelapa
+97,97.,dilago,keladi
+98,98.,gora,jambu
+99,99.,masoka/soka,daun
+100,100.,marohe/rohe,batang
+101,101.,ngutu,akar
+102,102.,uma,dahan
+103,103.,wama,jeruk
+104,104.,pari,papare
+105,105.,samaka,semangka
+106,106.,tim,ketimun
+107,107.,imagoto,ketela pohon
+108,108.,gumi,ketela rambat
+109,109.,kokene,lombok
+110,110.,obawa,bawang
+111,111.,bawa daare,bawang putih
+112,112.,hiba/saketa,kemiri
+113,113.,lasa,langsat
+114,114.,nguusu,alang-alang
+115,115.,gawayas,jambu biji
+116,116.,gurati,kunyit
+117,117.,Lebeno,enau
+118,118.,gosota,pala
+119,119.,cangka,cengkeh
+120,120.,duriang,durian
+121,121.,bastang,manggis
+122,122.,naka,nangka
+123,123.,gamhonora,cempedak
+124,124.,rambutan,rambutan
+125,125.,papaya,pepaya
+126,126.,goriodo,kedondong
+127,127.,dena/moku,pinang
+128,128.,peda,sagu
+129,129.,sambiki,labu
+130,130.,boci,kacang
+131,131.,sahe,kepala
+132,132.,hutu,rambut
+133,133,gonga,kening
+134,134.,bio,dahi/wajah
+135,135.,ngau,telinga
+136,136.,lako,mata
+137,137.,ngunu,hidung
+138,138.,sadu,dagu
+139,139.,tolo,leher
+140,140.,ingi,gigi
+141,141.,uru,mulut
+142,142.,lade,lidah
+143,143.,gaka,langit-langit
+144,144.,poko,perut
+145,145.,mamata,dada
+146,146.,doi,pinggang
+147,147.,ugu,paha
+148,148.,pupuku,lutut
+149,149.,toko magosi,betis
+150,150.,dohu,kaki
+151,151.,raraga,jari
+152,152.,dohu maawa,jempol
+153,153.,gitipi,kuku
+154,154.,guluhi,pantat
+155,155.,lake,daging
+156,156.,kusi-kusi,jantung
+157,157.,gate,hati
+158,158.,toto,usus
+159,159.,au,darah
+160,160.,kahi,kulit
+161,161.,papanga,siku
+162,152.,gia mabubuku,pergelangan tangan
+163,163.,wange,matahari
+164,164.,ngoosa,bulan
+165,165.,ake,air
+166,166.,muura,hujan
+167,167.,teto,batu
+168,168.,tona,tanah
+169,169.,lobi,awan
+170,170.,dopo,asap
+171,171.,uku,api
+172,172.,dowongi,pasir
+173,173.,kapo,debu
+174,174.,sawala,merah
+175,175.,bolemasoka,hijau
+176,176.,kurati,kuning
+177,177.,daare,putih
+178,178.,jaro/kotu,hitam
+179,179.,kibisi/bisi,biru
+180,180.,puputu,malam
+181,181.,langi,pagi
+182,182.,datebi,siang
+183,183.,imadaka,petang
+184,184.,wange ibolote,fajar
+185,185.,wange ibao,matahari terbit
+186,186.,wange itum,matahari terbenam
+187,187.,sahu,panas
+188,188.,alo,dingin
+189,189.,dagasi,buruh
+190,190.,loha,baik/cantik/indah
+191,191.,pesa,basah
+192,192.,dudu,kering
+193,193.,hiwa,kosong
+194,194.,wedo,penuh
+195,195.,mil,utara
+196,196.,sara,selatan
+197,197.,wange madum,barat
+198,198.,wange masiwa,timur
+199,199.,meme,ibu
+200,200.,baba,ayah
+201,201.,ria,kakak laki-laki
+202,202.,bira,kakak perempuan
+203,203.,nongoru,adik
+204,204.,epejou,saudara ibu laki-laki
+205,205.,jaru,saudara ibu perempuan
+206,206.,baba dodo/baba ria,saudara ayah laki-laki
+207,207.,oa,saudara ayah perempuan
+208,208.,ede,nenek
+209,209.,dapu,ipar
+210,210.,modokaldoroa,menantu laki-laki/perempuan
+211,211.,toroa,mertua
+212,212.,jaro,tiang
+213,213.,boberesu,dinding
+214,214.,ngora,pintu
+215,215.,jangela,jendela
+216,216.,katu,atap
+217,217.,hito,dapur
+218,218.,tora,kasau
+219,219.,hiwa/wa,tidak
+220,220.,ngeko,jalan
+221,221.,tala,gunung
+222,222.,boro,telur
+223,223.,punu,kenyang
+224,224.,sapi,lapar
+225,225.,tahu,rumah
+226,226.,ngihi,bilik
+227,227.,dangi,tempat tidur
+228,228.,gandaria,ruang tamu
+229,229.,dodai mangihi,rak piring
+230,230.,rube,tempayan
+231,231.,gogunange,cetakan sagu
+232,232.,daloha,cantik
+233,233.,dagasi,jelek
+234,234.,saki,gemuk
+235,235.,timisi,pendek
+236,236.,punu,kenyang
+237,237.,sapi,sapi/hewan
+238,238.,tatate,tapisan/ayakan
+239,239.,tutu-tutu,cucuran
+240,240.,boso,wajan
+241,241.,kawali,periuk
+242,242.,jungutu,tikar
+243,243.,momodo,lelah
+244,244.,magae,rajin
+245,245.,busenge,malas
+246,246.,tai-tai,cepat
+247,247.,temehe,lambat
+248,248.,cawaro,pandai
+249,249.,fuma,dungu
+250,250.,idodo,jernih
+251,251.,johu,kasur
+252,252.,togoi,keras
+253,253.,kipiri,tebal
+254,254.,hina,tipis
+255,255.,lodi,pedas
+256,256.,tirine,gemetar
+257,257.,gogololo,bantal guling
+258,258.,gogerena,bantal kepala
+259,259.,kamanu,tombak
+260,260.,garagaji,gergaji
+261,261.,timoloha,senang
+262,262.,kangela,susah
+263,273.,tomole,berani
+264,264.,modo,takut
+265,265.,kasai,kentang
+266,266.,daare,putih
+267,267.,tatusa,tombak ikan
+268,268.,loloha,pekarangan
+269,269.,daohu,mentah
+270,270.,hade,pasang
+271,271.,itona,pasang surut
+272,272.,totobe,pancingan ikan
+273,273.,tora,kasau
+274,274.,gosora,pala
+275,275.,goraka daare,jahe putih
+276,276.,goraka dasosawala,jahe merah
+277,277.,lolodi ilalago,lombok besar
+278,278.,gurati,kunyit
+279,279.,galiasa,lengkuas
+280,280.,tatapa,nyiru
+281,281.,katu,atap
+282,282.,diha,pisau
+283,283.,sobel,parang sabit
+284,284.,taito,parang
+285,285.,gota,kayu bakar
+286,286.,uku,api
+287,287.,tamo daoosa,nasi
+288,288.,goro-goro,pulut
+289,289.,puni,kulit kelapa
+290,290.,dang,ranjang
+291,291.,bole,pisang
+292,292.,bole daoom,pisang masak
+293,293.,bole daoohu,pisang mentah
+294,294.,ruki masoka,daun melinjo
+295,295.,fofoki,terung
+296,296.,godom,sayur paku
+297,297.,galipapo,kecipir
+298,298.,gayawas,jambu biji
+299,299.,sambiki,labu
+300,300.,dowongi,pasir
+301,301.,nyawa,orang
+302,302.,ngopa,anak
+303,303.,roka,suami
+304,304.,pedeka,istri
+305,305.,uru makahi,bibir
+306,306.,toko,ayam
+307,307.,teto,batu
+308,308.,tihimo,tua
+309,309.,kiau,muda
+310,310.,cawaro,pintar
+311,311.,fuma,bodoh
+312,312.,pako,kasar
+313,313.,mali,pahit
+314,314.,muti,manis
+315,315.,totooma,jahat
+316,316.,siboso,sayang
+317,317.,peleso,sedih
+318,318.,damato,dusta
+319,319.,dupa,suka
+320,320.,kiopi,asam
+321,321.,waro,luas
+322,322.,hiwasi,belum
+323,323.,odo,makan
+324,324.,udo,minum
+325,325.,ino,makanan
+326,326.,iho,kotoran/tai
+327,327.,ngomi,kami
+328,328.,soso,terbang

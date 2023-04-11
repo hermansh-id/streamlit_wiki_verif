@@ -1,0 +1,17 @@
+,T i p e   e n e r g i,D e s k r i p s i
+0,Kinetik,"(≥0), energi akibat gerak dari suatu objek"
+1,Potensial,Energi potensial terdiri dari banyak bentuk
+2,Mekanik,Jumlah energi kinetik dan potensial
+3,Gelombang mekanik,"(≥0), bentuk energi mekanik akibat gerak osilasi suatu benda"
+4,Kimia,energi yang terkandung dalam senyawa kimia
+5,Listrik,energi akibat medan listrik
+6,Magnet,energi akibat medan magnet
+7,Radiasi,"(≥0), energi akibat radiasi elektromagnetik termasuk cahaya"
+8,Nuklir,energi akibat nukleon berikatan membentuk nukleus atom
+9,Ionisasi,energi akibat ikatan elektron ke atom atau molekul
+10,Elastik,energi akibat deformasi material
+11,Gravitasi,energi akibat medan gravitasi
+12,Diam,(≥0) setara dengan massa diam
+13,Termal,Energi dalam suatu sistem yang dipengaruhi suhu
+14,Panas,Sejumlah energi termal yang berpindah (dari proses) ke arah suhu yang lebih rendah
+15,Kerja mekanik,sejumlah energi yang berpindah (dari proses) akibat perpindahan pada arah gaya

@@ -1,0 +1,257 @@
+,N o m o r,B a h a s a   B e s o a,B a h a s a   I n d o n e s i a
+0,1.,isa,satu
+1,2.,dua,dua
+2,3.,talu,tiga
+3,4.,iba,empat
+4,5.,lima,lima
+5,6.,ini,enam
+6,7.,pitu,tujuh
+7,8.,uwalu,delapan
+8,9.,hahio,sembilan
+9,10.,hampulo,sepuluh
+10,11.,hampulo hai isa,sebelas
+11,12.,hampulo hai dua,dua belas
+12,13.,rampulo,dua puluh
+13,14.,talu pulona,tiga puluh
+14,15.,hangatu,seratus
+15,16.,hangatu hai isa,seratus satu
+16,17.,hasabu,seribu
+17,18.,hasabu hai isa,seribu satu
+18,19.,hasabu hai hampulo,seribu sepuluh
+19,20.,hasabu hai hangatu,seribu seratus
+20,21.,hantanga,setengah
+21,22.,karongkanina,kedua kali
+22,23.,talu kanina,tiga kali
+23,24.,hangatu kanina,seratus kali
+24,25.,isa hai hatanga,satu setengah
+25,26.,wua,kepala
+26,27.,kire,dahi
+27,28.,teti mata,kening
+28,29.,mata,mata
+29,30.,ilo,hidung
+30,31.,bobe ilo,lubang hidung
+31,32.,hume,bibir
+32,33.,nganga,mulut
+33,34.,are,dagu
+34,35.,talinga,telinga
+35,36.,tambolo,leher
+36,37.,ponda,dada
+37,38.,wanga,bahu
+38,39.,kadu,punggung
+39,40.,hope,pinggang
+40,41.,palo,pantat
+41,42.,tae,tangan
+42,43.,hiu,siku
+43,44.,karawe tae,jari tangan
+44,45.,lila,lidah
+45,46.,ngihi,gigi
+46,47.,kalanda baga,gusi
+47,48.,welua,rambut
+48,49.,wulu pehihi,bulu roma
+49,50.,pa'a,paha
+50,51.,kuntu,lutut
+51,52.,tulu biti,betis
+52,53.,tai,perut
+53,54.,kateda,ketiak
+54,55.,huhu,susu
+55,56.,peli,pipi
+56,57.,laho,kemaluan laki-laki
+57,58.,wii,kemaluan perempuan
+58,59.,kanu,kuku
+59,60.,pohi,pusat
+60,61.,biti,kaki
+61,62.,lindo,muka
+62,63.,kara,langit-langit
+63,64.,karawe biti,jari kaki
+64,65.,pado',tumit
+65,66.,palanta tae,telapak tangan
+66,67.,palanta biti,telapak kaki
+67,68.,pekala'a,pergelangan
+68,69.,hehe,rahang
+69,70.,bulu bangi,tulang kering
+70,71.,kara pui,lubang pantat
+71,72.,ua',urat
+72,73.,petudo',telunjuk
+73,74.,karawe koi,jari kelingking
+74,75.,karawe toda pohangga,jari manis
+75,76.,katumpu,ibu jari
+76,77.,wulu mata,bulu mata
+77,78.,pando',belakang kepala
+78,79.,bu'u wua,tengkorak
+79,80.,koli,kulit
+80,81.,oho,tulang rusuk
+81,82.,bu'u tambolo,tulang leher
+82,83.,katipahu,mata kaki
+83,84.,onto biti,daging betis
+84,85.,lengkeda,lutut bahagian belakang
+85,86.,danggo,janggut
+86,87.,tai liko,usus
+87,88.,puruh,empedu
+88,89.,lompo,lemak
+89,90.,lela,keringat
+90,91.,uwai mata,air mata
+91,92.,tandoko,anak tekak
+92,93.,wawaohe,ludah
+93,94.,uga',tahi telinga
+94,95.,dai; banta'a,daki; daki kaki
+95,96.,wata,badan
+96,97.,biri,ingus
+97,98.,wulu kaleda,bulu ketiak
+98,99.,wowo,ubun-ubun
+99,100.,pelengkea,pergelangan kaki
+100,101.,tandoko,kerongkongan
+101,102.,gege,tahi mata
+102,103.,uba,uban
+103,104.,hiha,tahi mata (penyakit)
+104,III.,Nama Alat-alat Rumah Tangga,
+105,105.,kori,belanga
+106,106.,kori tampo,belanga tanah
+107,107.,kori mala,belanga kuningan
+108,108.,kawali,kuali
+109,109.,kori besi,panci
+110,110.,sere,cerek
+111,111.,sondu,sendok
+112,112.,perana uwai,saringan
+113,113.,perana,ayak-ayak
+114,114.,sangkiri,cangkir
+115,115.,galasi,gelas
+116,116.,tabo,piring
+117,117.,tabo bele,piring belek
+118,118.,dula,dulang
+119,119.,dula mala,dulang tembaga
+120,120.,ladi,pisau
+121,121.,tandai,tungku
+122,122.,kadera,kursi
+123,123.,peti,peti
+124,124.,dasari,ranjang
+125,125.,kasoro,kasur
+126,126.,alonga,bantal
+127,127.,pampewao,cermin
+128,128.,rapu,dapur
+129,129.,lonjo,rantang
+130,130.,guhi,guci
+131,131.,iso,lesung
+132,132.,alu,alu
+133,133.,kulambu,kelambu
+134,134.,embere,ember
+135,135.,loya,loyang
+136,136.,mangku,mok
+137,137.,sondu kau,senduk kayu
+138,138.,sondu tabo kaluku,senduk tempurung
+139,139.,petambu,timba
+140,140.,wara,nyiru
+141,141.,ari'i,tiang
+142,142.,rindi,dinding
+143,143.,baba'a; baba,pintung pagar; pintu rumah
+144,144.,sungkeke,jendela
+145,145.,koho,kasau
+146,146.,woi daha,kolong rumah
+147,147.,lao,pelimbahan
+148,148.,boso,pagar
+149,149.,lincau,kamar
+150,150.,haranto,teras
+151,151.,halangka,loteng
+152,152.,pata,papan
+153,153.,kaho batilo,kasau jantan
+154,154.,pehola,palang rumah
+155,155.,daula,lantai
+156,156.,pehipi,penjepit
+157,157.,petaka,pengikat
+158,158.,pehuga,penopang
+159,159.,wumbu,bubungan
+160,160.,tuha,balok tiang
+161,161.,ale,tikar
+162,162.,pohohora'a,tempat sendok tempurung
+163,163.,lampa'a,tempat kayu api di atas tungku
+164,164.,pemangki,pacul
+165,165.,pehambe rumpu,sabit
+166,166.,ahe,parang
+167,167.,uwahe,kapak
+168,168.,pehungki,linggis
+169,169.,hindo,ani-ani
+170,170.,penggulua,sarang parang
+171,171.,pa'a,pahat
+172,172.,kata,ketam
+173,173.,pebobe,gurdi
+174,174.,kiki,kikir
+175,VII.,Nama Mata Angin,
+176,175.,utara,utara
+177,176.,salata,selatan
+178,177.,katampuha,barat
+179,178.,mata alo,timur
+180,179.,wui lore,angin darat
+181,180.,wui tahi,angin laut
+182,VIII.,Nama Binatang,
+183,181.,boula,kerbau
+184,182.,lagiwa,rusa
+185,183.,tengka,anca
+186,184.,ahu,anjing
+187,185.,boe,babi
+188,186.,soe,kucing
+189,187.,manu,ayam
+190,188.,tadahi,burung
+191,189.,ibo,monjet
+192,190.,hulaku,musang
+193,191.,hawa,ular sawah
+194,192.,alipa,lipan
+195,193.,lantai,semut
+196,194.,karamu,nyamuk
+197,195.,dali,lalat
+198,196.,kantamba,kupu-kupu
+199,197.,katulobo,kutu busuk
+200,198.,asa-asa,cecak
+201,199.,kalia.,biawak
+202,200.,do'u,tupai
+203,201.,walehu,tikus
+204,202.,kahindoro,cacing
+205,203.,seo,katak
+206,204.,kuhe,kus-kus
+207,205.,daopa,kelelawar
+208,206.,katupee,belalang
+209,207.,kadulepe,lipan
+210,208.,kapuna,buaya
+211,209.,bantuluku,kura-kura
+212,210.,dara,kuda
+213,211.,bantiluku tali,penyu
+214,212.,ruke,sisik
+215,213.,kupi,kepiting
+216,214.,kalakia,burung hantu
+217,215.,kongka,burung elang
+218,216.,bau boe,lumba-lumba
+219,217.,koloe,nuri
+220,218.,kea,kakatua
+221,219.,goo-goo,bangau
+222,220.,dena,pipit
+223,221.,balolai,burung gereja
+224,222.,tadahi maleo,burung maleo
+225,223.,toripa,teripang
+226,224.,imbu,naga laut
+227,225.,ntolup,belut besar
+228,226.,mahapi,belut kecil
+229,227.,watu bau,tiram
+230,228.,ngkolobue,siput darat
+231,229.,ngkolobue tahi,siput laut
+232,230.,kakapu,kakap
+233,231.,bau betue,bintang laut
+234,232.,wulu beo,bulu babi
+235,233.,katupee,belalang
+236,234.,kokou,tekukur
+237,235.,kaa',burung gagak
+238,236.,npelu'u,belibis
+239,237.,titi,itik
+240,238.,kaluku,kelapa
+241,239.,taipa,mangga
+242,240.,babuno,langsat
+243,241.,duri,durian
+244,242.,sarakaya,serikaya
+245,243.,nanaga,nangka
+246,244.,loka,pisang
+247,245.,tuwu,tebu
+248,246.,pangana,pinang
+249,247.,katedo,labu
+250,248.,temu,ketimun
+251,249.,marisa,lombok
+252,250.,kadus,keladi
+253,251.,sague,sagu
+254,252.,uwi,ubi jalar
+255,253.,wikau,ketela

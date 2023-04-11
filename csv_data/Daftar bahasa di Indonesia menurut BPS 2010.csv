@@ -1,0 +1,1212 @@
+,K o d e   B P S,I S O   6 3 9 - 3,K e l o m p o k,"N a m a   b a h a s a ,   a l i a s"
+0,0001 2,ace,Aceh,Bahasa Aceh/ Acheh/ Achi
+1,0002 4,,Aceh,Bahasa Aceh Aneuk
+2,0003 6,,Aceh,Bahasa Aceh Hulu Singkil/ Singkil
+3,0004 1,,Aceh,Bahasa Aceh Jamee
+4,0005 3,,Aceh,Bahasa Aceh Kluet
+5,0006 5,,Aceh,Bahasa Aceh Pulau Banyak/ Haloban
+6,0007 0,,Aceh,Bahasa Aceh Simeleu Barat/ Sigulai/ Leukon
+7,0008 2,,Aceh,Bahasa Aceh Simeleu Tengah/ Devayan
+8,0009 4,,Aceh,Bahasa Alas
+9,0010 1,gay,Aceh,Bahasa Gajo/ Gayo
+10,0011 3,,Aceh,Bahasa Long Bano/ Simalur/ Simeuloe/ Simeulue/ Simulul
+11,0012 5,,Melayu,Bahasa Melayu Banda
+12,0013 0,,Aceh,Bahasa Sichule/ Sikhule/ Sikule/ Wali Banuah
+13,0014 2,,Aceh,Bahasa Tamiang
+14,0015 4,btz,Sumatera Utara,Bahasa Batak Alas-Kluet/ Alas-Kluet Batak
+15,0016 6,akb,Sumatera Utara,Bahasa Anakola/ Angkola/ Batak Angkola
+16,0017 1,btd,Sumatera Utara,Bahasa Batak Dairi/ Dairi/ Pakpak/ Pakpak Dairi
+17,0018 3,btx,Sumatera Utara,Bahasa Batak Karo/ Karo Batak
+18,0019 5,btm,Sumatera Utara,Bahasa Batak Mandailing/ Mandailing Batak
+19,0020 2,,Sumatera Utara,Bahasa Batak Pak-Pak
+20,0021 4,,Sumatera Utara,Bahasa Batak Pesisir
+21,0022 6,,Sumatera Utara,Bahasa Batak Samosir
+22,0023 1,bts,Sumatera Utara,Bahasa Batak Simalungun/ Simelungan Timur
+23,0024 3,bbc,Sumatera Utara,Bahasa Batak Toba/ Batta/ Toba Batak
+24,0025 5,nia,Sumatera Utara,Bahasa Batu/ Nias
+25,0026 0,,Sumatera Utara,Bahasa Kerinchi/ Kerinci/ Kinchai
+26,0027 2,,Sumatera Utara,Bahasa Mentawai/ Mentawei/ Mentawi
+27,0028 4,min,Sumatera Barat,Bahasa Minang/ Minangkabau/ Padang
+28,0029 6,,Riau,Bahasa Bagan Siapi-Api
+29,0030 3,msa,Melayu,Bahasa Melayu/ Malayu/ Melayu
+30,0031 5,,Riau,Bahasa Bakinang
+31,0032 0,,Riau,Bahasa Bonai
+32,0033 2,,Riau,Bahasa Duano
+33,0034 4,,Riau,Bahasa Kuantan
+34,0035 6,,Riau,Bahasa Lubu
+35,0036 1,,Melayu,Bahasa Melayu Riau
+36,0037 3,,Riau,Bahasa Sakai
+37,0038 5,,Riau,Bahasa Siak Sri Indrapura
+38,0039 0,,Riau,Bahasa Talang Mamak
+39,0040 4,,Jambi,Bahasa Anak Dalam/ Kubu/ Orang Hutan/ Orang Rimba
+40,0041 6,,Melayu,Bahasa Batin/ Jambi/ Melayu Jambi
+41,0042 1,,Bengkulu,Bahasa Aji/ Haji
+42,0043 3,,Bengkulu,Bahasa Banyu Asin
+43,0044 5,,Bengkulu,Bahasa Belido/ Bilide
+44,0045 0,,Melayu,Bahasa Bengkulu/ Besemah/ Lintang/ Melayu Tengah/ Ogan/ Semendo
+45,0046 2,,Bengkulu,Bahasa Col/ Cul/ Sindang
+46,0047 4,,Bengkulu,Bahasa Enim
+47,0048 6,,Bengkulu,Bahasa Kikim
+48,0049 1,,Bengkulu,Bahasa Komering/ Kumoring
+49,0050 5,,Bengkulu,Bahasa Lematang
+50,0051 0,,Melayu,Bahasa Melayu Palembang
+51,0052 2,,Bengkulu,Bahasa Musi/ Palembang/ Sekayu
+52,0053 4,,Bengkulu,Bahasa Penasak/ Penesak
+53,0054 6,,Bengkulu,Bahasa Rambang
+54,0055 1,,Bengkulu,Bahasa Ranau
+55,0056 3,,Bengkulu,Bahasa Rawas
+56,0057 5,,Bengkulu,Bahasa Saling
+57,0058 0,,Bengkulu,Bahasa Semende
+58,0059 2,,Sumatera Selatan,Bahasa Bintuhan/ Ka'ur/ Kaur/ Mulak
+59,0060 6,,Sumatera Selatan,Bahasa Enggan/ Enggano
+60,0061 1,,Sumatera Selatan,Bahasa Krui
+61,0062 3,,Sumatera Selatan,Bahasa Lambak/ Lembak
+62,0063 5,,Melayu,Bahasa Melayu Bengkulu
+63,0064 0,,Sumatera Selatan,Bahasa Muko-Muko
+64,0065 2,,Sumatera Selatan,Bahasa Pekal
+65,0066 4,,Sumatera Selatan,Bahasa Rejang
+66,0067 6,,Sumatera Selatan,Bahasa Rejang Lebong
+67,0068 1,,Sumatera Selatan,Bahasa Serawai
+68,0069 3,,Lampung,Bahasa Abung
+69,0070 0,,Lampung,Bahasa Api/ Lampong/ Lampung Api/ Lampung Pesisir
+70,0071 2,,Lampung,Bahasa Lampung
+71,0072 4,,Lampung,Bahasa Lampung Nyo
+72,0073 6,,Lampung,Bahasa Pesisir Selatan
+73,0074 1,,Bangka Belitung,Bahasa Bangka
+74,0075 3,,Bangka Belitung,Bahasa Belitong/ Belitung
+75,0076 5,,Bangka Belitung,Bahasa Lom/ Mapur
+76,0077 0,,Bangka Belitung,Bahasa Lonchong/ Loncong/ Seka/ Sekah
+77,0078 2,,Bangka Belitung,Bahasa Mentok
+78,0079 4,,Bangka Belitung,Bahasa Sekak
+79,0080 1,,Bangka Belitung,Bahasa Orang Laut
+80,0081 3,,Bangka Belitung,Bahasa Semang
+81,0082 5,bew,Melayu,Bahasa Batavi/ Batawi/ Betawi/ Melayu Betawi/ Melayu Jakarta/ Melayu Jakarte
+82,0083 0,,Jawa Barat,Bahasa Pecok/ Peco/ Pecoh
+83,0084 2,,Jawa Barat,Bahasa Cirebon
+84,0085 4,,Jawa Barat,Bahasa Dermayon/ Indramayu
+85,0086 6,sun,Jawa Barat,Bahasa Sunda
+86,0087 1,jvd,Jawa Tengah & DIY,Bahasa Javindo/ Kroncong
+87,0088 3,jav,Jawa Tengah & DIY,Bahasa Jawa
+88,0089 5,,Jawa Tengah & DIY,Bahasa Samin
+89,0090 2,,Jawa Timur,Bahasa Banyuwangi/ Osing
+90,0091 4,mad,Jawa Timur,Bahasa Mathura/ Madhura/ Madura/ Madure
+91,0092 6,,Jawa Timur,Bahasa Kangean
+92,0093 1,,Jawa Timur,Bahasa Tengger
+93,0094 3,bac,Banten,Bahasa Badui
+94,0095 5,,Banten,Bahasa Sunda Banten
+95,0096 0,ban,Bali,Bahasa Bali
+96,0097 2,,Bali,Bahasa Benkala
+97,0098 4,mhp,Melayu,Bahasa Melayu Bali
+98,0099 6,adb,Nusa Tenggara,Bahasa Adabe
+99,0100 4,,Nusa Tenggara,Bahasa Bima
+100,0101 6,,Nusa Tenggara,Bahasa Hilu Humba/ Humba/ Sumba Timur
+101,0102 1,,Nusa Tenggara,Bahasa Semawa
+102,0103 3,abz,Nusa Tenggara,Bahasa Abui/ Barawahing/ Barue/ Namatalaki
+103,0104 5,adn,Nusa Tenggara,Bahasa Adang
+104,0105 0,adr,Nusa Tenggara,Bahasa Adonara/ Sagu/ Vaiverang/ Waiwerang
+105,0106 2,,Nusa Tenggara,Bahasa Aku/ Li'o/ Lio/ Lion/ Tanah Kunu
+106,0107 4,aol,Nusa Tenggara,Bahasa Alor
+107,0108 6,aaz,Nusa Tenggara,Bahasa Amarasi/ Timor Amarasi
+108,0109 1,,Nusa Tenggara,Bahasa Amduna
+109,0110 5,akg,Nusa Tenggara,Bahasa Anakalang/ Anakalangu
+110,0111 0,,Nusa Tenggara,Bahasa Atoni/ Meto/ Orang Gunung/ Rawan/ Timol/ Timor Dawan/ Timor Uab Atoni Pah Meto/ Timoreesch/ Tim
+111,0112 2,,Nusa Tenggara,Bahasa Ba'a/ Baa/ Lole/ Loleh/ Rote Tengah/ Roti
+112,0113 4,,Nusa Tenggara,Bahasa Babar/ Wetan
+113,0114 6,,Nusa Tenggara,Bahasa Badjava/ Bajava/ Bajawa/ Nad'a/ Nga'da/ Ngad'a/ Ngada/ Ngadha/ Rokka
+114,0115 1,,Melayu,Bahasa Nagi/ Melayu Ende/ Melayu Larantuka/ Nagi
+115,0116 3,,Nusa Tenggara,Bahasa Balungada/ Nedebang/ Nedebang
+116,0117 5,mkn,Melayu,Bahasa Kupang/ Kupang/ Melayu Kupang
+117,0118 0,,Nusa Tenggara,Bahasa Belagar/ Blagar/ Tarang
+118,0119 2,,Nusa Tenggara,Bahasa Belo/ Fehan/ Teto/ Tettum/ Tetu/ Tetum/ Tetun/ Tetun Belu/ Tetung
+119,0120 6,,Nusa Tenggara,Bahasa Belubaa/ Bilba/ Bilbaa
+120,0121 1,,Nusa Tenggara,Bahasa Bunak
+121,0122 3,,Nusa Tenggara,Bahasa Damar
+122,0123 5,,Nusa Tenggara,Bahasa Damar Barat
+123,0124 0,,Nusa Tenggara,Bahasa Damar Timur
+124,0125 2,,Nusa Tenggara,Bahasa Dang/ Kdang/ Kedang/ Kedang
+125,0126 4,,Nusa Tenggara,Bahasa Dawan
+126,0127 6,,Nusa Tenggara,Bahasa Dela-Oenale/ Delha/ Oe Nale
+127,0128 1,,Nusa Tenggara,Bahasa Dengka
+128,0129 3,,Nusa Tenggara,Bahasa Dhao/ Ndaonese/ Ndaundau
+129,0130 0,,Nusa Tenggara,Bahasa Ema/ Kemak
+130,0131 2,,Nusa Tenggara,Bahasa Ende/ Endeh
+131,0132 4,,Nusa Tenggara,Bahasa Manggarai Timur/ Riung
+132,0133 6,,Nusa Tenggara,Bahasa Hamap
+133,0134 1,,Nusa Tenggara,Bahasa Havunese/ Hawu/ Sabu/ Savu
+134,0135 3,,Nusa Tenggara,Bahasa Helon/ Helong
+135,0136 5,,Nusa Tenggara,Bahasa Ile Ape/ Nusa Tadon
+136,0137 0,,Nusa Tenggara,Bahasa Kabola
+137,0138 2,,Nusa Tenggara,Bahasa Kafoa
+138,0139 4,,Nusa Tenggara,Bahasa Kalong/ Kelon/ Kelong
+139,0140 1,,Nusa Tenggara,Bahasa Kamang/ Waisika
+140,0141 3,,Nusa Tenggara,Bahasa Kambera/ Sumba
+141,0142 5,,Nusa Tenggara,Bahasa Kawela/ Lamalera/ Lebatukan/ Mulan
+142,0143 0,,Nusa Tenggara,Bahasa Ke'o
+143,0144 2,,Nusa Tenggara,Bahasa Kepo'/ Kepok
+144,0145 4,,Nusa Tenggara,Bahasa Khelong/ Semau
+145,0146 6,,Nusa Tenggara,Bahasa Kodi/ Kudi
+146,0147 1,,Nusa Tenggara,Bahasa Kolana/ Kolana-Wersin/ Warsina/ Wersin/ Wersing
+147,0148 3,,Nusa Tenggara,Bahasa Komodo
+148,0149 5,,Nusa Tenggara,Bahasa Krowe/ Maumere/ Sara Sikka/ Sika
+149,0150 2,,Nusa Tenggara,Bahasa Kui/ Lerabain
+150,0151 4,,Nusa Tenggara,Bahasa Kula/ Lamtoka/ Lantoka/ Tanglapui
+151,0152 6,,Nusa Tenggara,Bahasa Labalekan/ Lembata Barat/ Mingar
+152,0153 1,,Nusa Tenggara,Bahasa Lamaholot
+153,0154 3,,Nusa Tenggara,Bahasa Lamaholot Barat Daya/ Lewotobi
+154,0155 5,,Nusa Tenggara,Bahasa Lamatoka/ Lamatuka
+155,0156 0,,Nusa Tenggara,Bahasa Lamboya
+156,0157 2,,Nusa Tenggara,Bahasa Lamma/ Lamma'/ Lemma/ Mauta
+157,0158 4,,Nusa Tenggara,Bahasa Laora/ Laura
+158,0159 6,,Nusa Tenggara,Bahasa Lembata/ Levuka/ Lewokukun/ Lewuka/ Painara
+159,0160 3,,Nusa Tenggara,Bahasa Lembata Selatan
+160,0161 5,,Nusa Tenggara,Bahasa Letri Lagona
+161,0162 0,,Nusa Tenggara,Bahasa Lewo Eleng
+162,0163 2,,Nusa Tenggara,Bahasa Lombelu
+163,0164 4,sas,Nusa Tenggara,Bahasa Lombok/ Sasak
+164,0165 6,,Nusa Tenggara,Bahasa Lu'a/ Palu'e/ Palue/ Paluke
+165,0166 1,,Nusa Tenggara,Bahasa Makasai
+166,0167 3,,Nusa Tenggara,Bahasa Maku'a/ Pataluku
+167,0168 5,,Nusa Tenggara,Bahasa Mamboru/ Memboro
+168,0169 0,,Nusa Tenggara,Bahasa Manggarai
+169,0170 4,,Nusa Tenggara,Bahasa Mbojo
+170,0171 6,,Nusa Tenggara,Bahasa Meiwewa
+171,0172 1,,Nusa Tenggara,Bahasa Nage/ Nage/ Nage-Keo
+172,0173 3,,Nusa Tenggara,Bahasa Nasal
+173,0174 5,,Nusa Tenggara,Bahasa Ndao
+174,0175 0,,Nusa Tenggara,Bahasa Ngad'a Timur/ Ngada Tenggara
+175,0176 2,,Nusa Tenggara,Bahasa Pa'da/ Termanu
+176,0177 4,,Nusa Tenggara,Bahasa Pantar
+177,0178 6,por,Asing / Timor Leste,Bahasa Portugis
+178,0179 1,,Nusa Tenggara,Bahasa Rajong/ Razong
+179,0180 5,,Nusa Tenggara,Bahasa Rembong
+180,0181 0,,Nusa Tenggara,Bahasa Retta
+181,0182 2,,Nusa Tenggara,Bahasa Rikou/ Ringgou/ Rote Barat/ Rote Timur/ Rotinese
+182,0183 4,,Nusa Tenggara,Bahasa Rongga
+183,0184 6,,Nusa Tenggara,Bahasa Rote
+184,0185 1,,Nusa Tenggara,Bahasa Samawa
+185,0186 3,,Nusa Tenggara,Bahasa Sawila
+186,0187 5,,Nusa Tenggara,Bahasa Sikka
+187,0188 0,,Nusa Tenggara,Bahasa So'a/ Soa
+188,0189 2,,Nusa Tenggara,Bahasa Sumba Barat/ Veveva/ Waidjewa/ Wajewa/ Wejewa/ Wewewa/ Wewjewa/ Weyewa
+189,0190 6,,Nusa Tenggara,Bahasa Sumbawa
+190,0191 1,,Nusa Tenggara,Bahasa Tereweng
+191,0192 3,,Nusa Tenggara,Bahasa Tewa
+192,0193 5,,Nusa Tenggara,Bahasa Thie/ Ti/ Tii
+193,0194 0,,Nusa Tenggara,Bahasa Wae Rana/ Waerana
+194,0195 2,,Nusa Tenggara,Bahasa Wanokaka/ Wanukaka
+195,0196 4,,Nusa Tenggara,Bahasa Wetar
+196,0197 6,,Nusa Tenggara,Bahasa Woisika
+197,0198 1,,Nusa Tenggara,Bahasa Yatun
+198,0199 3,,Kalimantan,Bahasa Abon/ Kubitn
+199,0200 1,,Kalimantan,Bahasa Air Durian
+200,0201 3,,Kalimantan,Bahasa Air Upas
+201,0202 5,,Kalimantan,Bahasa Apo Duat/ Kalabit/ Kelabit/ Kerabit
+202,0203 0,,Kalimantan,Bahasa Ba'ahe/ Banana'
+203,0204 2,,Kalimantan,Bahasa Ba'aje'/ Rantawan
+204,0205 4,,Kalimantan,Bahasa Baaje'
+205,0206 6,,Kalimantan,Bahasa Baampape/ Banyuke
+206,0207 1,,Kalimantan,Bahasa Badamea
+207,0208 3,,Kalimantan,Bahasa Badat
+208,0209 5,,Kalimantan,Bahasa Badeneh/ Bubung
+209,0210 2,,Dayak,Bahasa Baicit/ Damea/ Kendayan/ Dayak Kendayan/ Kendayan-Ambawang
+210,0211 4,,Kalimantan,Bahasa Bakambai
+211,0212 6,,Kalimantan,Bahasa Bakati Nyam/ Bakati Riok/ Bakati'/ Bakatik/ Bekati
+212,0213 1,,Kalimantan,Bahasa Bakati' Rara/ Bekati' Kendayan/ Bekati' Nyam-Pelayo/ Bekatik/ Lara'/ Luru
+213,0214 3,,Kalimantan,Bahasa Bakati' Sara/ Riok/ Sara
+214,0215 5,,Kalimantan,Bahasa Balangitn
+215,0216 0,,Kalimantan,Bahasa Balantian/ Balantiang/ Benyadu'/ Nyadu
+216,0217 2,,Kalimantan,Bahasa Balantiatn
+217,0218 4,,Kalimantan,Bahasa Bamak/ Selibong
+218,0219 6,,Kalimantan,Bahasa Bangae' Moro
+219,0220 3,,Kalimantan,Bahasa Banyadu'
+220,0221 5,,Kalimantan,Bahasa Banyur
+221,0222 0,,Kalimantan,Bahasa Barai/ Bekotu' Bekoya'
+222,0223 2,,Kalimantan,Bahasa Batu Entawa'
+223,0224 4,,Kalimantan,Bahasa Batu Payung
+224,0225 6,,Kalimantan,Bahasa Batu Tajam
+225,0226 1,,Kalimantan,Bahasa Baya
+226,0227 3,,Kalimantan,Bahasa Beabon-abon
+227,0228 5,,Kalimantan,Bahasa Beapay-apay
+228,0229 0,,Kalimantan,Bahasa Beape-ape/ Ella
+229,0230 4,,Kalimantan,Bahasa Beginci
+230,0231 6,,Kalimantan,Bahasa Bekay/ Keneles
+231,0232 1,,Kalimantan,Bahasa Belaban
+232,0233 3,,Kalimantan,Bahasa Benadai
+233,0234 5,iba,Kalimantan,Bahasa Benaday/ Iban
+234,0235 0,,Kalimantan,Bahasa Benatu
+235,0236 2,,Kalimantan,Bahasa Benawas
+236,0237 4,,Kalimantan,Bahasa Benyupm/ Cempede
+237,0238 6,,Kalimantan,Bahasa Bi Somu
+238,0239 1,,Kalimantan,Bahasa Bidoi'/ Jagoi
+239,0240 5,,Kalimantan,Bahasa Bihak
+240,0241 0,,Kalimantan,Bahasa Bukat
+241,0242 2,,Kalimantan,Bahasa Buket
+242,0243 4,,Kalimantan,Bahasa Butok
+243,0244 6,,Kalimantan,Bahasa Cihie
+244,0245 1,,Kalimantan,Bahasa Daro'
+245,0246 3,,Dayak,Bahasa Dayak Kaninjal/ Kaninjal/ Dayak Kaninjal/ Keninjal
+246,0247 5,,Dayak,Bahasa Dayak Laut/ Heban
+247,0248 0,,Dayak,Bahasa Dayak Taman/ Taman/ Taman Dayak
+248,0249 2,,Kalimantan,Bahasa Desa
+249,0250 6,,Kalimantan,Bahasa Dohoi
+250,0251 1,,Kalimantan,Bahasa Dosatn
+251,0252 3,,Kalimantan,Bahasa Dsa
+252,0253 5,,Kalimantan,Bahasa Ensilat
+253,0254 0,,Kalimantan,Bahasa Entebang
+254,0255 2,,Kalimantan,Bahasa Gerai
+255,0256 4,,Kalimantan,Bahasa Gerunggang
+256,0257 6,,Kalimantan,Bahasa Golik
+257,0258 1,,Kalimantan,Bahasa Gun
+258,0259 3,,Kalimantan,Bahasa Hibun
+259,0260 0,,Kalimantan,Bahasa Hovongan/ Punan Bungan
+260,0261 2,,Kalimantan,Bahasa Inggar Silat
+261,0262 4,,Kalimantan,Bahasa Jangkang
+262,0263 6,,Kalimantan,Bahasa Jawatn
+263,0264 1,,Kalimantan,Bahasa Kalis
+264,0265 3,,Kalimantan,Bahasa Kancikng
+265,0266 5,,Kalimantan,Bahasa Kantu'
+266,0267 0,,Kalimantan,Bahasa Karambai/ Kembayan
+267,0268 2,,Kalimantan,Bahasa Kayaan
+268,0269 4,,Kalimantan,Bahasa Kayan Mendalam/ Mendalam Kajan
+269,0270 1,,Kalimantan,Bahasa Kayong
+270,0271 3,,Kalimantan,Bahasa Kebuai
+271,0272 5,,Kalimantan,Bahasa Kekura'
+272,0273 0,,Kalimantan,Bahasa Keluas
+273,0274 2,,Kalimantan,Bahasa Kengkubang
+274,0275 4,,Kalimantan,Bahasa Kenyilu
+275,0276 6,,Kalimantan,Bahasa Kepuas
+276,0277 1,,Kalimantan,Bahasa Kerabat
+277,0278 3,,Kalimantan,Bahasa Keramay
+278,0279 5,,Kalimantan,Bahasa Ketior
+279,0280 2,,Kalimantan,Bahasa Ketungau Sesae'
+280,0281 4,,Kalimantan,Bahasa Kodatn
+281,0282 6,,Kalimantan,Bahasa Koman
+282,0283 1,,Kalimantan,Bahasa Kowotn
+283,0284 3,,Kalimantan,Bahasa Krio
+284,0285 5,,Kalimantan,Bahasa Kualatn
+285,0286 0,,Kalimantan,Bahasa Lamantawa
+286,0287 2,,Kalimantan,Bahasa Lau'
+287,0288 4,,Kalimantan,Bahasa Laur
+288,0289 6,,Kalimantan,Bahasa Laya
+289,0290 3,,Kalimantan,Bahasa Lemandau
+290,0291 5,,Kalimantan,Bahasa Liboy
+291,0292 0,,Kalimantan,Bahasa Limbai
+292,0293 2,,Kalimantan,Bahasa Linoh
+293,0294 4,,Kalimantan,Bahasa Mahap
+294,0295 6,,Kalimantan,Bahasa Mali
+295,0296 1,,Kalimantan,Bahasa Mayan
+296,0297 3,,Kalimantan,Bahasa Mayau
+297,0298 5,,Kalimantan,Bahasa Melahoi
+298,0299 0,,Kalimantan,Bahasa Membulu'
+299,0300 5,,Kalimantan,Bahasa Menggaling
+300,0301 0,,Kalimantan,Bahasa Mentebah
+301,0302 2,,Kalimantan,Bahasa Menterap Kabut
+302,0303 4,,Kalimantan,Bahasa Menterap Sekado
+303,0304 6,,Kalimantan,Bahasa Mentuka'
+304,0305 1,,Kalimantan,Bahasa Mualang
+305,0306 3,,Kalimantan,Bahasa Muara
+306,0307 5,,Kalimantan,Bahasa Mudu'
+307,0308 0,,Kalimantan,Bahasa Nado/ Nto
+308,0309 2,,Kalimantan,Bahasa Nahaya'
+309,0310 6,,Kalimantan,Bahasa Oruung Da'an
+310,0311 1,,Kalimantan,Bahasa Pangin
+311,0312 3,,Kalimantan,Bahasa Pangkalan Suka
+312,0313 5,,Kalimantan,Bahasa Pantau Bamak
+313,0314 0,,Kalimantan,Bahasa Panu
+314,0315 2,,Kalimantan,Bahasa Paus
+315,0316 4,,Kalimantan,Bahasa Pawatn
+316,0317 6,,Kalimantan,Bahasa Pelanjau
+317,0318 1,,Kalimantan,Bahasa Penyarang
+318,0319 3,,Kalimantan,Bahasa Perigi
+319,0320 0,,Kalimantan,Bahasa Pesaguan Hulu
+320,0321 2,,Kalimantan,Bahasa Pesaguan Kanan
+321,0322 4,,Kalimantan,Bahasa Pompakng
+322,0323 6,,Kalimantan,Bahasa Pringkunyit
+323,0324 1,,Kalimantan,Bahasa Pruwan
+324,0325 3,,Kalimantan,Bahasa Punan
+325,0326 5,,Kalimantan,Bahasa Punti
+326,0327 0,,Kalimantan,Bahasa Randau Joka'
+327,0328 2,,Kalimantan,Bahasa Randu'
+328,0329 4,,Kalimantan,Bahasa Ransa
+329,0330 1,,Kalimantan,Bahasa Rembay
+330,0331 3,,Kalimantan,Bahasa Riam
+331,0332 5,,Kalimantan,Bahasa Ribun
+332,0333 0,,Kalimantan,Bahasa Sajan
+333,0334 2,,Kalimantan,Bahasa Salako
+334,0335 4,,Kalimantan,Bahasa Sami
+335,0336 6,,Kalimantan,Bahasa Sane
+336,0337 1,,Kalimantan,Bahasa Sanggau
+337,0338 3,,Kalimantan,Bahasa Sangku'
+338,0339 5,,Kalimantan,Bahasa Sapatoi
+339,0340 2,,Dayak,Bahasa Dayak Laut
+340,0341 4,,Kalimantan,Bahasa Sebaru'
+341,0342 6,,Kalimantan,Bahasa Seberuang
+342,0343 1,,Kalimantan,Bahasa Sekajang
+343,0344 3,,Kalimantan,Bahasa Sekakai
+344,0345 5,,Kalimantan,Bahasa Sekapat
+345,0346 0,,Kalimantan,Bahasa Sekubang
+346,0347 2,,Kalimantan,Bahasa Sekujam
+347,0348 4,,Kalimantan,Bahasa Selawe
+348,0349 6,,Kalimantan,Bahasa Semanakng
+349,0350 3,,Kalimantan,Bahasa Sempadian
+350,0351 5,,Kalimantan,Bahasa Senangkatn
+351,0352 0,,Kalimantan,Bahasa Senduruhan
+352,0353 2,,Kalimantan,Bahasa Sepauhan
+353,0354 4,,Kalimantan,Bahasa Sikukng
+354,0355 6,,Kalimantan,Bahasa Silatn Muntak
+355,0356 1,,Kalimantan,Bahasa Sisang
+356,0357 3,,Kalimantan,Bahasa Sontas
+357,0358 5,,Kalimantan,Bahasa Suaid
+358,0359 0,,Kalimantan,Bahasa Suka Maju
+359,0360 4,,Kalimantan,Bahasa Sum
+360,0361 6,,Kalimantan,Bahasa Sumanjawat
+361,0362 1,,Kalimantan,Bahasa Suru' ilir
+362,0363 3,,Kalimantan,Bahasa Suru' Ulu
+363,0364 5,,Kalimantan,Bahasa Suruh
+364,0365 0,,Kalimantan,Bahasa Suti Bamayo
+365,0366 2,,Kalimantan,Bahasa Taba
+366,0367 4,,Kalimantan,Bahasa Tadietn
+367,0368 6,,Kalimantan,Bahasa Talaga-Ngabukit
+368,0369 1,,Kalimantan,Bahasa Tamambalo
+369,0370 5,,Kalimantan,Bahasa Taman Sekado
+370,0371 0,,Kalimantan,Bahasa Tameng
+371,0372 2,,Kalimantan,Bahasa Tanjung
+372,0373 4,,Kalimantan,Bahasa Tawaek
+373,0374 6,,Kalimantan,Bahasa Tebang/ Tobak
+374,0375 1,,Kalimantan,Bahasa Tembiruhan
+375,0376 3,,Kalimantan,Bahasa Tengon
+376,0377 5,,Kalimantan,Bahasa Tinying
+377,0378 0,,Kalimantan,Bahasa Tola'
+378,0379 2,,Kalimantan,Bahasa Ulu Sekado
+379,0380 6,,Kalimantan,Bahasa Undau
+380,0381 1,,Kalimantan,Bahasa Seruyan/ Kohin/ Seruyan
+381,0382 3,,Kalimantan,Bahasa Bakau/ Paku
+382,0383 5,,Kalimantan,Bahasa Bakumpai/ Bara-Jida
+383,0384 0,,Kalimantan,Bahasa Balai
+384,0385 2,bjn,Melayu,Bahasa Banjar/ Labuhan/ Melayu Banjar
+385,0386 4,,Kalimantan,Bahasa Barito
+386,0387 6,,Dayak,Bahasa Barito Barat Daya/ Biadju/ Ngaju/ Ngaja/ Dayak Ngaju
+387,0388 1,,Kalimantan,Bahasa Barito Utara/ Lawangan/ Luwangan
+388,0389 3,,Kalimantan,Bahasa Bayan
+389,0390 0,,Kalimantan,Bahasa Bulik
+390,0391 2,,Dayak,Bahasa Dayak Bara Injey
+391,0392 4,,Dayak,Bahasa Dayak Dohoi/ Siang
+392,0393 6,,Dayak,Bahasa Dayak Dusun
+393,0394 1,,Dayak,Bahasa Dayak Katingan/ Ngaju
+394,0395 3,,Dayak,Bahasa Dayak Manyan
+395,0396 5,,Dayak,Bahasa Dayak Ngaju
+396,0397 0,,Kalimantan,Bahasa Dusun Barean
+397,0398 2,,Kalimantan,Bahasa Dusun Bayan
+398,0399 4,,Kalimantan,Bahasa Dusun Kalahien
+399,0400 2,,Kalimantan,Bahasa Dusun Lawanngan
+400,0401 4,,Kalimantan,Bahasa Dusun Malang
+401,0402 6,,Kalimantan,Bahasa Dusun Tawongan
+402,0403 1,,Kalimantan,Bahasa Dusun Witu
+403,0404 3,,Kalimantan,Bahasa Kadoreh
+404,0405 5,,Kalimantan,Bahasa Katingan
+405,0406 0,,Kalimantan,Bahasa Kotawaringin
+406,0407 2,,Kalimantan,Bahasa Malahoi/ Ot Danum/ Uud Danum/ Uut Danum
+407,0408 4,,Kalimantan,Bahasa Manyan
+408,0409 6,,Kalimantan,Bahasa Mbalok
+409,0410 3,,Melayu,Bahasa Melayu Dayak
+410,0411 5,,Kalimantan,Bahasa Mendawai
+411,0412 0,,Kalimantan,Bahasa Mentaya
+412,0413 2,,Kalimantan,Bahasa Pembuang
+413,0414 4,,Kalimantan,Bahasa Punan Merap
+414,0415 6,,Kalimantan,Bahasa Rejang Baram
+415,0416 1,,Kalimantan,Bahasa Rejang Hilir
+416,0417 3,,Kalimantan,Bahasa Sampit
+417,0418 5,,Dayak,Bahasa Tabojan/ Tabojan Tongka/ Tabuyan/ Tawoyan/ Dayak Tawoyan/ Tewoyan
+418,0419 0,,Kalimantan,Bahasa Taboyan
+419,0420 4,,Kalimantan,Bahasa Tamuan
+420,0421 6,,Kalimantan,Bahasa Waringin
+421,0422 1,,Kalimantan,Bahasa Ampang
+422,0423 3,,Kalimantan,Bahasa Deah/ Dejah/ Dusun Deyah
+423,0424 5,,Kalimantan,Bahasa Ampanang
+424,0425 0,,Kalimantan,Bahasa Aoheng/ Penihing
+425,0426 2,,Kalimantan,Bahasa Aput/ Punan Aput
+426,0427 4,,Kalimantan,Bahasa Sama-Bajau
+427,0428 6,,Dayak,Bahasa Bahau/ Dayak Kenyah
+428,0429 1,,Kalimantan,Bahasa Bamayo/ Bumayoh
+429,0430 5,,Kalimantan,Bahasa Basap
+430,0431 0,,Kalimantan,Bahasa Berau
+431,0432 2,,Kalimantan,Bahasa Berusuh/ Bulusu/ Burusu
+432,0433 4,,Kalimantan,Bahasa Bolongan
+433,0434 6,,Melayu,Bahasa Bukit/ Melayu Bukit/ Meratus
+434,0435 1,,Kalimantan,Bahasa Bulungan
+435,0436 3,,Kalimantan,Bahasa Busang/ Kajan/ Kayan Busang
+436,0437 5,,Kalimantan,Bahasa Segayi/ Ga'ay/ Segai
+437,0438 0,,Kalimantan,Bahasa Camucones/ Tedong/ Tidoeng/ Tidong/ Tiran/ Tirones/ Tiroon/ Zedong
+438,0439 2,,Dayak,Bahasa Dayak Bakau
+439,0440 6,,Dayak,Bahasa Dayak Darat/ Dayak Klemautan
+440,0441 1,,Dayak,Bahasa Dayak Murut
+441,0442 3,,Dayak,Bahasa Dayak Punan
+442,0443 5,,Kalimantan,Bahasa Dayic
+443,0444 0,,Kalimantan,Bahasa Joloano Sulu/ Moro Joloano/ Sooloo/ Sulu/ Suluk/ Taosug/ Tausog/ Tausug/ Taw Sug
+444,0445 2,,Kalimantan,Bahasa Kayan
+445,0446 4,,Kalimantan,Bahasa Kayan Kayan River/ Kayan River Kajan
+446,0447 6,,Kalimantan,Bahasa Kayan Mahakam
+447,0448 1,,Kalimantan,Bahasa Kayan Sungai Kayan
+448,0449 3,,Kalimantan,Bahasa Kayan Wahau/ Wahau Kajan
+449,0450 0,,Kalimantan,Bahasa Kenyah/ Kenyah Tanah Tinggi/ Usun Apau Kenyah
+450,0451 2,,Kalimantan,Bahasa Kenyah Barat/ Uma' Lasan
+451,0452 4,,Kalimantan,Bahasa Kenyah Wahau/ Lebu' Kulit/ Wahau Kenya
+452,0453 6,,Kalimantan,Bahasa Kereho/ Keriau Punan
+453,0454 1,,Kalimantan,Bahasa Kolod/ Kolour/ Kolur/ Okolod/ Okolod Murut
+454,0455 3,,Kalimantan,Bahasa Kutai
+455,0456 5,,Kalimantan,Bahasa Lengilu
+456,0457 0,,Kalimantan,Bahasa Lun Bawang/ Lun Daya/ Lun Dayah/ Lun Daye/ Lun Dayoh/ Lundaya Putuk/ Murut Selatan
+457,0458 2,,Kalimantan,Bahasa Lundayeh
+458,0459 4,,Melayu,Bahasa Melayu Berau/ Melayu Merau
+459,0460 1,,Melayu,Bahasa Melayu Kota Bangun Kutai
+460,0461 3,,Melayu,Bahasa Melayu Tenggarong Kutai/ Tenggarong
+461,0462 5,,Kalimantan,Bahasa Merap
+462,0463 0,,Kalimantan,Bahasa Merau/ Sa'ban/ Saban
+463,0464 2,,Kalimantan,Bahasa Milano
+464,0465 4,,Kalimantan,Bahasa Modang
+465,0466 6,,Kalimantan,Bahasa Murut Sembakung
+466,0467 1,,Kalimantan,Bahasa Oma Longh/ Uma' Lung
+467,0468 3,,Kalimantan,Bahasa Punan Tubu
+468,0469 5,,Kalimantan,Bahasa Putoh/ Putuk
+469,0470 2,,Kalimantan,Bahasa Sajau/ Sajau Basap/ Sujau
+470,0471 4,,Kalimantan,Bahasa Selungai Murut
+471,0472 6,,Kalimantan,Bahasa Sembakung Murut
+472,0473 1,,Kalimantan,Bahasa Tagol
+473,0474 3,,Kalimantan,Bahasa Tidung
+474,0475 5,,Dayak,Bahasa Tunjung/ Dayak Tunjung
+475,0476 0,,Kalimantan,Bahasa Uheng Kereho
+476,0477 2,,Kalimantan,Bahasa Bakatan/ Bakitan/ Beketan/ Bukitan/ Mangkettan/ Manketa/ Pakatan
+477,0478 4,,Kalimantan,Bahasa Biatah/ Bidayuh Biatah/ Bideyu/ Landu/ Lundu/ Pueh/ Siburan
+478,0479 6,,Kalimantan,Bahasa Bidayuh Bukar-Sadong/ Buka/ Bukar/ Bukar Sadong/ Bukar Sadung Bidayah/ Sabutan/ Sadong/ Serian/
+479,0480 3,,Dayak,Bahasa Dayak Ahe
+480,0481 5,,Kalimantan,Bahasa Embaloh/ Malo/ Maloh/ Matoh/ Mbaloh/ Memaloh/ Palin/ Pari/ Sangau
+481,0482 0,,Kalimantan,Bahasa Kualan-Semandang/ Semandang
+482,0483 2,,Dayak,Bahasa Ma'anyan/ Dayak Maanyak
+483,0484 4,,Kalimantan,Bahasa Ot Siang
+484,0485 6,,Kalimantan,Bahasa Semambu/ Semembu/ Sumambu/ Sumambuk/ Sumambu-Tagal/ Tagal Murut
+485,0486 1,,Sulawesi,Bahasa Bantik
+486,0487 3,,Sulawesi,Bahasa Bentenan/ Pasan/ Ratahan
+487,0488 5,,Sulawesi,Bahasa Bola'ang-Mongondow/ Bolaang Mongondow/ Minahassa/ Mongondou/ Mongondow
+488,0489 0,,Sulawesi,Bahasa Lolak
+489,0490 4,,Melayu,Bahasa Melayu Manado
+490,0491 6,,Sulawesi,Bahasa Minahasa
+491,0492 1,,Sulawesi,Bahasa Minhasa/ Tombalu/ Tombula/ Tombulu/ Tombulu'/ Toumbulu
+492,0493 3,,Sulawesi,Bahasa Pakewa/ Tontemboan/ Tountemboan
+493,0494 5,,Sulawesi,Bahasa Ponasakan/ Ponosakan
+494,0495 0,,Sulawesi,Bahasa Sangi/ Sangih/ Sangihe/ Sangir
+495,0496 2,,Sulawesi,Bahasa Talaud/ Talaut/ Talodda
+496,0497 4,,Sulawesi,Bahasa Tolou/ Tolour/ Tondano/ Tondanou/ Toulour
+497,0498 6,,Sulawesi,Bahasa Tombatu
+498,0499 1,,Sulawesi,Bahasa Tompakewa
+499,0500 6,,Sulawesi,Bahasa Tonsawang
+500,0501 1,,Sulawesi,Bahasa Tonsea/ Tonsea'
+501,0502 3,,Sulawesi,Bahasa Tontembun
+502,0503 5,,Sulawesi,Bahasa Adjio/ Ta'adjio/ Tadjio/ Tajio
+503,0504 0,,Sulawesi,Bahasa Ampibabo-Lauje/ Laudje
+504,0505 2,,Sulawesi,Bahasa Andio/ Andio'o/ Imbao'o/ Masama
+505,0506 4,,Sulawesi,Bahasa Bada/ Tobada
+506,0507 6,,Sulawesi,Bahasa Bada'/ Tobada'
+507,0508 1,,Sulawesi,Bahasa Baha/ Batui
+508,0509 3,,Sulawesi,Bahasa Bahonsuai
+509,0510 0,,Sulawesi,Bahasa Balaesan/ Balaesang/ Balaisang/ Pajo
+510,0511 2,,Sulawesi,Bahasa Balantak/ Kosian
+511,0512 4,,Sulawesi,Bahasa Banava/ Banawa/ Kaili Unde
+512,0513 6,,Sulawesi,Bahasa Banggai
+513,0514 1,,Sulawesi,Bahasa Bare'e/ Baree
+514,0515 3,,Sulawesi,Bahasa Baria/ Bela/ Belala/ Mbelala/ Tombelala
+515,0516 5,bep,Sulawesi,Bahasa Behoa/ Besoa
+516,0517 0,,Sulawesi,Bahasa Bobongko
+517,0518 2,,Sulawesi,Bahasa Bolano
+518,0519 4,,Sulawesi,Bahasa Bual/ Buol/ Bwo'ol/ Bwool/ Dia
+519,0520 1,,Sulawesi,Bahasa Bunggu/ Da'a/ Kaili Da'a
+520,0521 3,,Sulawesi,Bahasa Bungku
+521,0522 5,,Sulawesi,Bahasa Dampal
+522,0523 0,,Sulawesi,Bahasa Dampelas/ Dampelasa/ Dian
+523,0524 2,,Sulawesi,Bahasa Dondo/ Toli-Toli
+524,0525 4,,Sulawesi,Bahasa Gage/ Tolitoli/ Tontoli/ Totoli
+525,0526 6,,Sulawesi,Bahasa Kaili
+526,0527 1,,Sulawesi,Bahasa Kaili Ledo/ Ledo/ Paloesch/ Palu
+527,0528 3,,Sulawesi,Bahasa Kasimbar
+528,0529 5,,Sulawesi,Bahasa Koro/ Oema/ Pipikoro/ Uma
+529,0530 2,,Sulawesi,Bahasa Koroni
+530,0531 4,,Sulawesi,Bahasa Kulawi/ Momabu
+531,0532 6,,Sulawesi,Bahasa Lauje/ Tinombo
+532,0533 1,,Sulawesi,Bahasa Lindu/ Linduan/ Tado
+533,0534 3,,Sulawesi,Bahasa Loinang/ Loindang/ Madi/ Mondono/ Saluan
+534,0535 5,,Sulawesi,Bahasa Moma
+535,0536 0,,Sulawesi,Bahasa Mori
+536,0537 2,,Sulawesi,Bahasa Mori Atas/ Mori Barat
+537,0538 4,,Sulawesi,Bahasa Mori Bawah/ Mori Timur
+538,0539 6,,Sulawesi,Bahasa Mouton/ Tiadje/ Tialo/ Tomini
+539,0540 3,npy,Sulawesi,Bahasa Napu/ Pekurehua
+540,0541 5,,Sulawesi,Bahasa Ndaoe/ Ndau/ Pendau/ Umalasa
+541,0542 0,,Sulawesi,Bahasa Pamona/ Poso
+542,0543 2,,Sulawesi,Bahasa Petapa/ Taje
+543,0544 4,,Sulawesi,Bahasa Sedoa/ Tawaelia/ Tawailia/ Topobaria
+544,0545 6,,Sulawesi,Bahasa Tomadino
+545,0546 1,,Sulawesi,Bahasa Alalao/ Mori Selatan/ Padoe/ Padoe
+546,0547 3,,Sulawesi,Bahasa Andian/ Mandar/ Mandhar/ Manjar
+547,0548 5,,Sulawesi,Bahasa Bada' Besona
+548,0549 0,,Sulawesi,Bahasa Baebunta/ Lemolang/ Limola
+549,0550 4,,Sulawesi,Bahasa Barang-Barang/ Da'ang/ Laiyolo
+550,0551 6,,Sulawesi,Bahasa Baras
+551,0552 1,,Sulawesi,Bahasa Bentong/ Dentong
+552,0553 3,,Sulawesi,Bahasa Budong-Budong/ Tangkou/ Tongkou
+553,0554 5,bug,Sulawesi,Bahasa Bugi/ Bugis/ De'/ Rappang Bugi/ Ugi
+554,0555 0,,Sulawesi,Bahasa Duri
+555,0556 2,,Sulawesi,Bahasa Endekan/ Endekan Timur/ Enrekang
+556,0557 4,mak,Sulawesi,Bahasa Goa/ Makasar/ Makassa/ Makassar/ Mangasara/ Mengkasara/ Taena/ Tena
+557,0558 6,,Sulawesi,Bahasa Ha'uwa/ Leboni/ Rampi/ Rampi-Leboni
+558,0559 1,,Sulawesi,Bahasa Kajang/ Konjo
+559,0560 5,,Sulawesi,Bahasa Kondjo/ Konjo Pesisir/ Tiro
+560,0561 0,,Sulawesi,Bahasa Konjo Pantai
+561,0562 2,,Sulawesi,Bahasa Konjo Pegunungan/ Konjo Tanah Tinggi/ Konyo
+562,0563 4,,Sulawesi,Bahasa Luwu
+563,0564 6,,Sulawesi,Bahasa Luwu'/ Toala/ Toala'/ Toala-Palili
+564,0565 1,,Sulawesi,Bahasa Maiwa/ Masenrempulu
+565,0566 3,,Sulawesi,Bahasa Malimpung
+566,0567 5,,Sulawesi,Bahasa Massenrempulu
+567,0568 0,mfp,Melayu,Bahasa Melayu Makassar
+568,0569 2,,Melayu,Bahasa Melayu Minahasa
+569,0570 6,,Sulawesi,Bahasa Palopo
+570,0571 1,,Sulawesi,Bahasa Pattinjo
+571,0572 3,,Sulawesi,Bahasa Pewanean/ Pewaneang/ Pohoneang/ Seko Tengah
+572,0573 5,,Sulawesi,Bahasa Pilpikoro
+573,0574 0,,Sulawesi,Bahasa Pitu
+574,0575 2,,Sulawesi,Bahasa Rongkong/ Rongkong Kanandede/ Sada/ Sangangalla'/ Tae'/ Tae' Tae'/ Taek/ To Rongkong/ Toraja Tim
+575,0576 4,,Sulawesi,Bahasa Sa'adan
+576,0577 6,,Sulawesi,Bahasa Sa'dan/ Sadan/ Sadang/ Toraja Selatan/ Ta'e/ Toraja/ Toraja-Sa'dan
+577,0578 1,,Sulawesi,Bahasa Salajar/ Salayar/ Salayer/ Saleier/ Selayar/ Siladja/ Silajara
+578,0579 3,,Sulawesi,Bahasa Salu
+579,0580 0,,Sulawesi,Bahasa Seko
+580,0581 2,,Sulawesi,Bahasa Seko Padang/ Sua Tu Padang/ Wono
+581,0582 4,,Sulawesi,Bahasa Tombo
+582,0583 6,,Sulawesi,Bahasa Uluna
+583,0584 1,,Sulawesi,Bahasa Wotu
+584,0585 3,,Sulawesi,Bahasa Akido/ Pancana/ Pantjana
+585,0586 5,,Sulawesi,Bahasa Badjaw/ Badjo/ Bajao/ Bajau Indonesian/ Bajo/ Bayo/ Gaj/ Luaan/ Lutaos/ Lutayaos/ Sama/ Turije'ne'
+586,0587 0,,Sulawesi,Bahasa Bajau
+587,0588 2,,Sulawesi,Bahasa Baruta
+588,0589 4,,Sulawesi,Bahasa Baubau/ Wolio
+589,0590 1,,Sulawesi,Bahasa Boetoneezen/ Buton Selatan/ Butonese/ Butung selatan/ Cia-Cia
+590,0591 3,,Sulawesi,Bahasa Bonerate
+591,0592 5,,Sulawesi,Bahasa Bosoa/ Busoa
+592,0593 0,,Sulawesi,Bahasa Buton
+593,0594 2,,Sulawesi,Bahasa Butung
+594,0595 4,,Sulawesi,Bahasa Kaimbulawa
+595,0596 6,,Sulawesi,Bahasa Kalaotoa
+596,0597 1,,Sulawesi,Bahasa Kalisusu/ Kolensusu/ Kolinsusu/ Kulisusu
+597,0598 3,,Sulawesi,Bahasa Kamaru
+598,0599 5,,Sulawesi,Bahasa Kambowa
+599,0600 3,,Sulawesi,Bahasa Karompa
+600,0601 5,,Sulawesi,Bahasa Kioko
+601,0602 0,,Sulawesi,Bahasa Kodeoha/ Kondeha
+602,0603 2,,Sulawesi,Bahasa Kumbewaha/ Umbewaha
+603,0604 4,,Sulawesi,Bahasa Laki/ Lolaki/ To'olaki/ Tokia/ Tolaki/ Tololaki
+604,0605 6,,Sulawesi,Bahasa Lasalimu
+605,0606 1,,Sulawesi,Bahasa Layolo
+606,0607 3,,Sulawesi,Bahasa Liabuku
+607,0608 5,,Sulawesi,Bahasa Mapute/ Mopute/ Waru
+608,0609 0,,Sulawesi,Bahasa Maronene/ Moronene/ Nahina
+609,0610 4,,Sulawesi,Bahasa Mekongga
+610,0611 6,,Sulawesi,Bahasa Muna
+611,0612 1,,Sulawesi,Bahasa Noihe/ Rahambuu/ Wiaoe/ Wiau
+612,0613 3,,Sulawesi,Bahasa Taloki/ Taluki
+613,0614 5,,Sulawesi,Bahasa Todanga
+614,0615 0,,Sulawesi,Bahasa Tukang Besi
+615,0616 2,,Sulawesi,Bahasa Wawonii/ Wowonii
+616,0617 4,,Sulawesi,Bahasa Bintauna
+617,0618 6,,Sulawesi,Bahasa Bolango/ Bulanga-Uki/ Diu
+618,0619 1,,Sulawesi,Bahasa Bonda/ Bunda/ Bune/ Suwawa/ Suwawa-Bunda
+619,0620 5,,Sulawesi,Bahasa Bulanga
+620,0621 0,,Sulawesi,Bahasa Dio/ Kaidipan/ Kaidipang/ Kodipang
+621,0622 2,gor,Sulawesi,Bahasa Gorongtalo/ Gorontalo/ Guarantala/ Gunongtello/ Holontalo/ Hulontalo
+622,0623 4,,Sulawesi,Bahasa Aralle/ Mambi/ Tabulahan
+623,0624 6,,Sulawesi,Bahasa Awo-Sumakuyu/ Botteng-Tappalang/ Kado/ Oeloemanda/ Tubbi/ Ulumanda'/ Ulumandak/ Ulunda
+624,0625 1,,Sulawesi,Bahasa Bambam/ Pitu Ulunna Salu
+625,0626 3,,Sulawesi,Bahasa Bambang
+626,0627 5,,Sulawesi,Bahasa Campalagian/ Tallumpanuae/ Tasing
+627,0628 0,,Sulawesi,Bahasa Dakka
+628,0629 2,,Sulawesi,Bahasa Doda'/ Sarudu
+629,0630 6,,Sulawesi,Bahasa Galumpang/ Kalumpang/ Ma'ki/ Maki/ Mangki/ Mangkir
+630,0631 1,,Sulawesi,Bahasa Makki
+631,0632 3,,Sulawesi,Bahasa Mamasa
+632,0633 5,,Sulawesi,Bahasa Mamoedjoe/ Mamoedjoesch/ Mamudju/ Mamuju/ Udai
+633,0634 0,,Sulawesi,Bahasa Pakkado
+634,0635 2,,Sulawesi,Bahasa Panasuan/ To Pamosean/ To Panasean
+635,0636 4,,Sulawesi,Bahasa Pannei/ Tapango
+636,0637 6,,Sulawesi,Bahasa Pitu-Ulunna-Salu
+637,0638 1,,Sulawesi,Bahasa Talondo'
+638,0639 3,,Sulawesi,Bahasa Topoiyo
+639,0640 0,,Maluku,Bahasa Ahtiago/ Atiahu/ Bobot/ Hatumeten/ Ntau/ Werinama
+640,0641 2,,Maluku,Bahasa Alakamat/ Asli/ Huaulu
+641,0642 4,,Maluku,Bahasa Alune/ Patasiwa Alfoeren/ Sapalewa
+642,0643 6,,Maluku,Bahasa Amahai/ Amahei
+643,0644 1,,Maluku,Bahasa Ambelan
+644,0645 3,,Maluku,Bahasa Ambelau/ Amblau
+645,0646 5,,Maluku,Bahasa Ambon
+646,0647 0,,Maluku,Bahasa Ambon Tengah/ Laha
+647,0648 2,,Maluku,Bahasa Ambon Timur Laut/ Tulehu
+648,0649 4,,Melayu,Bahasa Ambong/ Malayu Ambon/ Melayu Ambon
+649,0650 1,,Maluku,Bahasa Aputai/ Ilputih/ Opotai/ Tutunohan
+650,0651 3,,Maluku,Bahasa Aru
+651,0652 5,,Maluku,Bahasa Asilulu
+652,0653 0,,Maluku,Bahasa Atamanu/ Awaiya/ Jahalatan/ Jahalatane/ Yalahatan
+653,0654 2,,Maluku,Bahasa Babar Tenggara
+654,0655 4,,Maluku,Bahasa Babar Utara
+655,0656 6,,Maluku,Bahasa Bacan
+656,0657 1,,Maluku,Bahasa Balamata/ Palamata/ Palumata
+657,0658 3,,Maluku,Bahasa Bambaa/ Hukumina
+658,0659 5,,Maluku,Bahasa Banda
+659,0660 2,,Maluku,Bahasa Barakai/ Workai
+660,0661 4,,Maluku,Bahasa Bati/ Gah
+661,0662 6,btj,Melayu,Bahasa Batjan/ Melayu Bacan
+662,0663 1,,Maluku,Bahasa Batuley/ Gwataley/ Watulai
+663,0664 3,,Maluku,Bahasa Belu
+664,0665 5,,Maluku,Bahasa Benggoi/ Bengoi/ Isal/ Kobi-Benggoi/ Uhei-Kaclakin/ Uhei-Kahlakim
+665,0666 0,,Maluku,Bahasa Bicoli/ Bitjoli/ Ingli/ Maba
+666,0667 2,,Maluku,Bahasa Boano/ Buano/ Djidja
+667,0668 4,,Maluku,Bahasa Boeroe/ Buru
+668,0669 6,,Maluku,Bahasa Bonfia/ Masiwang
+669,0670 3,,Maluku,Bahasa Buli
+670,0671 5,,Maluku,Bahasa Buru Utara/ Li Enyorot/ Liet Enjorot/ Lisela/ Wayapo
+671,0672 0,,Maluku,Bahasa Caeli/ Cajeli/ Gaeli/ Kajeli/ Kayeli
+672,0673 2,,Maluku,Bahasa Dai
+673,0674 4,,Maluku,Bahasa Damar Selatan
+674,0675 6,,Maluku,Bahasa Damar Utara
+675,0676 1,,Maluku,Bahasa Davelor/ Dawera-Daweloor
+676,0677 3,,Maluku,Bahasa Desite/ Jitine
+677,0678 5,,Maluku,Bahasa Dmar
+678,0679 0,,Maluku,Bahasa Dobel/ Doibel/ Kobro'or/ Kobroor/ Sersifar Tannin
+679,0680 4,,Maluku,Bahasa Elpaputi/ Elpaputih
+680,0681 6,,Maluku,Bahasa Emplawas
+681,0682 1,,Maluku,Bahasa Esiriun/ Kasiui/ Kasui/ Kesui/ Matabello/ Snabi Watubela/ Watubela/ Wesi
+682,0683 3,,Maluku,Bahasa Fatakai/ Nuaulu/ Nuaulu selatan/ Patakai
+683,0684 5,,Maluku,Bahasa Fordata/ Larat/ Vai Fordata/ Vai Tnebar/ Vaidida
+684,0685 0,,Maluku,Bahasa Galela
+685,0686 2,,Maluku,Bahasa Galoleng/ Iliwaki/ Ilmedu/ Ilwaki/ Lir Talo/ Talur
+686,0687 4,,Maluku,Bahasa Gamkonora
+687,0688 6,,Maluku,Bahasa Gane/ Gani/ Giman
+688,0689 1,,Maluku,Bahasa Gebe/ Gebi
+689,0690 5,,Maluku,Bahasa Geloli
+690,0691 0,,Maluku,Bahasa Gesa/ Geser/ Geser-Gorom/ Goran/ Gorom/ Gorong/ Seram/ Seran/ Seran Laut
+691,0692 2,,Maluku,Bahasa Goram
+692,0693 4,goq,Maluku,Bahasa Gorap
+693,0694 6,,Maluku,Bahasa Hahutan/ Hahutau/ Ili'uun/ Iliun/ Ilmaumau/ Limera
+694,0695 1,,Maluku,Bahasa Halmahera Selatan
+695,0696 3,,Maluku,Bahasa Halmahera Utara
+696,0697 5,,Maluku,Bahasa Haruku
+697,0698 0,,Maluku,Bahasa Hatue/ Saleman/ Seleman/ Wahai
+698,0699 2,,Maluku,Bahasa Hila-Kaitetu/ Seit-Kaitetu
+699,0700 0,,Maluku,Bahasa Hitu
+700,0701 2,,Maluku,Bahasa Honitetu/ Tala/ Wemale selatan
+701,0702 4,,Maluku,Bahasa Horuru
+702,0703 6,,Maluku,Bahasa Hoti
+703,0704 1,,Maluku,Bahasa Hulung
+704,0705 3,,Maluku,Bahasa Ibu
+705,0706 5,,Maluku,Bahasa Imroin/ Imroing
+706,0707 0,,Maluku,Bahasa Jamden/ Jamdena/ Yamdena
+707,0708 2,,Maluku,Bahasa Ka'u
+708,0709 4,,Maluku,Bahasa Kadai
+709,0710 1,,Maluku,Bahasa Kai/ Kei
+710,0711 3,,Maluku,Bahasa Kaibobo/ Kaibubu
+711,0712 5,,Maluku,Bahasa Kaisar
+712,0713 0,,Maluku,Bahasa Kamarian/ Kamariang/ Seruawan
+713,0714 2,,Maluku,Bahasa Kao/ Kau
+714,0715 4,,Maluku,Bahasa Karey/ Kerei/ Krei
+715,0716 6,,Maluku,Bahasa Kecil
+716,0717 1,,Maluku,Bahasa Kedi/ Laba/ Loloda Selatan
+717,0718 3,,Maluku,Bahasa Kisar/ Meher/ Yotowawa
+718,0719 5,,Maluku,Bahasa Koba
+719,0720 2,,Maluku,Bahasa Kola/ Kulaha/ Marlasi/ Warilau
+720,0721 4,,Maluku,Bahasa Komfana/ Kompane/ Kongampani
+721,0722 6,,Maluku,Bahasa Kroe
+722,0723 1,,Maluku,Bahasa Kur
+723,0724 3,,Maluku,Bahasa Lain
+724,0725 5,,Maluku,Bahasa Larike-Wakasihu
+725,0726 0,,Maluku,Bahasa Latu
+726,0727 2,,Maluku,Bahasa Lenkaitahe/ Liambata/ Salas/ Salas Gunung
+727,0728 4,,Maluku,Bahasa Leti
+728,0729 6,,Maluku,Bahasa Letri Lgona/ Lgona/ Literi Lagona/ Luang
+729,0730 3,,Maluku,Bahasa Liambata-Kobi/ Liana/ Lianan/ Liana-Seti/ Teula/ Uhei Kachlakan/ Uhei Kaclakin/ Uhei Kahlakim
+730,0731 5,,Maluku,Bahasa Liam-Garam
+731,0732 0,,Maluku,Bahasa Lipa-Liam
+732,0733 2,,Maluku,Bahasa Lisabata/ Lisabata-Nuniali/ Noniali/ Nuniali
+733,0734 4,,Maluku,Bahasa Loda/ Loloda/ Loloda Utara
+734,0735 6,,Maluku,Bahasa Lola
+735,0736 1,,Maluku,Bahasa Lorang
+736,0737 3,,Maluku,Bahasa Loun
+737,0738 5,,Maluku,Bahasa Luhu
+738,0739 0,,Maluku,Bahasa Maaro/ Oirata
+739,0740 4,,Maluku,Bahasa Madole/ Modole
+740,0741 6,,Maluku,Bahasa Mahuan/ Tugun
+741,0742 1,,Maluku,Bahasa Mairiri/ Mariri
+742,0743 3,,Maluku,Bahasa Makian Barat/ Makian Luar
+743,0744 5,,Maluku,Bahasa Makian Dalam/ Makian Timur
+744,0745 0,,Maluku,Bahasa Maksela/ Moksela/ Opselan
+745,0746 2,,Maluku,Bahasa Mangole/ Mangoli/ Sula Mangoli
+746,0747 4,,Maluku,Bahasa Manipa/ Soow Huhelia
+747,0748 6,,Maluku,Bahasa Manobai/ Manombai/ Wamar/ Wokam
+748,0749 1,,Maluku,Bahasa Manusela/ Wahinama
+749,0750 5,,Maluku,Bahasa Marsela- Babar Selatan/ Masela Tengah
+750,0751 0,,Maluku,Bahasa Marsela Barat/ Masela Barat
+751,0752 2,,Maluku,Bahasa Masbuar-Tela/ Tela'a/ Tela-Masbuar
+752,0753 4,,Maluku,Bahasa Masela Timur
+753,0754 6,,Melayu,Bahasa Melayu Baca
+754,0755 1,,Melayu,Bahasa Melayu Ternate/ Melayu Maluku Utara
+755,0756 3,,Maluku,Bahasa Naka'ela
+756,0757 5,,Maluku,Bahasa Nila
+757,0758 0,,Maluku,Bahasa Nuaulu Utara
+758,0759 2,,Maluku,Bahasa Nusa Laut/ Nusalaut
+759,0760 6,,Maluku,Bahasa Oemale/ Wemale utara
+760,0761 1,,Maluku,Bahasa Pago/ Pagoe/ Pagu
+761,0762 3,,Maluku,Bahasa Patani
+762,0763 5,,Maluku,Bahasa Paulohi
+763,0764 0,,Maluku,Bahasa Perai
+764,0765 2,,Maluku,Bahasa Piru
+765,0766 4,,Maluku,Bahasa Roma/ Romang
+766,0767 6,,Maluku,Bahasa Sa'u/ Sahu/ Sahu'u/ Sau
+767,0768 1,,Maluku,Bahasa Salaru/ Selaru
+768,0769 3,,Maluku,Bahasa Sanana/ Sula
+769,0770 0,,Maluku,Bahasa Saparua
+770,0771 2,,Maluku,Bahasa Saumlaki/ Veveu Evav
+771,0772 4,,Maluku,Bahasa Sawai/ Weda/ Weda-Sawai/ Were
+772,0773 6,,Maluku,Bahasa Seluwasan/ Selvasa/ Selwasa
+773,0774 1,,Maluku,Bahasa Sepa/ Tamilouw
+774,0775 3,,Maluku,Bahasa Seram Barat
+775,0776 5,,Maluku,Bahasa Seram Timur
+776,0777 0,,Maluku,Bahasa Serili
+777,0778 2,,Maluku,Bahasa Serua
+778,0779 4,,Maluku,Bahasa Seti-Liana
+779,0780 1,,Maluku,Bahasa Silen/ Taluti/ Tehoru/ Teluti/ Tihoru/ Wolu
+780,0781 3,,Maluku,Bahasa Siwalima
+781,0782 5,,Maluku,Bahasa Solor
+782,0783 0,,Maluku,Bahasa Tabaru/ Tobaru
+783,0784 2,,Maluku,Bahasa Tabayama
+784,0785 4,,Maluku,Bahasa Taliabo/ Taliabu
+785,0786 6,,Maluku,Bahasa Tanibar
+786,0787 1,,Maluku,Bahasa Tarangan Barat/ Trangan Barat
+787,0788 3,,Maluku,Bahasa Tarangan Timur/ Trangan Timur
+788,0789 5,,Maluku,Bahasa Te'un
+789,0790 2,,Maluku,Bahasa Teor/ Tio'or
+790,0791 4,,Maluku,Bahasa Ternate
+791,0792 6,,Maluku,Bahasa Ternate¤o/ Ternatenyo
+792,0793 1,,Maluku,Bahasa Tidore
+793,0794 3,,Maluku,Bahasa Timor
+794,0795 5,,Maluku,Bahasa Tobelo
+795,0796 0,,Maluku,Bahasa Tugutil
+796,0797 2,,Maluku,Bahasa Tukang Besi selatan/ Wakatobi
+797,0798 4,,Maluku,Bahasa Tukang Besi utara
+798,0799 6,,Maluku,Bahasa Ujir
+799,0800 4,,Maluku,Bahasa Waioli/ Wajoli/ Wayoli
+800,0801 6,,Papua,Bahasa A Nden/ Abun/ Karon/ Manif/ Yimbun
+801,0802 1,,Papua,Bahasa Abendago/ Yali Barat/ Yali Pegunungan/ Yaly
+802,0803 3,bsa,Papua,Bahasa Abinomn/ Avinomen/ Foja/ Foya
+803,0804 5,,Papua,Bahasa Adi/ Aiduma/ Kaiwai/ Kajumerah/ Kayumerah/ Koiwai/ Kowiai/ Kuiwai/ Namatota/ Namatote
+804,0805 0,,Papua,Bahasa Adihup/ Atam/ Borai/ Hatam/ Hattam/ Mansim/ Miriei/ Tinam/ Uran
+805,0806 2,,Papua,Bahasa Adora/ Aeroran/ Airoran/ Iriemkena
+806,0807 4,,Papua,Bahasa Aejauroh/ Sawi/ Sawuy
+807,0808 6,,Papua,Bahasa Afra/ Usku
+808,0809 1,ahh,Papua,Bahasa Aghu
+809,0810 5,,Papua,Bahasa Aikwakai/ Araikurioko/ Sikari/ Sikaritai/ Tori/ Tori Aikwakai
+810,0811 0,,Papua,Bahasa Aipki/ Kimgi/ Kimki/ Sukubatom/ Sukubatong
+811,0812 2,,Papua,Bahasa Airmati/ Armati/ Kwerba/ Mataweja/ Naibedj/ Segar Tor/ Serikenam/ Tekutameso
+812,0813 4,,Papua,Bahasa Aiso/ Mintamani
+813,0814 6,,Papua,Bahasa Ajamaru/ Atinjo/ Mai Brat/ Maite/ Majbrat/ Maybrat/ Mey Brat
+814,0815 1,,Papua,Bahasa Ajau/ Auyu/ Avio/ Awju/ Awya/ Awyu Tengah/ Nohon
+815,0816 3,,Papua,Bahasa Aliki/ Obogwitai/ Obokuitai
+816,0817 5,,Papua,Bahasa Ambai/ Ambai-Menawi
+817,0818 0,,Papua,Bahasa Ambel/ Amber/ Amberi/ Waigeo/ Waigiu
+818,0819 2,,Papua,Bahasa Amberbaken/ Kebar
+819,0820 6,,Papua,Bahasa Ampas/ Molof/ Poule
+820,0821 1,,Papua,Bahasa Amung/ Amung Kal/ Amungme/ Amuy/ Damal/ Hamung/ Oehoendoeni
+821,0822 3,,Papua,Bahasa Anasi
+822,0823 5,,Papua,Bahasa Angguruk/ Yali Utara/ Yali Angguruk/ Yalimo
+823,0824 0,,Papua,Bahasa Angot/ Senagi
+824,0825 2,,Papua,Bahasa Ansudu/ Kwinsu
+825,0826 4,and,Papua,Bahasa Ansus
+826,0827 6,auq,Papua,Bahasa Anus/ Koroernoes/ Koru
+827,0828 1,,Papua,Bahasa Arandai/ Dombano/ Jaban/ Sebyar/ Yaban
+828,0829 3,,Papua,Bahasa Arfak/ Mansibaber/ Meah/ Mejach/ Mejah/ Meyach/ Meyah
+829,0830 0,agf,Papua,Bahasa Argoeni/ Arguni
+830,0831 2,,Papua,Bahasa Arguni Bay/ Irahutu/ Irarutu/ Irutu/ Kaitero/ Kasira
+831,0832 4,,Papua,Bahasa Armopa/ Bogu/ Bonggo/ Bongo
+832,0833 6,,Papua,Bahasa Aropen/ Waropen/ Wonti/ Worpen
+833,0834 1,,Papua,Bahasa Arso/ Taikat/ Tajkat
+834,0835 3,,Papua,Bahasa Arui/ Serui-Laut
+835,0836 5,asz,Papua,Bahasa As
+836,0837 0,,Papua,Bahasa Asianara/ Asienara/ Buruwai/ Karufa/ Sebakoor
+837,0838 2,,Papua,Bahasa Asmat Darat/ Citak Tamnim/ Tamnim
+838,0839 4,asc,Papua,Bahasa Asmat Pantai Casuarina/ Kaweinag
+839,0840 1,,Papua,Bahasa Asmat Tengah/ Jas/ Manowee/ Yas
+840,0841 3,,Papua,Bahasa Asmat Utara/ Keenok
+841,0842 5,asy,Papua,Bahasa Asmat Yaosakor/ Yaosakor
+842,0843 0,,Papua,Bahasa Ati/ Britai
+843,0844 2,aqm,Papua,Bahasa Atohwaim/ Kaugat
+844,0845 4,,Papua,Bahasa Atori
+845,0846 6,,Papua,Bahasa Austronesian Mor/ Mor/ Mor2
+846,0847 1,,Papua,Bahasa Auwje
+847,0848 3,auu,Papua,Bahasa Auye
+848,0849 5,,Papua,Bahasa Away/ Pisa
+849,0850 2,,Papua,Bahasa Awbono/ Kvolyab
+850,0851 4,,Papua,Bahasa Awera
+851,0852 6,,Papua,Bahasa Awje/ Awji/ Awye/ Awyi/ Nyao
+852,0853 1,,Papua,Bahasa Awyu/ Yair
+853,0854 3,,Papua,Bahasa Awyu Asue/ Miaro/ Miaro Awyu
+854,0855 5,awy,Papua,Bahasa Awyu Edera
+855,0856 0,awv,Papua,Bahasa Awyu Jair
+856,0857 2,aws,Papua,Bahasa Awyu selatan/ Jenimu/ Oser/ Siagha/ Sjiagha/ Syiagha/ Yenimu
+857,0858 4,,Papua,Bahasa Awyu utara/ Djair/ Dyair/ Jair
+858,0859 6,,Papua,Bahasa Ayamaru/ Brat/ Maibrat
+859,0860 3,,Papua,Bahasa Babiruwa/ Babrua/ Babruwa/ Barua/ Editode Edai/ Erai/ Eri/ Eritai/ Haya
+860,0861 5,,Papua,Bahasa Baburiwa
+861,0862 0,,Papua,Bahasa Bagusa/ Damboi-Ramboi/ Kapeso/ Koasa/ Suaseso
+862,0863 2,,Papua,Bahasa Baham/ Patimuni
+863,0864 4,,Papua,Bahasa Baibai/ Kwomtari
+864,0865 6,,Papua,Bahasa Bapu
+865,0866 1,,Papua,Bahasa Barapasi
+866,0867 3,,Papua,Bahasa Barau/ Kalitami/ Kemberano/ Wariagar
+867,0868 5,,Papua,Bahasa Baropasi
+868,0869 0,,Papua,Bahasa Baso
+869,0870 4,,Papua,Bahasa Baudi/ Baudji/ Baudzi/ Bauri/ Bauzi
+870,0871 6,,Papua,Bahasa Bayono
+871,0872 1,,Papua,Bahasa Bedoanas
+872,0873 3,,Papua,Bahasa Beduba/ Iresim/ Yerisiam
+873,0874 5,,Papua,Bahasa Beneraf/ Boneraf
+874,0875 0,,Papua,Bahasa Bentoeni/ Bentuni/ Bintuni/ Wamesa/ Wandamen/ Wandamen-Windesi/ Windesi/ Windessi
+875,0876 2,,Papua,Bahasa Beraur/ Kalabra
+876,0877 4,,Papua,Bahasa Berick/ Berik/ Berrik/ Sewan Teteris/ Upper Tor
+877,0878 6,,Papua,Bahasa Betaf
+878,0879 1,,Papua,Bahasa Betef/ Borto/ Itik/ Ittik/ Ittik-Tor
+879,0880 5,,Papua,Bahasa Beurau
+880,0881 0,,Papua,Bahasa Biak/ Biak-Numfor/ Mafoor/ Mafoorsch/ Mefoor/ Myfoorsch/ Noefoor/ Noefoorsch/ Nufoor
+881,0882 2,,Papua,Bahasa Biaksi/ Inisine/ Yetfa
+882,0883 4,,Papua,Bahasa Bian/ Boven-Mbian/ Marind Barat laut/ Marind Bian
+883,0884 6,,Papua,Bahasa Biga
+884,0885 1,,Papua,Bahasa Biksi
+885,0886 3,,Papua,Bahasa Bipim/ Warkay/ Yagay
+886,0887 5,,Papua,Bahasa Bipim As-So/ Warkay-Bipim
+887,0888 0,,Papua,Bahasa Biri/ Biritai
+888,0889 2,,Papua,Bahasa Bitovondo/ Jauke/ Yauke/ Yoke
+889,0890 6,,Papua,Bahasa Bok/ Diebroud/ Taria/ Taworta-Aero
+890,0891 1,,Papua,Bahasa Bomberai Barat
+891,0892 3,,Papua,Bahasa Bonefa
+892,0893 5,,Papua,Bahasa Bonerif
+893,0894 0,,Papua,Bahasa Boromeso/ Borumesso/ Burmeso/ Burumeso/ Manau/ Monao/ Monau/ Taurap
+894,0895 2,,Papua,Bahasa Burate
+895,0896 4,aip,Papua,Bahasa Burumakok
+896,0897 6,,Papua,Bahasa Busami
+897,0898 1,,Papua,Bahasa Buyaka/ Sentani
+898,0899 3,,Papua,Bahasa Cicak/ Citak/ Kaunak
+899,0900 1,,Papua,Bahasa Dabe
+900,0901 3,,Papua,Bahasa Dabra
+901,0902 5,,Papua,Bahasa Dani
+902,0903 0,,Papua,Bahasa Dani Barat/ Ilaga Barat Dani/ Laany/ Lani/ Oeringoep/ Timorini
+903,0904 2,,Papua,Bahasa Dani Lembah Atas
+904,0905 4,,Papua,Bahasa Dani Lembah Bawah
+905,0906 6,,Papua,Bahasa Dani Lembah Tengah/ Tulem
+906,0907 1,,Papua,Bahasa Dao/ Maniwo/ X-Ray
+907,0908 3,,Papua,Bahasa Darha/ Doa/ Tause
+908,0909 5,,Papua,Bahasa Dauwa/ Dawa/ Ndauwa/ Nduga/ Ndugwa/ Pesecham/ Pesechem/ Pesegem
+909,0910 2,,Papua,Bahasa Dekwambre/ Ekware/ Mpur
+910,0911 4,,Papua,Bahasa Dem/ Lem/ Ndem
+911,0912 6,,Papua,Bahasa Demba/ Tefaro
+912,0913 1,,Papua,Bahasa Demenggong-Waibron-Bano/ Mekwei/ Menggei/ Menggwei/ Mooi/ Munggai/ Mungge/ Munkei/ Waipu
+913,0914 3,,Papua,Bahasa Demisa/ Desawa
+914,0915 5,,Papua,Bahasa Demta/ Muris/ Sowari
+915,0916 0,,Papua,Bahasa Dera
+916,0917 2,,Papua,Bahasa Digoel/ Digul/ Kati Metomka/ Kati Selatan/ Metomka/ Moejoe/ Muyu selatan/ Ok Bari/ Yongom
+917,0918 4,,Papua,Bahasa Dineor/ Marengge
+918,0919 6,,Papua,Bahasa Diuwe
+919,0920 3,,Papua,Bahasa Djanggu/ Elseng/ Janggu
+920,0921 5,,Papua,Bahasa Djonggunu/ Jonggunu/ Migani/ Moni
+921,0922 0,,Papua,Bahasa Dosobou/ Dou/ Doufou/ Edopi/ Elopi/ Foi/ Urundi/ Ururi/ Yau
+922,0923 2,,Papua,Bahasa Doutai
+923,0924 4,,Papua,Bahasa Dra/ Kamberataro
+924,0925 6,,Papua,Bahasa Dubu
+925,0926 1,,Papua,Bahasa Dumut/ Kaeti/ Mandabo
+926,0927 3,,Papua,Bahasa Duriankere
+927,0928 5,,Papua,Bahasa Dusner/ Dusnir
+928,0929 0,,Papua,Bahasa Duvde/ Duve/ Duvele/ Duvle/ Duvre/ Wiri
+929,0930 4,,Papua,Bahasa Eipo/ Eipomek/ T-Valley
+930,0931 6,,Papua,Bahasa Ekagi/ Ekari/ Kapauku/ Me Mana/ Mee Mana/ Tapiro
+931,0932 1,,Papua,Bahasa Emem/ Imimkal/ Kiamerop
+932,0933 3,,Papua,Bahasa Emumu
+933,0934 5,,Papua,Bahasa Enggipiloe/ Uhunduni
+934,0935 0,,Papua,Bahasa Enggros/ Humboldt Jotafa/ Jayapura/ Jotafa/ Tobati/ Tobwadic/ Yautefa/ Yotafa
+935,0936 2,,Papua,Bahasa Enkelembu
+936,0937 4,,Papua,Bahasa Erokwanas
+937,0938 6,,Papua,Bahasa Etna Bay/ Muri/ Semimi/ Wesrau
+938,0939 1,,Papua,Bahasa Fandanus/ Fedan/ Podena
+939,0940 5,,Papua,Bahasa Faranyao/ Kaniran/ Mairasi
+940,0941 0,,Papua,Bahasa Faur/ Tubiruasa/ Uruangnirin
+941,0942 2,,Papua,Bahasa Fayu
+942,0943 4,,Papua,Bahasa Foau
+943,0944 6,,Papua,Bahasa Gabe/ Laganyan
+944,0945 1,,Papua,Bahasa Gawir/ Marind/ Marind Tenggara/ Tugeri
+945,0946 3,,Papua,Bahasa Geresi/ Glesi/ Gresi/ Gresik/ Klesi
+946,0947 5,,Papua,Bahasa Goliath/ Kosarek/ Mek
+947,0948 0,,Papua,Bahasa Goni/ Yeretuar
+948,0949 2,,Papua,Bahasa Hmanggona/ Hmonono/ Kimjal/ Kimyal/ Nalca/ Naltje/ Naltya
+949,0950 6,,Papua,Bahasa Hupla/ Soba
+950,0951 1,,Papua,Bahasa Iagu/ Inanwatan/ Mirabo/ Suabau/ Suabo
+951,0952 3,,Papua,Bahasa Iau/ Iaw
+952,0953 5,,Papua,Bahasa Iha
+953,0954 0,,Papua,Bahasa Iha Based Pidgin
+954,0955 2,,Papua,Bahasa Imasi/ Sobei
+955,0956 4,,Papua,Bahasa In-lom/ Wanam/ Yale Kosarek/ Yale-Kosarek
+956,0957 6,,Papua,Bahasa Iria/ Kamberau/ Kamkbrau/ Kamrau
+957,0958 1,,Papua,Bahasa Isirawa/ Okwasar/ Saweri
+958,0959 3,,Papua,Bahasa Iwoer/ Iwur
+959,0960 0,,Papua,Bahasa Jab/ Jabsch/ Jelmek/ Jelmik/ Yelmek
+960,0961 2,,Papua,Bahasa Jafi/ Jafi Wagarindem/ Wagarindem/ Wargarindem/ Warlef/ Yaffi/ Zorop
+961,0962 4,,Papua,Bahasa Jahadian/ Nerigo/ Yabin Yahadian/ Yahadian
+962,0963 6,,Papua,Bahasa Jakai/ Jaqai/ Mapi/ Sohur/ Yaqai/ Yaqay
+963,0964 1,,Papua,Bahasa Jakari/ Tabi/ Tabla/ Tanah Merah/ Tepera
+964,0965 3,,Papua,Bahasa Jale/ Jaly/ Ngalik Utara/ Ninia/ Yali Ninia/ Yali Selatan
+965,0966 5,,Papua,Bahasa Jale Selatan/ Nipsan/ Yale-Nipsan
+966,0967 0,,Papua,Bahasa Jaur/ Yaur
+967,0968 2,,Papua,Bahasa Je/ Jei/ Yei/ Yei-Nan/ Yey
+968,0969 4,,Papua,Bahasa Jeti/ Manem/ Skofro/ Wembi/ Yeti
+969,0970 1,,Papua,Bahasa Jiwafeta
+970,0971 3,,Papua,Bahasa Jofotek-Bromnya
+971,0972 5,,Papua,Bahasa Kabera/ Kaowerawedj/ Kauwera/ Kauwerawec/ Kauwerawetj/ Kawera/ Koassa
+972,0973 0,,Papua,Bahasa Kaburi
+973,0974 2,,Papua,Bahasa Kaibus/ Tahit/ Tehid/ Tehit/ Teminabuan
+974,0975 4,,Papua,Bahasa Kais/ Kampung Baru
+975,0976 6,,Papua,Bahasa Kaiy/ Taori-Kaiy/ Todi
+976,0977 1,,Papua,Bahasa Kajagar/ Kayagar/ Kaygi/ Kaygir
+977,0978 3,,Papua,Bahasa Kajupulau/ Kayupulau
+978,0979 5,,Papua,Bahasa Kaladdarsch/ Kimaama/ Kimaghama/ Kimaghima/ Teri-Kalwasch
+979,0980 2,,Papua,Bahasa Kalao
+980,0981 4,,Papua,Bahasa Kambon/ Mandobo Bawah
+981,0982 6,,Papua,Bahasa Kamora/ Kamoro/ Kaokonau/ Lakahia/ Mimika/ Mukamuga/ Nafarpi/ Nagramadu/ Nefarpi/ Neferipi/ Uma
+982,0983 1,,Papua,Bahasa Kamtuk/ Kemtuik/ Kemtuk
+983,0984 3,,Papua,Bahasa Kanum/ Tonda
+984,0985 5,,Papua,Bahasa Kanum B„di/ Kenume/ Knwne
+985,0986 0,,Papua,Bahasa Kanum Ngkƒlmpw
+986,0987 2,,Papua,Bahasa Kanum Sm„rky
+987,0988 4,,Papua,Bahasa Kanum Sota
+988,0989 6,,Papua,Bahasa Kapaur
+989,0990 3,,Papua,Bahasa Kapauri/ Kapori
+990,0991 5,,Papua,Bahasa Kapitiauw/ Kaptiau/ Kaptiauw
+991,0992 0,,Papua,Bahasa Karas
+992,0993 2,,Papua,Bahasa Karas Darat
+993,0994 4,,Papua,Bahasa Karas Laut
+994,0995 6,,Papua,Bahasa Karfasia/ Samarkena/ Samarokena/ Tamaja/ Tamaya
+995,0996 1,,Papua,Bahasa Karon Dori/ Maiyach/ Mari/ Meon
+996,0997 3,,Papua,Bahasa Kasiwa/ Kativa/ Ninggeroem/ Ninggerum/ Ninggirum/ Ninggrum/ Orgwo
+997,0998 5,,Papua,Bahasa Kasuweri/ Kokoda/ Komudago/ Nebes/ Oderago/ Samalek/ Tarof
+998,0999 0,,Papua,Bahasa Kataut/ Kati Utara/ Kati-Ninanti/ Muyu utara/ Niinati/ Ninatie
+999,1000 2,,Papua,Bahasa Kati
+1000,1001 4,,Papua,Bahasa Kaure/ Kaureh
+1001,1002 6,,Papua,Bahasa Kauwol
+1002,1003 1,,Papua,Bahasa Kawe
+1003,1004 3,,Papua,Bahasa Keder/ Keijar
+1004,1005 5,,Papua,Bahasa Kehu
+1005,1006 0,,Papua,Bahasa Kembra
+1006,1007 2,,Papua,Bahasa Kemelom/ Kemelomsch/ Komolom/ Mombum
+1007,1008 4,,Papua,Bahasa Kerema/ Nisa
+1008,1009 6,,Papua,Bahasa Ketengban/ Kupel/ Oktengban
+1009,1010 3,,Papua,Bahasa Ketum/ Kitum/ Wambon-Ketum
+1010,1011 5,,Papua,Bahasa Kimaam/ Riantana
+1011,1012 0,,Papua,Bahasa Kimanghama/ Kolopom
+1012,1013 2,,Papua,Bahasa Kimyal Korupun/ Korapun/ Korupun-Sela
+1013,1014 4,,Papua,Bahasa Kirikiri/ Kirira
+1014,1015 6,,Papua,Bahasa Kofei
+1015,1016 1,,Papua,Bahasa Kolufaup/ Korowai
+1016,1017 3,,Papua,Bahasa Kombai/ Komboy
+1017,1018 5,,Papua,Bahasa Komyandaret
+1018,1019 0,,Papua,Bahasa Konda/ Ogit/ Yabin/ Yabin-Konda
+1019,1020 4,,Papua,Bahasa Koneraw/ Konorau
+1020,1021 6,,Papua,Bahasa Kopka/ Kopkaka
+1021,1022 1,,Papua,Bahasa Kosadle/ Kosare
+1022,1023 3,,Papua,Bahasa Kotogüt/ Tsaukambo/ Tsokwambo
+1023,1024 5,,Papua,Bahasa Kotogut/ Tsakwambo
+1024,1025 0,,Papua,Bahasa Kuangsu-Bonggrang/ Kwangsu-Bonggrang/ Kwansu/ Kwansu-Bonggrang/ Mlap
+1025,1026 2,,Papua,Bahasa Kuri
+1026,1027 4,,Papua,Bahasa Kurudu
+1027,1028 6,,Papua,Bahasa Kuwani
+1028,1029 1,,Papua,Bahasa Kwasten/ Marengi/ Tor
+1029,1030 5,,Papua,Bahasa Kwem/ Mandobbo/ Mandobo Atas/ Nub
+1030,1031 0,,Papua,Bahasa Kwer
+1031,1032 2,,Papua,Bahasa Kwerba Mamberamo/ Napok/ Nogukwabai/ Nopukw/ Tatsewalem
+1032,1033 4,,Papua,Bahasa Kwerisa/ Taogwe
+1033,1034 6,,Papua,Bahasa Kwesten
+1034,1035 1,,Papua,Bahasa Langda/ Mt.Goliath/ Una
+1035,1036 3,,Papua,Bahasa Langgayam
+1036,1037 5,,Papua,Bahasa Legenyem
+1037,1038 0,,Papua,Bahasa Lepki
+1038,1039 2,,Papua,Bahasa Liki
+1039,1040 6,,Papua,Bahasa Llaga/ Saberi
+1040,1041 1,,Papua,Bahasa Lower Pyramid/ Walak/ Wodo
+1041,1042 3,,Papua,Bahasa Ma'ya/ Sailolof/ Salawati/ Samate
+1042,1043 5,,Papua,Bahasa Maden/ Saparan/ Sapran
+1043,1044 0,,Papua,Bahasa Madidwana/ Sabakor
+1044,1045 2,,Papua,Bahasa Makleu/ Maklew
+1045,1046 4,,Papua,Bahasa Mander
+1046,1047 6,,Papua,Bahasa Manggarikuna
+1047,1048 1,,Papua,Bahasa Manikion/ Mantion/ Sogh/ Sougb
+1048,1049 3,,Papua,Bahasa Mantembu/ Mora/ Yapanani/ Yava/ Yawa
+1049,1050 0,,Papua,Bahasa Mapia/ Mapian
+1050,1051 2,,Papua,Bahasa Marau
+1051,1052 4,,Papua,Bahasa Maremgi
+1052,1053 6,,Papua,Bahasa Marori/ Moaraeri/ Morari/ Morori
+1053,1054 1,,Papua,Bahasa Masimasi
+1054,1055 3,,Papua,Bahasa Massep
+1055,1056 5,,Papua,Bahasa Matbat/ Me
+1056,1057 0,,Papua,Bahasa Mawes
+1057,1058 2,,Papua,Bahasa Mbaruan
+1058,1059 4,,Papua,Bahasa Meax/ Meninggo
+1059,1060 1,pmy,Melayu,Bahasa Melayu Papua
+1060,1061 3,,Papua,Bahasa Meningo/ Moskona/ Sabena
+1061,1062 5,,Papua,Bahasa Meoswar/ War
+1062,1063 0,,Papua,Bahasa Mer/ Miere
+1063,1064 2,,Papua,Bahasa Mo
+1064,1065 4,,Papua,Bahasa Moar
+1065,1066 6,,Papua,Bahasa Modan/ Nabi
+1066,1067 1,,Papua,Bahasa Mogao/ Puragi
+1067,1068 3,,Papua,Bahasa Moi
+1068,1069 5,,Papua,Bahasa Moile
+1069,1070 2,,Papua,Bahasa Momina
+1070,1071 4,,Papua,Bahasa Momuna/ Somage/ Sumohai
+1071,1072 6,,Papua,Bahasa Moraeri/ Moraori
+1072,1073 1,,Papua,Bahasa Moraid
+1073,1074 3,,Papua,Bahasa Morwap/ Sawa/ Tabu
+1074,1075 5,,Papua,Bahasa Mosana
+1075,1076 0,,Papua,Bahasa Munggui/ Natabui
+1076,1077 2,,Papua,Bahasa Murkim
+1077,1078 4,,Papua,Bahasa Muyu
+1078,1079 6,,Papua,Bahasa Na'ai/ Na'i/ Nagai/ Nakai
+1079,1080 3,,Papua,Bahasa Nafri
+1080,1081 5,,Papua,Bahasa Nambrong/ Nimboran
+1081,1082 0,,Papua,Bahasa Namla
+1082,1083 2,,Papua,Bahasa Nararapi/ Sempan
+1083,1084 4,,Papua,Bahasa Narau
+1084,1085 6,,Papua,Bahasa Natipi
+1085,1086 1,,Papua,Bahasa Ndom
+1086,1087 3,,Papua,Bahasa Ngalik Selatan/ Paiyage/ Silimo/ Usak/ Wulik
+1087,1088 5,,Papua,Bahasa Ngalum/ Sibil
+1088,1089 0,,Papua,Bahasa Nggem
+1089,1090 4,,Papua,Bahasa Nobuk/ Nopuk
+1090,1091 6,,Papua,Bahasa Nusari
+1091,1092 1,,Papua,Bahasa Onim/ Onin
+1092,1093 3,,Papua,Bahasa Onin Based Pidgin
+1093,1094 5,,Papua,Bahasa Oria/ Orya/ Warpok/ Warpu
+1094,1095 0,,Papua,Bahasa Ormu
+1095,1096 2,,Papua,Bahasa Palamul
+1096,1097 4,,Papua,Bahasa Papasena
+1097,1098 6,,Papua,Bahasa Papua
+1098,1099 1,,Papua,Bahasa Papuma
+1099,1100 6,,Papua,Bahasa Paseman
+1100,1101 1,,Papua,Bahasa Patimuning
+1101,1102 3,,Papua,Bahasa Pauwi
+1102,1103 5,,Papua,Bahasa Pedena
+1103,1104 0,,Papua,Bahasa Pom
+1104,1105 2,,Papua,Bahasa Pyu
+1105,1106 4,,Papua,Bahasa Rasawa
+1106,1107 6,,Papua,Bahasa Ron/ Roon
+1107,1108 1,,Papua,Bahasa Sangke
+1108,1109 3,,Papua,Bahasa Saponi
+1109,1110 0,,Papua,Bahasa Sarwar Use/ Saweru
+1110,1111 2,,Papua,Bahasa Sauri
+1111,1112 4,,Papua,Bahasa Sause/ Seuce
+1112,1113 6,,Papua,Bahasa Sawu
+1113,1114 1,,Papua,Bahasa Seget
+1114,1115 3,,Papua,Bahasa Sehudate
+1115,1116 5,,Papua,Bahasa Sekar
+1116,1117 0,,Papua,Bahasa Sekol/ Sekou/ Sko/ Skou/ Skouw/ Skow/ Sukou/ Te Mawo/ Tumawo
+1117,1118 2,,Papua,Bahasa Senggi/ Viid
+1118,1119 4,,Papua,Bahasa Siagha-Yenimu
+1119,1120 1,,Papua,Bahasa Somahai
+1120,1121 3,,Papua,Bahasa Sowanda/ Waina/ Waina-Sowanda/ Wanya/ Wina
+1121,1122 5,,Papua,Bahasa Sufrai/ Tarfia/ Tarpia
+1122,1123 0,,Papua,Bahasa Sumeri/ Sumerine/ Tanahmerah
+1123,1124 2,,Papua,Bahasa Sumuri
+1124,1125 4,,Papua,Bahasa Sunum
+1125,1126 6,,Papua,Bahasa Takar/ Vitou
+1126,1127 1,,Papua,Bahasa Tamagario/ Tamaraw/ Wagow/ Wiyagar
+1127,1128 3,,Papua,Bahasa Tandia
+1128,1129 5,,Papua,Bahasa Tangko
+1129,1130 2,,Papua,Bahasa Taori-Kei/ Taori-So
+1130,1131 4,,Papua,Bahasa Tarunggare/ Tunggare/ Turunggare
+1131,1132 6,,Papua,Bahasa Taworta
+1132,1133 1,,Papua,Bahasa Tebi
+1133,1134 3,,Papua,Bahasa Tofamna/ Tofanma
+1134,1135 5,,Papua,Bahasa Towe/ Towei
+1135,1136 0,,Papua,Bahasa Trimuris
+1136,1137 2,,Papua,Bahasa Turu
+1137,1138 4,,Papua,Bahasa Uria
+1138,1139 6,,Papua,Bahasa Waano/ Wano
+1139,1140 3,,Papua,Bahasa Wabo/ Woriasi
+1140,1141 5,,Papua,Bahasa Wakde
+1141,1142 0,,Papua,Bahasa Walsa/ Waris
+1142,1143 2,,Papua,Bahasa Wambon
+1143,1144 4,,Papua,Bahasa Wanggo/ Wanggom/ Wangom
+1144,1145 6,,Papua,Bahasa Waremboivoro/ Warembori/ Warenbori
+1145,1146 1,,Papua,Bahasa Wares
+1146,1147 3,,Papua,Bahasa Wari/ Waritai/ Weretai
+1147,1148 5,,Papua,Bahasa Wauyai
+1148,1149 0,,Papua,Bahasa Wo'oi/ Woi
+1149,1150 4,,Papua,Bahasa Woda/ Woda-Mo/ Wodani/ Wolani
+1150,1151 6,,Papua,Bahasa Woria
+1151,1152 1,,Papua,Bahasa Yafi
+1152,1153 3,,Papua,Bahasa Yakai
+1153,1154 5,,Papua,Bahasa Yali Lembah
+1154,1155 0,,Papua,Bahasa Yamna
+1155,1156 2,,Papua,Bahasa Yarsun
+1156,1157 4,,Papua,Bahasa Yoki
+1157,1158 6,,Papua,Bahasa Yonggom/ Yongkom
+1158,1159 1,ara,Arab,Bahasa Arab
+1159,1160 5,,Isyarat,Bahasa Isyarat
+1160,1161 0,,Tionghoa,Bahasa Tionghoa Hakka
+1161,1162 2,,Tionghoa,Bahasa Tionghoa Mandarin
+1162,1163 4,,Tionghoa,Bahasa Tionghoa Min Dong
+1163,1164 6,,Tionghoa,"Bahasa Tionghoa Min Nan, Tiochiu"
+1164,1165 1,,Tionghoa,Bahasa Tionghoa Yue
+1165,1166 3,,India,Bahasa Hindi
+1166,1167 5,ind,Nasional,Bahasa Indonesia
+1167,1168 0,pea,Melayu,Bahasa Indonesia Peranakan
+1168,1169 2,eng,Asing,Bahasa Inggris
+1169,1170 6,fra,Asing,Bahasa Prancis
+1170,1171 1,rus,Asing,Bahasa Rusia
+1171,1172 3,spa,Asing,Bahasa Spanyol
+1172,1173 5,nld,Asing,Bahasa Belanda
+1173,1174 0,,Tionghoa,Bahasa Tionghoa
+1174,1175 2,,Tionghoa,Bahasa Tionghoa Hokian
+1175,1176 4,,Melayu,Bahasa Melayu Selimbau
+1176,1177 6,,Melayu,Bahasa Melayu Putusibau-Semitau-Nang
+1177,1178 1,,Melayu,Bahasa Melayu Nanga Bunut
+1178,1179 3,,Melayu,Bahasa Melayu Boyan
+1179,1180 0,,Melayu,Bahasa Melayu Embau
+1180,1181 2,,Melayu,Bahasa Melayu Ulu Gurung
+1181,1182 4,,Melayu,Bahasa Melayu Ulu Silat
+1182,1183 6,,Melayu,Bahasa Melayu Semangut
+1183,1184 1,,Melayu,Bahasa Melayu Pinoh
+1184,1185 3,,Melayu,Bahasa Melayu Sokan
+1185,1186 5,,Melayu,Bahasa Melayu Kota Baru
+1186,1187 0,,Melayu,Bahasa Melayu Sayan
+1187,1188 2,,Melayu,Bahasa Melayu Ela Hilir
+1188,1189 4,,Melayu,Bahasa Melayu Sintang
+1189,1190 1,,Melayu,Bahasa Melayu Sekadau
+1190,1191 3,,Melayu,Bahasa Melayu Sanggau
+1191,1192 5,,Melayu,Bahasa Melayu Meliau
+1192,1193 0,,Melayu,Bahasa Melayu Tayan
+1193,1194 2,,Melayu,Bahasa Melayu Landak
+1194,1195 4,,Melayu,Bahasa Melayu Sambas (bejalan)
+1195,1196 6,,Melayu,Bahasa Melayu Merabuan (bejolon)
+1196,1197 1,,Melayu,Bahasa Melayu Ketapang
+1197,1198 3,,Melayu,Bahasa Melayu Cali
+1198,1199 5,,Melayu,Bahasa Melayu Tumbang Titi
+1199,1200 3,,Melayu,Bahasa Melayu Pebihingan
+1200,1201 5,,Melayu,Bahasa Melayu Simpang Dua
+1201,1202 0,,Melayu,Bahasa Melayu Balai berkuak
+1202,1203 2,,Melayu,Bahasa Melayu Pontianak
+1203,1204 4,,Sulawesi,Bahasa Menui
+1204,2000 4,,,Bahasa lainnya di Sumatera
+1205,3000 6,,,Bahasa lainnya di Jawa
+1206,5000 3,,,Bahasa lainnya di Bali dan Nusa Tenggara
+1207,6000 5,,,Bahasa lainnya di Kalimantan
+1208,7000 0,,,Bahasa lainnya di Sulawesi
+1209,8000 2,,,Bahasa lainnya di Maluku
+1210,9000 4,,,Bahasa lainnya di Papua

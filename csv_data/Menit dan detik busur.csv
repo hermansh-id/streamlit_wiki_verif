@@ -1,0 +1,6 @@
+,S a t u a n,N i l a i,S i m b o l,S i m b o l . 1,S i n g k a t a n,"D a l a m   r a d i a n ,   k i r a - k i r a"
+0,Derajat,1360 putaran,°,Derajat,deg,"17,4532925 mrad"
+1,Menit busur,160 derajat,′,Petik,"arcmin, amin, am, MOA","290,8882087 µrad"
+2,Detik busur,160 menit busur = 13.600 derajat,″,Petik ganda,"arcsec, asec, as","4,8481368 μrad"
+3,Mili detik busur,"0,001 detik busur = 13.600.000 derajat",,,mas,"4,8481368 nrad"
+4,Mikro detik busur,"0,001 mas = 0,000001 detik busur",,,μas,"4,8481368 prad"

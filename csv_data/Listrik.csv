@@ -1,0 +1,20 @@
+,e d i t   U n i t - u n i t   e l e k t r o m a g n e t i s m e   S I,e d i t   U n i t - u n i t   e l e k t r o m a g n e t i s m e   S I,e d i t   U n i t - u n i t   e l e k t r o m a g n e t i s m e   S I,e d i t   U n i t - u n i t   e l e k t r o m a g n e t i s m e   S I,e d i t   U n i t - u n i t   e l e k t r o m a g n e t i s m e   S I
+0,I,Arus,ampere,A,A
+1,Q,"Muatan listrik, Jumlah listrik",coulomb,C,A·s
+2,V,Tegangan listrik,volt,V,J/C = kg·m2·s−3·A−1
+3,"R, Z","Tahanan, Impedansi, Reaktansi",ohm,Ω,V/A = kg·m2·s−3·A−2
+4,ρ,Ketahanan,ohm meter,Ω·m,kg·m3·s−3·A−2
+5,P,"Daya, Listrik",watt,W,V·A = kg·m2·s−3
+6,C,Kapasitansi,farad,F,C/V = kg−1·m−2·A2·s4
+7,,Elastisitas,reciprocal farad,F−1,V/C = kg·m2·A−2·s−4
+8,ε,Permitivitas,farad per meter,F/m,kg−1·m−3·A2·s4
+9,χe,Susceptibilitas listrik,(tak berdimensi),-,-
+10,,"Konduktansi, Admitansi, Susceptansi",siemens,S,Ω−1 = kg−1·m−2·s3·A2
+11,σ,Konduktivitas,siemens per meter,S/m,kg−1·m−3·s3·A2
+12,H,"Medan magnet, Kekuatan medan magnet",ampere per meter,A/m,A·m−1
+13,Φm,Flux magnet,weber,Wb,V·s = kg·m2·s−2·A−1
+14,B,"Kepadatan medan magnet, Induksi magnet, Kekuatan medan magnet",tesla,T,Wb/m2 = kg·s−2·A−1
+15,,Reluktansi,ampere-turns per weber,A/Wb,kg−1·m−2·s2·A2
+16,L,Induktansi,henry,H,Wb/A = V·s/A = kg·m2·s−2·A−2
+17,μ,Permeabilitas,henry per meter,H/m,kg·m·s−2·A−2
+18,χm,Susceptibilitas magnet,(tak berdimensi),-,-

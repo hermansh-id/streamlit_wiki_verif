@@ -1,0 +1,6 @@
+,D e r a j a t   h u j a n,I n t e n s i t a s   c u r a h   h u j a n   ( m m / m i n ),K o n d i s i
+0,Hujan sangat lemah,"< 0,02",Tanah agak basah atau dibasahi sedikit
+1,Hujan lemah,"0,02 - 0,05","Tanah menjadi basah semuanya, namun umumnya tidak menimbulkan genangan air"
+2,Hujan normal,"0,05 - 0,25","Air dapat tergenang, bunyi curah hujan terdengar"
+3,Hujan deras,"0,25 - 1,00","Air tergenang di seluruh permukaan tanah, bunyi hujan terdengar dari genangan"
+4,Hujan sangat deras,"> 1,00","Hujan seperti ditumpahkan, saluran drainase meluap"

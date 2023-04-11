@@ -1,0 +1,28 @@
+,0,1
+0,"Besaran SI untuk ""mekanikal""(bukan elektromagnetisme atau termal)satuan kg, m dan s","Besaran SI untuk ""mekanikal""(bukan elektromagnetisme atau termal)satuan kg, m dan s"
+1,posisi,m
+2,posisi sudut/sudut,tanpa satuan (radian)
+3,kecepatan,m·s−1
+4,kecepatan sudut,s−1
+5,percepatan,m·s−2
+6,percepatan sudut,s−2
+7,jerk,m·s−3
+8,"""angular jerk""",s−3
+9,energi spesifik,m2·s−2
+10,absorbed dose rate,m2·s−3
+11,momen inersia,kg·m2
+12,momentum,kg·m·s−1
+13,momentum sudut,kg·m2·s−1
+14,gaya,kg·m·s−2
+15,torsi,kg·m2·s−2
+16,energi,kg·m2·s−2
+17,daya,kg·m2·s−3
+18,tekanan dan densitas energi,kg·m−1·s−2
+19,tegangan permukaan,kg·s−2
+20,konstanta pegas,kg·s−2
+21,iradiansi dan fluks energi,kg·s−3
+22,viskositas kinematik,m2·s−1
+23,viskositas dynamik,kg·m−1·s−1
+24,massa jenis,kg·m−3
+25,densitas bilangan,m−3
+26,aksi,kg·m2·s−1

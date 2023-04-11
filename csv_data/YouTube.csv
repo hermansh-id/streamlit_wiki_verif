@@ -1,0 +1,23 @@
+,i t a g   v a l u e [ 1 ],K o n t a i n e r   b a k u,R e s o l u s i   v i d e o,E n k o d e   v i d e o,P r o f i l   v i d e o,B i t r a t e   v i d e o ( M b i t / s )   [ 2 ],E n k o d e   a u d i o,B i t r a t e   a u d i o   ( k b i t / s )   [ 2 ]
+0,5,FLV,240p,Sorenson H.263,,0.25,MP3,64.0
+1,6,FLV,270p,Sorenson H.263,,0.8,MP3,64.0
+2,13,3GP,,MPEG-4 Visual,,0.5,AAC,
+3,17,3GP,144p,MPEG-4 Visual,Simple,0.05,AAC,24.0
+4,18,MP4,360p,H.264,Baseline,0.5,AAC,96.0
+5,22,MP4,720p,H.264,High,2-3,AAC,192.0
+6,34,FLV,360p,H.264,Main,0.5,AAC,128.0
+7,35,FLV,480p,H.264,Main,0.8-1,AAC,128.0
+8,36,3GP,240p,MPEG-4 Visual,Simple,0.175,AAC,36.0
+9,37,MP4,1080p,H.264,High,3–5.9,AAC,192.0
+10,38,MP4,3072p,H.264,High,3.5-5,AAC,192.0
+11,43,WebM,360p,VP8,,0.5,Vorbis,128.0
+12,44,WebM,480p,VP8,,1,Vorbis,128.0
+13,45,WebM,720p,VP8,,2,Vorbis,192.0
+14,46,WebM,1080p,VP8,,,Vorbis,192.0
+15,82,MP4,360p,H.264,3D,0.5,AAC,96.0
+16,83,MP4,240p,H.264,3D,0.5,AAC,96.0
+17,84,MP4,720p,H.264,3D,2-3,AAC,192.0
+18,85,MP4,1080p,H.264,3D,3-4,AAC,192.0
+19,100,WebM,360p,VP8,3D,,Vorbis,128.0
+20,101,WebM,360p,VP8,3D,,Vorbis,192.0
+21,102,WebM,720p,VP8,3D,,Vorbis,192.0

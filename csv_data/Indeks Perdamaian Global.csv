@@ -1,0 +1,25 @@
+,0,1,2,3
+0,,Indikator,Sumber,Pengkodean
+1,1.0,Jumlah dan durasi konflik internal[a],"UCDP, IEP",Jumlah total
+2,2.0,Jumlah kematian akibat konflik terorganisir eksternal,Kumpulan Data Konflik Bersenjata UCDP,Jumlah total
+3,3.0,Jumlah kematian akibat konflik terorganisir internal,"Institut Internasional untuk Studi Strategis, Basis Data Konflik Bersenjata",Jumlah total
+4,4.0,"Jumlah, durasi, dan peran dalam konflik eksternal","Kumpulan Data Kematian Terkait Pertempuran UCDP, IEP",Jumlah total
+5,5.0,Intensitas konflik internal yang terorganisir,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+6,6.0,Hubungan dengan negara tetangga,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+7,7.0,Tingkat kriminalitas yang dirasakan dalam masyarakat,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+8,8.0,Jumlah pengungsi dan pengungsi sebagai persentase populasi,UNHCR dan IDMC,"Populasi pengungsi menurut negara atau wilayah asal, ditambah jumlah pengungsi internal (IDP) suatu negara sebagai persentase dari total populasi negara tersebut"
+9,9.0,Ketidakstabilan politik,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+10,10.0,Dampak terorisme,Indeks Terorisme Global (IEP),"Skala kuantitatif, peringkat 1 sampai 5"
+11,11.0,Teror politik,Amnesti Internasional dan Departemen Luar Negeri AS,"Skala kualitatif, peringkat 1 sampai 5"
+12,12.0,Jumlah pembunuhan per 100.000 orang,Survei UNODC tentang Tren Kejahatan dan Operasi Sistem Peradilan Pidana (CTS); perkiraan EIU,Jumlah total
+13,13.0,Tingkat kejahatan kekerasan,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+14,14.0,Kemungkinan demonstrasi kekerasan,EIU,"Skala kualitatif, peringkat 1 sampai 5"
+15,15.0,Jumlah orang yang dipenjara per 100.000 orang,"Ringkasan Penjara Dunia, Institut Penelitian Kebijakan Kriminal di Birkbeck, Universitas London",Jumlah total
+16,16.0,Jumlah petugas keamanan internal dan polisi per 100.000 orang,UNODC CTS; perkiraan EIU,Jumlah; Pasukan polisi sipil berbeda dari penjaga nasional atau milisi lokal[b]
+17,17.0,Pengeluaran militer sebagai persentase dari PDB,Keseimbangan Militer dan IISS,"Pengeluaran tunai pemerintah pusat atau federal untuk memenuhi biaya angkatan bersenjata nasional, sebagai persentase dari PDB, skor dari 1 hingga 5 berdasarkan persentase[c]"
+18,18.0,Jumlah personel angkatan bersenjata per 100.000,Keseimbangan Militer dan IISS,Semua personel angkatan bersenjata aktif penuh waktu
+19,19.0,Volume transfer senjata konvensional utama sebagai penerima (impor) per 100.000 orang,Database Transfer Senjata SIPRI,Impor senjata konvensional utama per 100.000 orang[d]
+20,20.0,Volume transfer senjata konvensional utama sebagai pemasok (ekspor) per 100.000 orang,Database Transfer Senjata SIPRI,Ekspor senjata konvensional utama per 100.000 orang
+21,21.0,Kontribusi keuangan untuk misi penjaga perdamaian PBB,Komite Kontribusi dan IEP PBB,"persentase negara ""pembayaran yang belum dibayar versus penilaian tahunan mereka terhadap anggaran misi pemeliharaan perdamaian saat ini"" selama rata-rata tiga tahun, dinilai dari skala 1–5 berdasarkan persentase kontribusi yang dijanjikan terpenuhi"
+22,22.0,Kemampuan senjata nuklir dan berat,"Perimbangan Militer, IISS, SIPRI, Daftar Senjata Konvensional PBB dan IEP","skala 1–5 berdasarkan akumulasi poin; 1 poin per kendaraan lapis baja dan artileri, 5 poin per tank, 20 poin per pesawat tempur, 100 poin per kapal perang, 1000 poin untuk kapal induk dan kapal selam nuklir[e]"
+23,23.0,Kemudahan akses ke senjata kecil dan senjata ringan,EIU,"Skala kualitatif, peringkat 1 sampai 5"

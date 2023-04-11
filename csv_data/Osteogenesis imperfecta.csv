@@ -1,0 +1,11 @@
+,0,1,2,3,4,5
+0,Tipe,Deskripsi,Gen,OMIM,Cara penularan,Insidensi
+1,I,ringan,Null COL1A1 allele,Online Mendelian Inheritance in Man (OMIM) [1],"autosomal dominan, 60% de novo[18]",1 dari 30.000 kasus[19]
+2,II,parah dan biasanya mengakibatkan kematian pada periode perinatal,"COL1A1, COL1A2,","Online Mendelian Inheritance in Man (OMIM) [2] (IIA), Online Mendelian Inheritance in Man (OMIM) [3] (IIB)","autosomal dominan, ~100% de novo[18]",1 dari 40.000 kasus[20] hingga 1 dari 100.000 kasus[19]
+3,III,dianggap progresif dan berubah bentuk,"COL1A1, COL1A2",Online Mendelian Inheritance in Man (OMIM) [4],"autosomal dominan, ~100% de novo[18]",1 dari 60.000 kasus[19]
+4,IV,"berubah bentuk, tetapi dengan sklera normal","COL1A1, COL1A2",Online Mendelian Inheritance in Man (OMIM) [5],"autosomal dominan, 60% de novo[18]",
+5,V,"memiliki gambaran klinis yang sama dengan tipe IV, tetapi memiliki temuan histologis yang unik (""seperti jala"")",IFITM5,Online Mendelian Inheritance in Man (OMIM) [6],autosomal dominan[18][21],
+6,VI,"memiliki gambaran klinis yang sama dengan tipe IV, tetapi ini memiliki temuan histologis yang unik (""skala ikan"")",SERPINF1,Online Mendelian Inheritance in Man (OMIM) [7],resesif autosomal [18],
+7,VII,terkait dengan protein yang terkait tulang rawan,CRTAP,Online Mendelian Inheritance in Man (OMIM) [8],resesif autosomal[18],
+8,VIII,"parah hingga menyebabkan kematian, terkait dengan protein Leprechaun","LEPRE1, P3H1",Online Mendelian Inheritance in Man (OMIM) [9],resesif autosomal,
+9,IX,,PPIB,,resesif autosomal,

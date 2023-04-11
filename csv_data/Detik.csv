@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7
+0,Subkelipatan,Subkelipatan,Subkelipatan,,Kelipatan,Kelipatan,Kelipatan,Kelipatan
+1,Nilai,Simbol SI,Nama,,Nilai,Simbol SI,Nama,Sama dengan
+2,10−1 s,ds,desidetik,,101 s,das,dekadetik,10 detik
+3,10−2 s,cs,sentidetik,,102 s,hs,hektodetik,1 menit 40 detik
+4,10−3 s,ms,milidetik,,103 s,ks,kilodetik,16 menit 40 detik
+5,10−6 s,µs,mikrodetik,,106 s,Ms,megadetik,"11,6 hari"
+6,10−9 s,ns,nanodetik,,109 s,Gs,gigadetik,"31,7 tahun"
+7,10−12 s,ps,pikodetik,,1012 s,Ts,teradetik,31.700 tahun
+8,10−15 s,fs,femtodetik,,1015 s,Ps,petadetik,"31,7 juta tahun"
+9,10−18 s,as,atodetik,,1018 s,Es,eksadetik,"31,7 miliar tahun"
+10,10−21 s,zs,zeptodetik,,1021 s,Zs,zetadetik,"31,7 triliun tahun"
+11,10−24 s,ys,yoktodetik,,1024 s,Ys,yotadetik,"31,7 kuadriliun tahun"

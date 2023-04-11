@@ -1,0 +1,9 @@
+,P r e f e k t u r,S u b - p r e f e k t u r,S u b - p r e f e k t u r . 1,K o t a m a d y a,S u b - k o t a m a d y a
+0,"Prefektur""prefektur perkotaan""""daerah""",Subprefektur,Subprefektur,"""kota terpilih""",Distrik kota
+1,"Prefektur""prefektur perkotaan""""daerah""",→,→,"""kota terpilih""",Distrik kota
+2,"Prefektur""prefektur perkotaan""""daerah""",Distrik,Distrik,KotaDesa,none
+3,"Prefektur""prefektur perkotaan""""daerah""",Subprefektur,District,KotaDesa,none
+4,"Prefektur""prefektur perkotaan""""daerah""",Subprefektur,→,"""kota inti""""kota istimewa""Kota",none
+5,"Prefektur""prefektur perkotaan""""daerah""",→,→,"""kota inti""""kota istimewa""Kota",none
+6,Ibu kota,→,→,KotaDistrik kota istimewa,none
+7,Ibu kota,DistrikSubprefektur,DistrikSubprefektur,KotaDesa,none

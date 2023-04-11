@@ -1,0 +1,8 @@
+,N o,S i s t e m   K r i s t a l,S u d u t   d a n   P a n j a n g   S u m b u
+0,1,Kubik,a = b = c; α = β = γ = 900
+1,2,Tetragonal,a = b ≠ c; α = β = γ = 900
+2,3,Orthorombik,a ≠ b ≠c; α = β = γ = 900
+3,4,Trigonal,a = b = c; α = β = γ ≠ 900
+4,5,Heksagonal,a = b ≠c; α = β = 900; γ = 1200
+5,6,Monoklinik,a ≠ b ≠c; α = γ = 900 ≠ β ≥ 1200
+6,7,Triklinik,a ≠ b ≠c; α ≠ β ≠ γ = 900

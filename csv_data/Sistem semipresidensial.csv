@@ -1,0 +1,34 @@
+,P e n d a l a m a n   t e o r i,R e p u b l i k   k o n s t i t u s i o n a l,R e p u b l i k   k o n s t i t u s i o n a l,R e p u b l i k   k o n s t i t u s i o n a l,M o n a r k i   k o n s t i t u s i o n a l
+0,Kepala negara,Presiden,Presiden,Presiden,Raja/Ratu
+1,Kepala pemerintahan,Presiden,Perdana Menteri,Perdana Menteri,Perdana Menteri
+2,Sifat kepala negara,Populer,Populer,Seremonial,Seremonial
+3,Sifat kepala pemerintahan,Populer,Seremonial,Populer,Populer
+4,Kekuasaan kepala negara,Pemisahan atau pembagian,Pemisahan atau pembagian,Pemisahan atau pembagian,Hanya pemisahan
+5,Masa jabatan kepala negara,ditentukan jangka waktu(maksimal 2 periode),ditentukan jangka waktu(maksimal 2 periode),ditentukan jangka waktu(maksimal 2 periode),seumur hidup
+6,Masa jabatan kepala pemerintahan,ditentukan jangka waktu(maksimal 2 periode),Tidak ditentukan jangka waktu,Tidak ditentukan jangka waktu,Tidak ditentukan jangka waktu
+7,Masa pemilihan umum presiden,ditentukan jangka waktu(4-6 tahun),ditentukan jangka waktu(4-6 tahun),ditentukan jangka waktu(4-6 tahun),–
+8,Masa pemilihan umum legislatif,tepat waktu,tepat waktu,berubah-ubah sesuai dengan keputusan Perdana Menteri,berubah-ubah sesuai dengan keputusan Perdana Menteri
+9,Kekuasaan negara,Pemisahan atau pembagian,Pemisahan atau pembagian,Pemisahan atau pembagian,Hanya pemisahan
+10,Pemegang kekuasaan,Eksekutif,Eksekutif,Legislatif,Legislatif
+11,Hak prerogratif untuk eksekutif,Presiden,Presiden,Perdana Menteri,Perdana Menteri
+12,Hak kekuasaan wilayah negara,Presiden,Presiden,Perdana Menteri,Perdana Menteri
+13,Hak pendapat menurut UUD/UU/peraturan diberlakukan/dicabut,Presiden,Presiden,Perdana Menteri,Perdana Menteri
+14,Tampilan kepala negara dalam kabinet,ya,ya,ya,tidak(kecuali ada undangan Perdana Menteri)
+15,Eksekutif tanggungjawab kepada legislatif,tidak,ya,ya,ya
+16,Eksekutif dijatuhkan legislatif,tidak,tidak,ya,ya
+17,Posisi eksekutif,Partai politik dan profesional,Partai politik dan profesional,Hanya Partai BerkuasaMayoritas Parlemen (termasuk partai koalisi),Hanya Partai BerkuasaMayoritas Parlemen (termasuk partai koalisi)
+18,Hubungan legislatif dan eksekutif,harus lepas dari jabatan legislatif,harus lepas dari jabatan legislatif,merangkap sebagai jabatan legislatif,merangkap sebagai jabatan legislatif
+19,Posisi kedudukan legislatif dengan eksekutif,sejajar,legislatif lebih tinggi dibandingkan eksekutif,legislatif lebih tinggi dibandingkan eksekutif,legislatif lebih tinggi dibandingkan eksekutif
+20,Pembubaran legislatif oleh eksekutif,tidak,tidak,ya,ya
+21,Keputusan kepala negara,tidak dapat diganggu gugat(keputusan mutlak),tidak dapat diganggu gugat(keputusan mutlak),tidak dapat diganggu gugat(keputusan mutlak),dapat diubah melalui legislatif
+22,Keterlibatan kepala negara untuk hak partai politik/hak pemilih,ya,ya,ya,tidak
+23,Keterlibatan anggota keluarga kepala negara untuk hak partai politik/hak pemilih/anggota eksekutif,ya,ya,ya,tidak
+24,Jumlah keturunan dalam posisi kepala negara,tidak tentu,tidak tentu,tidak tentu,hanya satu
+25,Rangkap jabatan kepala negara,ya,ya,ya,tidak
+26,Pengusulan/Pengubah/Pengganti/Perbaikan UUD/UU/peraturanbersama dengan legislatif,Presiden,Presiden,Perdana Menteri,Perdana Menteri
+27,Pemilihan kepala negara,dipilih rakyat (langsung) atauparlemen (tidak langsung),dipilih rakyat (langsung) atauparlemen (tidak langsung),dipilih rakyat (langsung) atauparlemen (tidak langsung),diwariskan turun temurun menurut UU
+28,Pemilihan kepala pemerintahan,dipilih rakyat (langsung) atauparlemen (tidak langsung),ditunjuk Presiden,dipilih rakyat (langsung) atauparlemen (tidak langsung),dipilih rakyat (langsung) atauparlemen (tidak langsung)
+29,Hukuman kepada kepala negara,Pemakzulan,Pemakzulan,Pemakzulan,Dilucut haknya
+30,Hukuman kepada kepala pemerintahan,Pemakzulan,Mosi tak percaya,Mosi tak percaya,Mosi tak percaya
+31,Lingkungan Istana Negara,kalangan umum,kalangan umum,kalangan umum,pribadi
+32,Posisi elite/orang kaya,setara,setara,setara,dianggap bangsawan/feodal

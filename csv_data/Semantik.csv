@@ -1,0 +1,12 @@
+,S t a t e m e n t,B a h a s a   P e m r o g r a m a n
+0,x += y,"C, C++, C#, Java, Perl, Python, Ruby, PHP, etc."
+1,x:= x + y,"ALGOL, BCPL, Simula, ALGOL 68, SETL, Pascal, Smalltalk, Modula-2, Ada, Standard ML, OCaml, Eiffel, Object Pascal (Delphi), Oberon, Dylan, VHDL, etc."
+2,"ADD x, y",Assembly languages: Intel 8086
+3,LET X = X + Y,BASIC: early
+4,x = x + y,"BASIC: most dialects; Fortran, MATLAB, Lua"
+5,Set x = x + y,Caché ObjectScript
+6,ADD Y TO X.,ABAP
+7,ADD Y TO X GIVING X,COBOL
+8,set /a x=x+y,Batch
+9,(incf x y),Common Lisp
+10,/x y x add def,PostScript

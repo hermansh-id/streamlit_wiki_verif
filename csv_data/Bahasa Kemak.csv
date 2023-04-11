@@ -1,0 +1,274 @@
+,N o m o r,B a h a s a   K e m a k,B a h a s a   I n d o n e s i a
+0,1.0,au,saya/aku
+1,2.0,o,engkau
+2,3.0,ua,dia/ia
+3,4.0,ami,kami
+4,5.0,ita,kita
+5,6.0,romo,mereka
+6,7.0,nogo,ini
+7,8.0,nua,itu
+8,9.0,nogo mai,di sini
+9,10.0,dia nua / pua nua,di situ
+10,11.0,lasere nua,di sana
+11,12.0,sabasia,apa
+12,13.0,nua,siapa
+13,14.0,tau saba,mengapa
+14,15.0,pila,berapa
+15,16.0,pedenaba,bagaimana
+16,17.0,daba,mana
+17,18.0,daba la,ke mana
+18,19.0,dasa daba,dari mana
+19,20.0,sia,satu
+20,21.0,rua,dua
+21,22.0,telu,tiga
+22,23.0,pat,empat
+23,24.0,lima,lima
+24,25.0,nem,enam
+25,26.0,itu,tujuh
+26,27.0,balu,delapan
+27,28.0,sibe,sembilan
+28,29.0,sapuluh,sepuluh
+29,30.0,sapuluh resi,sia sebelas
+30,31.0,gulurua,dua puluh
+31,32.0,gulurua resi sia,dua puluh satu
+32,33.0,gulurua resi rua,dua puluh dua
+33,34.0,gululima,lima puluh
+34,35.0,atussia,seratus
+35,36.0,ribunsia,seribu
+36,37.0,ribunsapuluh,sepuluh ribu
+37,38.0,mloan,depa
+38,39.0,boten,besar
+39,40.0,bi’in,kecil
+40,41.0,mlarun,panjang
+41,42.0,badkan,pendek
+42,43.0,badkan/ketun,dalam
+43,44.0,badkan/ketun,dangkal
+44,45.0,mane,laki-laki
+45,46.0,aman,jantan
+46,47.0,hine,perempuan
+47,48.0,inan,betina
+48,49.0,atamas/sa,orang
+49,50.0,ro her,sudah kawin (P)
+50,51.0,ro lair,sudah kawin (L)
+51,52.0,hine anakaun,perawan
+52,53.0,tai mudu uma,bujang
+53,54.0,hine milan,janda
+54,55.0,mane milan,duda
+55,56.0,Amar,bapak
+56,57.0,inar,ibu
+57,58.0,ka’ar,kakak laki-laki
+58,59.0,nanar,kakak perempuan
+59,60.0,alir,adik
+60,61.0,babar,paman
+61,62.0,ki’ir,bibi
+62,63.0,ba’ak,kakak ayah
+63,64.0,ba’ak,kakak ibu
+64,65.0,tatar mane,kakek
+65,66.0,tatar hine,nenek
+66,67.0,ubur,cucu
+67,68.0,doben inar,ipar
+68,69.0,inar,mertua
+69,70.0,maner heun,menantu
+70,71.0,ahi,babi
+71,72.0,ika,ikan
+72,73.0,bibu,kambing
+73,74.0,brau metan,kerbau
+74,75.0,brau baka,sapi
+75,76.0,manu,ayam
+76,77.0,utu,kutu
+77,78.0,lagaloe,laba-laba
+78,79.0,hani,lebah
+79,80.0,eru,kera
+80,81.0,kuda,kuda
+81,82.0,mregi,semut
+82,83.0,naibei/tatar,buaya
+83,84.0,beran,beberapa
+84,85.0,hotu-hotu,semua/segala
+85,86.0,sia-sia,tiap-tiap
+86,87.0,anasia,sedikit
+87,88.0,beran,banyak
+88,99.0,etu,padi
+89,90.0,sele,jagung
+90,91.0,nua,kelapa
+91,92.0,mu,pisang
+92,93.0,heda kasen,nenas
+93,94.0,aipun,pohon
+94,95.0,ha’an,akar
+95,96.0,hini,benih
+96,97.0,tahan,daun
+97,98.0,etun,bunga
+98,99.0,hoan,buah
+99,100.0,ultin,kulit
+100,101.0,sorun,cabang
+101,102.0,garar,kepala
+102,103.0,ilun,hidung
+103,104.0,limar,tangan
+104,105.0,oer,kaki
+105,106.0,tagan,jari
+106,107.0,hulur,rambut
+107,108.0,ligar,telinga
+108,109.0,hu’un,kuku
+109,110.0,mata hulun,alis
+110,111.0,oer kekun,mata kaki
+111,112.0,turun,lutut
+112,113.0,oer tuban,tumit
+113,114.0,lamar,lidah
+114,115.0,nipar,gigi
+115,116.0,goar,leher
+116,117.0,susur,payudara
+117,118.0,hoan,jantung
+118,120.0,aten,hati
+119,121.0,ibor,mulut
+120,122.0,matar,mata
+121,123.0,ba’ir,perut
+122,124.0,hoar matan,dada
+123,125.0,si,daging
+124,126.0,ruini,tulang
+125,127.0,hoton,urat
+126,128.0,rar,darah
+127,129.0,ibor hulun,kumis
+128,130.0,paur hulun,janggut
+129,131.0,henan,pantat
+130,132.0,enu,minum
+131,133.0,ha,makan
+132,134.0,at,gigit
+133,135.0,nae/eto,lihat
+134,136.0,rego,dengar
+135,137.0,gramas,raba
+136,138.0,me’u,cium
+137,139.0,rasa,rasa
+138,140.0,belo,jilat
+139,141.0,nagi,berenang
+140,142.0,hnanu,bernyanyi
+141,143.0,sole,berjalan
+142,144.0,plai,berlari
+143,145.0,bue,berbaring
+144,146.0,mudu,duduk
+145,147.0,ara,berdiri
+146,148.0,mai,datang
+147,149.0,sante,santai
+148,150.0,la,pergi
+149,151.0,pres,istirahat
+150,152.0,bue,tidur
+151,153.0,para agar,berkelahi
+152,154.0,boi bobe,berkata
+153,155.0,dale,berbicara
+154,156.0,prei/prei agar,bertengkar
+155,157.0,hoip,bersiul
+156,158.0,lelo,matahari
+157,159.0,hula,bulan
+158,160.0,itu,bintang
+159,161.0,usa,hujan
+160,162.0,raekukmun,mendung
+161,163.0,taho,awan
+162,164.0,atu,batu
+163,165.0,hene,pasir
+164,166.0,rae,tanah
+165,167.0,bia,air
+166,168.0,api masu,asap
+167,169.0,taho kao,kabut
+168,170.0,api,api
+169,171.0,leon,nyala
+170,172.0,baimo,langit
+171,173.0,meak,merah
+172,174.0,mosok,hijau
+173,175.0,gmen,kuning
+174,176.0,buti,putih
+175,177.0,metam,hitam
+176,178.0,metam wao hoan,biru
+177,179.0,halan,siang
+178,180.0,dodgan,malam
+179,181.0,buso,pagi
+180,182.0,lelo mahon,sore
+181,183.0,buso,besok
+182,184.0,na’arua,kemarin
+183,185.0,bairua,lusa
+184,186.0,bansan,panas
+185,187.0,suman,dingin
+186,198.0,snan,senang
+187,189.0,hoa moren,sedih
+188,190.0,susar,susah
+189,191.0,koet,bagus
+190,192.0,naragan,jelek
+191,193.0,mlarun,tinggi
+192,194.0,badkan,rendah
+193,195.0,koet,indah
+194,196.0,boruk,bulat
+195,197.0,boruk mlarun,lonjong
+196,198.0,malan,kering
+197,199.0,bia du,banjir
+198,200.0,rae garan/lurun,utara
+199,201.0,rae oen/henan,selatan
+200,202.0,lelo saen/rae usun,timur
+201,203.0,lelo dun/rae usun,barat
+202,204.0,la to’i,ke kiri
+203,205.0,la bana,ke kanan
+204,206.0,la tete,di atas
+205,207.0,la nera,ke bawak
+206,208.0,la aben,ke depan
+207,209.0,la magor,ke belakang
+208,210.0,la usun,ke samping
+209,211.0,hoar mu’utin/boi,marah
+210,212.0,aen,malu
+211,213.0,hoar kolen,cemburu
+212,214.0,hoar bansan,benci
+213,215.0,aben gnilan trus,periang
+214,216.0,ber,cinta/kasmaran
+215,217.0,magun,nakal
+216,218.0,bran,berani
+217,219.0,tinaut ten,penakut
+218,220.0,salamatan,pintu
+219,221.0,jendela,jendela
+220,222.0,ri,tiang
+221,223.0,uma laran,lantai
+222,224.0,esa saen,tangga
+223,225.0,didig,dinding
+224,226.0,uma laun,atap
+225,227.0,toden,loteng
+226,228.0,mlehgun,kolong
+227,229.0,tasu,kuali
+228,230.0,ura,periuk
+229,231.0,di’ir anan,pisau
+230,232.0,di’ir turan/suri,parang
+231,233.0,rosen,parut
+232,234.0,tempayan,tempayan
+233,235.0,dapur,dapur
+234,236.0,kelu/keke,gelang
+235,237.0,aideli,cincin
+236,238.0,henu,kalung
+237,239.0,krabu,anting
+238,240.0,rama,panah
+239,241.0,gapo,sumpit
+240,242.0,blaki,tombak
+241,242.0,di’ir turan/suri,parang
+242,243.0,bajak,bajak
+243,245.0,besi takin/besi ta rae,pacul
+244,246.0,surun,skop
+245,247.0,sabit,sabit
+246,248.0,gdodo,tofa
+247,249.0,bero,sampan
+248,250.0,ial,jala
+249,251.0,gail,kail
+250,252.0,asu dai,bubu
+251,253.0,ai bian,tuba
+252,254.0,la,lah
+253,255.0,ta,kah
+254,256.0,moso,pun
+255,257.0,pua/dia,di
+256,258.0,pua/dogda/la,ke
+257,259.0,dasa,dari
+258,260.0,pesa/dia,pada
+259,261.0,ta/ne,yang
+260,262.0,e,akan
+261,263.0,kahisai,telah
+262,264.0,kalau,kalau
+263,265.0,mais,tetapi
+264,266.0,sungguhpun,sungguhpun
+265,267.0,walaupun,walaupun
+266,268.0,odi,agar
+267,269.0,no,dan
+268,270.0,moso,juga
+269,271.0,e,atau
+270,272.0,odi,supaya
+271,273.0,karna,karena
+272,274.0,mais,namun

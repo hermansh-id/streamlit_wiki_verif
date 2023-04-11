@@ -1,0 +1,8 @@
+,. m w - p a r s e r - o u t p u t   . l o c m a p   . o d { p o s i t i o n : a b s o l u t e } . m w - p a r s e r - o u t p u t   . l o c m a p   . i d { p o s i t i o n : a b s o l u t e ; l i n e - h e i g h t : 0 } . m w - p a r s e r - o u t p u t   . l o c m a p   . l 0 { f o n t - s i z e : 0 ; p o s i t i o n : a b s o l u t e } . m w - p a r s e r - o u t p u t   . l o c m a p   . p v { l i n e - h e i g h t : 1 1 0 % ; p o s i t i o n : a b s o l u t e ; t e x t - a l i g n : c e n t e r } . m w - p a r s e r - o u t p u t   . l o c m a p   . p l { l i n e - h e i g h t : 1 1 0 % ; p o s i t i o n : a b s o l u t e ; t o p : - 0 . 7 5 e m ; t e x t - a l i g n : r i g h t } . m w - p a r s e r - o u t p u t   . l o c m a p   . p r { l i n e - h e i g h t : 1 1 0 % ; p o s i t i o n : a b s o l u t e ; t o p : - 0 . 7 5 e m ; t e x t - a l i g n : l e f t } . m w - p a r s e r - o u t p u t   . l o c m a p   . p v > d i v { d i s p l a y : i n l i n e ; p a d d i n g : 1 p x } . m w - p a r s e r - o u t p u t   . l o c m a p   . p l > d i v { d i s p l a y : i n l i n e ; p a d d i n g : 1 p x ; f l o a t : r i g h t } . m w - p a r s e r - o u t p u t   . l o c m a p   . p r > d i v { d i s p l a y : i n l i n e ; p a d d i n g : 1 p x ; f l o a t : l e f t } R o m a M i l a n N a p o l i T u r i n,R o m a,M i l a n
+0,Stadio Olimpico,San Siro,
+1,"Kapasitas: 66,341","Kapasitas: 83,141",
+2,,,
+3,Napoli,Turin,
+4,Stadion San Paolo,Stadio Comunale,
+5,"Kapasitas: 81,101","Kapasitas: 71,180",
+6,,,

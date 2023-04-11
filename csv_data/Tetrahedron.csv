@@ -1,0 +1,19 @@
+,T e t r a h e d r o n   b e r a t u r a n,T e t r a h e d r o n   b e r a t u r a n . 1
+0,(Klik disini untuk melihat model berputar),(Klik disini untuk melihat model berputar)
+1,Jenis,Bangun ruang Platonik
+2,shortcode,3> 2z
+3,Elemen,"F = 4, E = 6V = 4 (χ = 2)"
+4,Muka berdasarkan jumlah sisi,4{3}
+5,Notasi Conway,T
+6,Simbol Schläfli,"{3,3}"
+7,Simbol Schläfli,"h{4,3}, s{2,4}, sr{2,2}"
+8,Konfigurasi muka,V3.3.3
+9,Simbol Wythoff,3 | 2 3| 2 2 2
+10,Diagram Coxeter,=
+11,Simetri,"Td, A3, [3,3], (*332)"
+12,Grup putaran,"T, [3,3]+, (332)"
+13,Referensi,"U01, C15, W1"
+14,Sifat,"beraturan, cembungdeltahedron"
+15,Sudut dihedral,"70,528779° = arccos(⅓)"
+16,3.3.3(Bangun titik pojok),Self-dual(Polihedron dual)
+17,Jaringan,Jaringan

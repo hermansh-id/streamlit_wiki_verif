@@ -1,0 +1,8 @@
+,I s t i l a h,J u m l a h   b a g i a n   p e l a r u t   y a n g   d i b u t u h k a n   u n t u k   m e l a r u t k a n   1   b a g i a n   z a t   t e r l a r u t [ 4 ] [ 5 ]
+0,Sangat mudah larut,<1
+1,Mudah larut,1 – 10
+2,Larut,10 – 30
+3,Agak sukar larut,30 – 100
+4,Sukar larut,100 – 1000
+5,Sangat sukar larut,"1000 – 10,000"
+6,Praktis tidak larut,"≥ 10,000"

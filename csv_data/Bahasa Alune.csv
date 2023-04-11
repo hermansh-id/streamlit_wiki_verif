@@ -1,0 +1,301 @@
+,N o m o r,B a h a s a   I n d o n e s i a,B a h a s a   A l u n e
+0,1.0,"saya, aku",au
+1,2.0,"engkau, kamu",ale
+2,3.0,"kita, kami",ite
+3,4.0,"dia, mereka",ile
+4,5.0,ini,meje
+5,6.0,itu,mere
+6,7.0,apa,sere
+7,8.0,siapa,ale sire
+8,9.0,berapa,ila
+9,10.0,di mana,eteka
+10,11.0,mengapa,mula
+11,12.0,bagaimana,mula
+12,13.0,banyak,bokala
+13,14.0,semua,pusulu
+14,15.0,satu,esa
+15,16.0,dua,lua
+16,17.0,tiga,telu
+17,18.0,empat,ata
+18,19.0,lima,lima
+19,20.0,enam,ne
+20,21.0,tujuh,itu
+21,22.0,delapan,walu
+22,23.0,sembilan,sikwa
+23,24.0,sepuluh,butusya
+24,25.0,sebelas,butuaya lesin esa
+25,26.0,dua belas,butusya lesin lua
+26,27.0,tiga belas,butusya lesin telu
+27,28.0,empat belas,butusya lesin ata
+28,29.0,lima belas,butusya lesin lima
+29,30.0,dua puluh,butu lua
+30,31.0,tiga puluh,butu telu
+31,32.0,empat puluh,butu ata
+32,33.0,lima puluh,butu lima
+33,34.0,seratus,utune
+34,35.0,seratus dua,utune lua
+35,36.0,seratus sepuluh,utune butusya
+36,37.0,seratus lima belas,utune butusya lesin lima
+37,38.0,seratus dua puluh,utune butu lua
+38,39.0,seribu,usate
+39,40.0,sepuluh ribu,usate butusya
+40,41.0,kecil,tone
+41,42.0,panjang,nanuke
+42,43.0,tinggi,nanuke lolete
+43,44.0,lebar,elake
+44,45.0,dalam,nanuke
+45,46.0,pendek,rokon
+46,47.0,halus,mutale
+47,48.0,kasar,kaberele
+48,49.0,laki-laki,makwai
+49,50.0,perempuan,dina
+50,51.0,ikan,iyane
+51,52.0,burung,manuwe
+52,53.0,kerbau,apale hena Ramene
+53,54.0,sapi,sape
+54,55.0,udang,mitale
+55,56.0,anjing,asu
+56,57.0,kucing,mau
+57,58.0,rusa,maralane
+58,59.0,babi,apale
+59,60.0,kus-kus,marele
+60,61.0,ular,niakwe
+61,62.0,katak,totu
+62,63.0,biawak,sakwala
+63,64.0,cecak,kalate
+64,65.0,kupu-kupu,palaene
+65,66.0,belalang,kwawe
+66,67.0,buaya,buka
+67,68.0,lipan,laltane
+68,69.0,kalajengking,kwarorane
+69,70.0,penyu,benu
+70,71.0,ikan hiu,iyane hiu
+71,72.0,ayam hutan,maleune
+72,73.0,ikan kembung,ia Tukuno
+73,74.0,teripang,batele meite
+74,75.0,kera,kesi
+75,76.0,itik,bebekue
+76,77.0,burung bangau,manue sasulite
+77,78.0,burung camar,manue bulakwane
+78,79.0,kura-kura,pene
+79,80.0,burung elang,tipikwele
+80,81.0,burung kake tua,laka
+81,82.0,mangga,pananu
+82,83.0,padi,ala
+83,84.0,jagung,sesale
+84,85.0,kelapa,nikwele
+85,86.0,keladi,setu
+86,87.0,jambu,tepeta
+87,88.0,cengkeh,aiinai
+88,89.0,daun,aitetui/ailoini
+89,90.0,dahan,aisanai
+90,91.0,akar,ailamuti
+91,92.0,ranting,aisanaibubui
+92,93.0,jeruk,musi
+93,94.0,pari,katilebuai
+94,95.0,samangka,nakane
+95,96.0,ketimun,papinu
+96,97.0,ketela pohon,kabi
+97,98.0,ketela rambat,katela
+98,99.0,lombok,misa
+99,100.0,bawang,babane
+100,101.0,kamiri,bahan
+101,102.0,kenari,tale
+102,103.0,langsat,lasete
+103,104.0,kedondong,ulite
+104,105.0,alang-alang,putune
+105,106.0,jambu biji,lutune
+106,107.0,bunga pisang,tema osoi
+107,108.0,kunyit,unine
+108,109.0,enau,nakwa
+109,110.0,pala,kabelane
+110,111.0,durian,tulene
+111,112.0,nangka,hanale
+112,113.0,pepaya,papai
+113,114.0,pinang,soi
+114,115.0,sagu,pia
+115,116.0,labu,kapule
+116,117.0,kacang,kabue
+117,118.0,kepala,ulubuai
+118,119.0,rambut,buakwalai
+119,120.0,telinga,talinaloi
+120,121.0,mata,matainai
+121,122.0,hidung,inu batai
+122,123.0,dagu,alamu lebui
+123,124.0,leher,mokane batai
+124,125.0,mulut,biru
+125,126.0,gigi,niseinai
+126,127.0,lidah,meine
+127,128.0,dada,lere
+128,129.0,perut,tibui
+129,130.0,pinggang,akwa
+130,131.0,paha,ainue
+131,132.0,lutut,tibuhu
+132,133.0,betis,ablasele
+133,134.0,kaki,lelale
+134,135.0,daging,utane
+135,136.0,jantung,buainai
+136,137.0,hati,molirnu
+137,138.0,usus,tain elake
+138,139.0,darah,lalakwe
+139,140.0,kulit,usai
+140,141.0,makan,kane
+141,142.0,minum,kinu
+142,143.0,tidur,tulu
+143,144.0,mandi,suku
+144,145.0,berjalan,keu
+145,146.0,mencium,unuke
+146,147.0,meraba,sanakwa
+147,148.0,mendengar,lene
+148,149.0,melihat,selu
+149,150.0,mengecap,renu
+150,151.0,duduk,ruwe
+151,152.0,matahari,lemdtai
+152,153.0,bulan,bulane
+153,154.0,air,kwele
+154,155.0,hujan,ulane
+155,156.0,batu,batu
+156,157.0,tanah,tapele
+157,158.0,awan,moputi
+158,159.0,asap,awekweini
+159,160.0,api,awe
+160,161.0,pasir,ume
+161,162.0,debu,lopone
+162,163.0,merah,lalakwe
+163,164.0,kuning,porole
+164,165.0,putih,putile
+165,166.0,hitam,metene
+166,167.0,malam,kapetu
+167,168.0,pagi,susupa/beleti
+168,169.0,siang,pita
+169,170.0,petang,akmau
+170,171.0,fajar,kasinake
+171,172.0,matahari terbit,leamatai katabola
+172,173.0,matahari terbenam,leamatai suni
+173,174.0,panas,musute
+174,175.0,dingin,ndirine
+175,176.0,buruk,misemo
+176,177.0,baik,misete
+177,178.0,basah,mbosine
+178,179.0,kering,sekile
+179,180.0,kosong,malenete
+180,181.0,penuh,penute
+181,182.0,utara,sapa leuke lerau
+182,183.0,selatan,sapa leuke lora
+183,184.0,barat,sapa leuke lopai
+184,185.0,timur,sapa leuke lori
+185,186.0,ibu,"inate, upute, mamaite"
+186,187.0,ayah,amate
+187,188.0,kakak laki-laki,betaku makwai
+188,189.0,kakak perempuan,betaku bina
+189,190.0,adik,kwaliku
+190,191.0,saudara ibu,kwali bei inate
+191,192.0,saudara ayah,kwali bei amate
+192,193.0,nenek laki-laki,upu mokwai
+193,194.0,nenek perempuan,upu bina
+194,195.0,ipar,sauku
+195,196.0,menantu,bimbelu/mamaite
+196,197.0,mertua,ina tamoli/amatamoli
+197,198.0,malu,asomi
+198,199.0,dinding,leseteleini
+199,200.0,jendela,tibebenai
+200,201.0,pintu,metu
+201,202.0,atap,ate
+202,203.0,lantai,sosale
+203,204.0,dapur,aibotoi
+204,205.0,tidak,mo
+205,206.0,membunuh,bunui
+206,207.0,terbakar,kotu
+207,208.0,jalan,lalane
+208,209.0,telur,mantelui
+209,210.0,kami,ami
+210,211.0,jauh,lauke
+211,212.0,dekat,teane
+212,213.0,benci,laleteake
+213,214.0,kenyang,pila
+214,215.0,lapar,tiasene
+215,216.0,parang,sari
+216,217.0,pisau,sarianai
+217,218.0,berpakaian,alike
+218,219.0,jatuh,tetu
+219,220.0,menangis,rani
+220,221.0,kelelawar,salune
+221,222.0,kapak,soa
+222,223.0,perahu,soebeini
+223,224.0,dayung,sai
+224,225.0,mahal,beline tiline
+225,226.0,tertawa,mali
+226,227.0,mimpi,kamani
+227,228.0,terkejut,khutuke
+228,229.0,murah,deline pelebu
+229,230.0,cakrawala,hanite
+230,231.0,angin,balate
+231,232.0,sungai,kwelebatai
+232,233.0,laut,meite
+233,234.0,panah,busule
+234,235.0,berkebun,andinu
+235,236.0,peluk,nopa
+236,237.0,piring,pikane
+237,238.0,memancing,nahanu
+238,239.0,malas,nosone
+239,240.0,sakit,kerake
+240,241.0,sembuh,mise
+241,242.0,obat,nderu
+242,243.0,kawin,kai
+243,244.0,menyelam,suni
+244,245.0,memadam,soba
+245,246.0,menebang,lasa
+246,247.0,menjual,abeli
+247,248.0,berteria,biwe
+248,249.0,rumah,luma
+249,250.0,bilik,teteuli
+250,251.0,tempat air,kwele buini
+251,252.0,jolok,sipat batai
+252,253.0,gemuk,kopa
+253,254.0,lapar,tiasene
+254,255.0,terbuka,mbebane
+255,256.0,tertutup,kbuni
+256,257.0,tapisan,libune
+257,258.0,wajan,kbalinai
+258,259.0,senduk,marripa
+259,260.0,tikar,paile
+260,261.0,sekarang,totonai
+261,262.0,lelah,kmulike/pae
+262,263.0,tergesa-gesa,mmabuay
+263,264.0,lambat,takwaline
+264,265.0,dungu,kwnenele
+265,266.0,jernih,ndina
+266,267.0,keras,kbere
+267,268.0,tebal,telule
+268,269.0,tipis,nite
+269,270.0,pedas,pasate
+270,271.0,gemetar,deley
+271,272.0,bantal guling,maknopa
+272,273.0,bantal kepala,makalukuulu
+273,274.0,rombak,likwaye
+274,275.0,palu,makreru
+275,276.0,bubungan,bulene
+276,277.0,bakul,tetule
+277,278.0,takut,rilay
+278,279.0,cair,kwakwelene
+279,280.0,tombak ikan,baba iyane
+280,281.0,penapis sagu,nasae
+281,282.0,pekarangan,takwamene
+282,283.0,mentah,matane
+283,284.0,masak,nwapele
+284,285.0,pasang,sah
+285,286.0,surut,rulu
+286,287.0,piring batu/tanah,pikabatu
+287,288.0,beribut,biuwe
+288,289.0,secubit,bosine
+289,290.0,membeli,sebele
+290,291.0,mengupas,lusie
+291,292.0,menanam,atnanele
+292,293.0,tali,mekute
+293,294.0,kemudi,pamuli
+294,295.0,buritan,akalena
+295,296.0,umpan,ehposa
+296,297.0,tangga,elane
+297,298.0,mencabut,borie
+298,299.0,angkuh,kwakwale
+299,300.0,kikir,mokite

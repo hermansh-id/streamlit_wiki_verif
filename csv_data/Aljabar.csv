@@ -1,0 +1,9 @@
+,0,1,2,3,4,5,6,7,8,9,1 0
+0,Himpunan,Bilangan asli N,Bilangan asli N,Bilangan bulat Z,Bilangan bulat Z,Bilangan rasional Q (juga Bilangan real R dan kompleks C),Bilangan rasional Q (juga Bilangan real R dan kompleks C),Bilangan rasional Q (juga Bilangan real R dan kompleks C),Bilangan rasional Q (juga Bilangan real R dan kompleks C),"Modulo bilangan bulat 3: Z3 = {0, 1, 2}","Modulo bilangan bulat 3: Z3 = {0, 1, 2}"
+1,Operasi,+,× (tak-nol),+,× (tak-nol),+,−,× (tak-nol),÷ (tak-nol),+,× (tak-nol)
+2,Tertutup,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya
+3,Identitas,0,1,0,1,0,Tidak ada,1,Tidak ada,0,1
+4,Invers,Tidak ada,Tidak ada,−a,Tidak ada,−a,Tidak ada,1/a,Tidak ada,"masing-masing: 0, 2, 1","masing-masing: Tidak ada, 1, 2"
+5,Asosiatif,Ya,Ya,Ya,Ya,Ya,Tidak,Ya,Tidak,Ya,Ya
+6,Komutatif,Ya,Ya,Ya,Ya,Ya,Tidak,Ya,Tidak,Ya,Ya
+7,Struktur,monoid,monoid,grup abelian,monoid,grup abelian,kuasigrup,grup abelian,kuasigrup,grup abelian,grup abelian (Z2)

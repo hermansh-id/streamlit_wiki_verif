@@ -1,0 +1,11 @@
+,T e k n i k   p e n g u k u r a n,M e t o d e   p e n g u k u r a n,O b j e k   p e n g u k u r a n
+0,Akustik,Ultrasonik,"Laju sonik, pergeseran fase"
+1,Kimia,"Titrasi, indikator","Konsentrasi, warna"
+2,Konduktometri,"Sel Kohlrausch, pengukuran induktif",Konduktivitas elektrolit
+3,Gravimetri,Densimeter,Densitas
+4,Optik,"Refraktometri, interferometri, polarimetri, turbidimetri","Indeks refraksi, interferensi, rotasi polarisasi bidang datar, turbiditas"
+5,Analisis partikel,Particle analyzer,"Distribusi ukuran, densitas partikel"
+6,Viskometri,"Viskometer, osilator kristal kuarsa",Viskositas
+7,Potensiometri,"Elektrode ion spesifik, membran ion spesifik",Konduktivitas ion
+8,Radiometri,Radiasi nuklir,Spektrum absorpsi
+9,Spektroskopi,"Spektrofotometri, spektroskopi inframerah",Spektrum absorpsi

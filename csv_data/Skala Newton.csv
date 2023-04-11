@@ -1,0 +1,6 @@
+,D a r i   N e w t o n,K e   N e w t o n
+0,[°C] = [°N] × 100⁄33,[°N] = [°C] × 33⁄100
+1,[°F] = [°N] × 60⁄11 + 32,[°N] = ([°F] − 32) × 11⁄60
+2,"[K] = [°N] × 100⁄33 + 273,15","[°N] = ([K] − 273,15) × 33⁄100"
+3,"[°R] = [°N] × 60⁄11 + 491,67","[°N] = ([°R] − 491,67) × 11⁄60"
+4,"Untuk rumus interval suhu alih-alih suhu tertentu,1 °N = 33⁄100 °C = 11⁄60 °FPerbandingan di antara berbagai skala suhu","Untuk rumus interval suhu alih-alih suhu tertentu,1 °N = 33⁄100 °C = 11⁄60 °FPerbandingan di antara berbagai skala suhu"

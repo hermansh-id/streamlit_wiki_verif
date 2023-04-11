@@ -1,0 +1,48 @@
+,K e l a s   k i m i a w i,G u g u s,R u m u s,R u m u s   s t r u k t u r a l,A w a l a n,A k h i r a n,C o n t o h
+0,Asil halida,Haloformil,RCOX,,haloformil-,-oil halida,Asetil klorida(Etanoil klorida)
+1,Alkohol,Hidroksil,ROH,,hidroksi-,-ol,Metanol
+2,Aldehida,Aldehida,RCHO,,okso-,-al,Asetaldehida(Etanal)
+3,Alkana,Alkil,RH,,alkil-,-ana,Metana
+4,Alkena,Alkenil,R2C=CR2,,alkenil-,-ena,Etilena(Etena)
+5,Alkuna,Alkinil,RC≡CR',,alkinil-,-una,Asetilena(Etuna)
+6,Amida,Karboksamida,RCONR2,,karboksamido-,-amida,Asetamida(Etanamida)
+7,Amina,Amina primer,RNH2,,amino-,-amina,Metilamina(Metanamina)
+8,Amina,Amina sekunder,R2NH,,amino-,-amina,Dimetilamina
+9,Amina,Amina tersier,R3N,,amino-,-amina,Trimetilamina
+10,Amina,Ion amonium 4°,R4N+,,amonio-,-amonium,Kolin
+11,Senyawa azo,Azo(Diimida),RN2R',,azo-,-diazena,Metil jingga(asam p-dimetilamino-azobenzenasulfonat)
+12,Turunan toluena,Benzil,RCH2C6H5RBn,,benzil-,1-(substituen)toluena,Benzil bromida(1-Bromotoluena)
+13,Karbonat,Ester karbonat,ROCOOR,,,alkil karbonat,
+14,Karboksilat,Karboksilat,RCOO−,,karboksi-,-oat,Natrium asetat(Natrium etanoat)
+15,Asam karboksilat,Karboksil,RCOOH,,karboksi-,asam -oat,Asam asetat(Asam etanoat atau asam cuka)
+16,Sianat,Sianat,ROCN,,sianato-,alkil sianat,
+17,Sianat,Tiosianat,RSCN,,tiosianato-,alkil tiosianat,
+18,Eter,Eter,ROR',,alkoksi-,alkil alkil eter,Dietil eter(Etoksi etana)
+19,Ester,Ester,RCOOR',,,alkil alkanoat,Etil butirat(Etil butanoat)
+20,Haloalkana,Halo,RX,,halo-,alkil halida,Kloroetana(Etil klorida)
+21,Hidroperoksida,Hidroperoksi,ROOH,,hidroperoksi-,alkil hidroperoksida,Metil etil keton peroksida
+22,Imina,Ketimina primer,RC(=NH)R',,imino-,-imina,
+23,Imina,Ketimina sekunder,RC(=NR)R',,imino-,-imina,
+24,Imina,Aldimina primer,RC(=NH)H,,imino-,-imina,
+25,Imina,Aldimina sekunder,RC(=NR')H,,imino-,-imina,
+26,Isosianida,Isosianida,RNC,,isosiano-,alkil isosianida,
+27,Isosianat,Isosianat,RNCO,,isosianato-,alkil isosianat,Metil isosianat
+28,Isosianat,Isotiosianat,RNCS,,isotiosianato-,alkil isotiosianat,Alil isotiosianat
+29,Keton,Keton,RCOR',,"keto-, okso-",-on,Metil etil keton(Butanon)
+30,Nitrat,Nitrat,RONO2,,"nitrooksi-, nitroksi-",alkil nitrat,Amil nitrat(1-nitrooksipentana)
+31,Nitril,Nitril,RCN,,siano-,alkananitril alkil sianida,Benzonitril(Fenil sianida)
+32,Nitrit,Nitrit,RONO,,nitrosooksi-,alkil nitrit,Amil nitrit(3-metil-1-nitrosooksibutana)
+33,Senyawa nitro,Nitro,RNO2,,nitro-,,Nitrometana
+34,Senyawa nitroso,Nitroso,RNO,,nitroso-,,Nitrosobenzena
+35,Peroksida,Peroksi,ROOR,,peroksi-,alkil peroksida,Di-tert-butil peroksida
+36,Turunan benzena,Fenil,RC6H5,,fenil-,-benzena,Kumena(2-fenilpropana)
+37,Fosfina,Fosfino,R3P,,fosfino-,-fosfana,Metilpropilfosfana
+38,Fosfodiester,Fosfat,HOPO(OR)2,,asam fosforat di(substituen) ester,di(substituen) hidrogenfosfat,DNA
+39,Asam fosfonat,Fosfono,RP(=O)(OH)2,,fosfono-,asam substituen fosfonat,Asam benzilfosfonat
+40,Fosfat,Fosfat,ROP(=O)(OH)2,,fosfo-,,Gliseraldehida 3-fosfat
+41,Turunan piridina,Piridil,RC5H4N,,4-piridil(piridin-4-il) 3-piridil(piridin-3-il) 2-piridil(piridin-2-il),-piridin,Nikotina
+42,Sulfida,Sulfida,RSR',,,di(substituen) sulfida,Dimetil sulfida
+43,Sulfona,Sulfonil,RSO2R',,sulfonil-,di(substituent) sulfona,Dimetil sulfona(Metilsulfonilmetana)
+44,Asam sulfonat,Sulfo,RSO3H,,sulfo-,asam substituen sulfonat,Asam benzenasulfonat
+45,Sulfoksida,Sulfinil,RSOR',,sulfinil-,di(substituen) sulfoksida,Difenil sulfoksida
+46,Tiol,Sulfhidril,RSH,,"merkapto-, sulfanil-",-tiol,Etanatiol(Etil merkaptan)

@@ -1,0 +1,18 @@
+,U n s u r,N o m o r   a t o m   ( Z ),G o l o n g a n,P e r i o d e,R e a k s i,P o t e n s i a l,K o n f i g u r a s i   e l e k t r o n
+0,Emas,79,11 (IB),6,Au3+ + 3 e− → Au,1.5 V,[Xe] 4f14 5d10 6s1
+1,Platina,78,10 (VIIIB),6,PtO + 2 H+ + 2 e− → Pt + H2O,0.98 V,[Xe] 4f14 5d9 6s1
+2,Iridium,77,9 (VIIIB),6,IrO2 + 4 H+ + 4 e− → Ir + 2 H2O,0.73 V,[Xe] 4f14 5d7 6s2
+3,Paladium,46,10 (VIIIB),5,Pd2+ + 2 e− → Pd,0.915 V,[Kr] 4d10
+4,Osmium,76,8 (VIIIB),6,OsO2 + 4 H+ + 4 e− → Os + 2 H2O,0.65 V,[Xe] 4f14 5d6 6s2
+5,Perak,47,11 (IB),5,Ag+ + e− → Ag,0.7993 V,[Kr] 4d10 5s1
+6,Raksa,80,12 (IIB),6,Hg2+2 + 2 e−→ 2 Hg,0.7925 V,[Xe] 4f14 5d10 6s2
+7,Polonium,84,16 (VIA),6,Po2+ + 2 e− → Po,0.6 V,[Xe] 4f14 5d10 6s2 6p4
+8,Rodium,45,9 (VIIIB),5,Rh2+ + 2 e− → Rh,0.60 V,[Kr] 4d8 5s1
+9,Rutenium,44,8 (VIIIB),5,Ru3+ + 3 e− → Ru,0.60 V,[Kr] 4d7 5s1
+10,Tembaga,29,11 (IB),4,Cu2+ + 2 e− → Cu,0.339 V,[Ar] 3d10 4s1
+11,Bismut,83,15 (VA),6,Bi3+ + 3 e− → Bi,0.308 V,[Xe] 4f14 5d10 6s2 6p3
+12,Teknesium,43,7 (VIIB),5,TcO2 + 4 H+ + 4 e− → Tc + 2 H2O,0.272 V,[Kr] 4d5 5s2
+13,Renium,75,7 (VIIB),6,ReO2 + 4 H+ + 4 e− → Re + 2 H2O,0.276 V,[Xe] 4f14 5d5 6s2
+14,Arsen,33,15 (VA),4,As4O6 + 12 H+ + 12 e− → 4 As + 6 H2O,0.24 V,[Ar] 3d10 4s2 4p3
+15,Antimon,51,15 (VA),5,Sb2O3 + 6 H+ + 6 e− → 2 Sb + 3 H2O,0.147 V,[Kr] 4d10 5s2 5p3
+16,Telurium,52,16 (VIA),5,TeO2 + 4 H+ + 4 e− → Te + 2 H2O,0.57 V,[Kr] 4d10 5s2 5p4

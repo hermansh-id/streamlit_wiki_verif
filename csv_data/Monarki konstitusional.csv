@@ -1,0 +1,25 @@
+,P e n d a l a m a n   t e o r i,M o n a r k i   k o n s t i t u s i o n a l,M o n a r k i   p a r l e m e n t e r M o n a r k i   s e m i k o n s t i t u s i o n a l,M o n a r k i   m u t l a k
+0,Kepala negara,Raja/Ratu,Raja/Ratu,Raja/Ratu
+1,Kepala pemerintahan,Perdana Menteri,Perdana Menteri,Raja/Ratu
+2,Kekuasaan kepala negara,terbatas,tidak terbatas,tidak terbatas
+3,Masa jabatan kepala negara,seumur hidup,seumur hidup,seumur hidup
+4,Masa jabatan kepala pemerintahan,ditentukan jangka waktu(maksimal 2 periode),ditentukan pada keputusan Raja/Ratu,seumur hidup
+5,Kekuasaan negara,Hanya pemisahan,Pemisahan atau pembagian,Pemisahan atau pembagian
+6,Hak prerogratif untuk eksekutif,Perdana Menteri,Raja/Ratu,Raja/Ratu
+7,Hak kekuasaan wilayah negara,Perdana Menteri,Raja/Ratu,Raja/Ratu
+8,Hak pendapat menurut UUD/UU/peraturan diberlakukan/dicabut(termasuk UU pewaris tahta),Perdana Menteri,Raja/Ratu(hanya peraturan),Raja/Ratu(hanya peraturan)
+9,Tampilan kepala negara dalam kabinet,tidak(kecuali ada undangan Perdana Menteri),ya,ya
+10,Eksekutif tanggungjawab kepada legislatif,ya,ya,tidak pernah ada
+11,Eksekutif dijatuhkan legislatif,ya,ya,tidak pernah ada
+12,Pembubaran legislatif oleh eksekutif,ya,ya,tidak pernah ada
+13,Keputusan kepala negara,dapat diubah melalui legislatif,tidak dapat diganggu gugat(keputusan mutlak),tidak dapat diganggu gugat(keputusan mutlak)
+14,Keterlibatan kepala negara untuk hak partai politik/hak pemilih,tidak,ya,ya
+15,Keterlibatan anggota keluarga kepala negara untuk hak partai politik/hak pemilih/anggota eksekutif,tidak,ya,ya
+16,Rangkap jabatan kepala negara,tidak,ya,ya
+17,Pengusulan/Pengubah/Pengganti/Perbaikan UUD/UU/peraturanbersama dengan legislatif(termasuk UU pewaris tahta),Perdana Menteri,Raja/Ratu(hanya peraturan),Raja/Ratu(hanya peraturan)
+18,Pemilihan kepala negara,diwariskan turun temurun menurut UU,keputusan Raja/Ratu,keputusan Raja/Ratu
+19,Pemilihan kepala pemerintahan,dipilih rakyat (langsung) atauparlemen (tidak langsung),ditunjuk Raja/Ratu,Merangkap sebagai Raja/Ratu
+20,Hukuman kepada kepala negara,?,?,?
+21,Hukuman kepada kepala pemerintahan,Mosi tak percaya,dicabut Raja/Ratu,?
+22,Lingkungan Istana Negara,pribadi,pribadi,pribadi
+23,Posisi elite/orang kaya,dianggap bangsawan/feodal,dianggap bangsawan/feodal,dianggap bangsawan/feodal

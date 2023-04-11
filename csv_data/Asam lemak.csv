@@ -1,0 +1,14 @@
+,N a m a   u m u m,S t r u k t u r   k i m i a,Δ x,C : D,n − x
+0,Asam miristoleat,CH3(CH2)3CH=CH(CH2)7COOH,cis-Δ9,14:1,n−5
+1,Asam palmitoleat,CH3(CH2)5CH=CH(CH2)7COOH,cis-Δ9,16:1,n−7
+2,Asam sapienat,CH3(CH2)8CH=CH(CH2)4COOH,cis-Δ6,16:1,n−10
+3,Asam oleat,CH3(CH2)7CH=CH(CH2)7COOH,cis-Δ9,18:1,n−9
+4,Asam elaidat,CH3(CH2)7CH=CH(CH2)7COOH,trans-Δ9,18:1,n−9
+5,Asam vaksenat,CH3(CH2)5CH=CH(CH2)9COOH,trans-Δ11,18:1,n−7
+6,Asam linoleat,CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH,"cis,cis-Δ9,Δ12",18:2,n−6
+7,Asam linoelaidat,CH3(CH2)4CH=CHCH2CH=CH(CH2)7COOH,"trans,trans-Δ9,Δ12",18:2,n−6
+8,Asam α-linolenat,CH3CH2CH=CHCH2CH=CHCH2CH=CH(CH2)7COOH,"cis,cis,cis-Δ9,Δ12,Δ15",18:3,n−3
+9,Asam arakidonat,CH3(CH2)4CH=CHCH2CH=CHCH2CH=CHCH2CH=CH(CH2)3COOHNIST,"cis,cis,cis,cis-Δ5Δ8,Δ11,Δ14",20:4,n−6
+10,Asam eikosapentaenoat,CH3CH2CH=CHCH2CH=CHCH2CH=CHCH2CH=CHCH2CH=CH(CH2)3COOH,"cis,cis,cis,cis,cis-Δ5,Δ8,Δ11,Δ14,Δ17",20:5,n−3
+11,Asam erukat,CH3(CH2)7CH=CH(CH2)11COOH,cis-Δ13,22:1,n−9
+12,Asam dokosaheksaenoat,CH3CH2CH=CHCH2CH=CHCH2CH=CHCH2CH=CHCH2CH=CHCH2CH=CH(CH2)2COOH,"cis,cis,cis,cis,cis,cis-Δ4,Δ7,Δ10,Δ13,Δ16,Δ19",22:6,n−3

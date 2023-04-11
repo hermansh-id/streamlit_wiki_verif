@@ -1,0 +1,13 @@
+,N o m o r,N a m a,J e n i s,F u n g s i
+0,I,Olfaktorius,Sensori,Menerima rangsang dari hidung dan menghantarkannya ke otak untuk diproses sebagai sensasi bau (penghidu)
+1,II,Optik,Sensori,Menerima rangsang dari mata dan menghantarkannya ke otak untuk diproses sebagai persepsi visual
+2,III,Okulomotor,Motorik,Menggerakkan sebagian besar otot bola mata
+3,IV,Troklearis,Motorik,Menggerakkan otot bola mata
+4,V,Trigeminus,Gabungan,Sensori: Menerima rangsangan sensorik dari wajah untuk diproses di otak Motorik: Menggerakkan otot-otot pengunyah
+5,VI,Abdusen,Motorik,Menggerakkan otot bola mata
+6,VII,Fasialis,Gabungan,Sensorik: Menerima rangsang dari 2/3 bagian anterior lidah untuk diproses di otak sebagai sensasi rasaMotorik: Mengendalikan otot wajah untuk menciptakan ekspresi wajah
+7,VIII,Vestibulokoklearis,Sensori,Sensori sistem vestibular: Mengendalikan keseimbangan Sensori sistem pendengaran: Menerima rangsang untuk diproses di otak sebagai suara
+8,IX,Glosofaringeal,Gabungan,Sensori: Menerima rangsang dari bagian 1/3 posterior lidah untuk diproses di otak sebagai sensasi rasaMotorik: menggerakkan otot-otot lidah dan pharyng
+9,X,Vagus,Gabungan,Sensori: Menerima rangsang dari organ dalam (viceral) Motorik: Mengendalikan organ-organ dalam (viceral)
+10,XI,Aksesorius,Motorik,menggerakkan otot trapezius dan sternocleidomastoideus (mengendalikan pergerakan kepala)
+11,XII,Hipoglossus,Motorik,Mengendalikan pergerakan lidah

@@ -1,0 +1,23 @@
+,B a b,B l o k,J u d u l
+0,I,A00-B99,Penyakit infeksius dan parasitik
+1,II,C00-D48,Neoplasma
+2,III,D50-D89,"Penyakit darah dan organ pembentuk darah, termasuk gangguan sistem imun"
+3,IV,E00-E90,"Gangguan endokrin, nutrisi, dan metabolik"
+4,V,F00-F99,Gangguan jiwa dan perilaku
+5,VI,G00-G99,Penyakit pada sistem saraf
+6,VII,H00-H59,Penyakit mata dan adneksa
+7,VIII,H60-H95,Penyakit telinga dan mastoid
+8,IX,I00-I99,Penyakit pada sistem sirkulasi
+9,X,J00-J99,Penyakit pada sistem pernapasan
+10,XI,K00-K93,Penyakit pada sistem pencernaan
+11,XII,L00-L99,Penyakit pada kulit dan jaringan subkutan
+12,XIII,M00-M99,Penyakit pada sistem muskuloskeletal
+13,XIV,N00-N99,Penyakit pada sistem saluran kemih dan genital
+14,XV,O00-O99,Kehamilan dan kelahiran
+15,XVI,P00-P96,Keadaan yang berasal dari periode perinatal
+16,XVII,Q00-Q99,"Malformasi kongenital, deformasi, dan kelainan kromosom"
+17,XVIII,R00-R99,"Gejala, tanda, kelainan klinik, dan kelainan laboratorik yang tidak ditemukan pada klasifikasi lain"
+18,XIX,S00-T98,"Keracunan, cedera, dan beberapa penyebab eksternal"
+19,XX,V01-Y98,Penyebab eksternal morbiditas dan kematian
+20,XXI,Z00-Z99,Faktor-faktor yang memengaruhi status kesehatan dan hubungannya dengan jasa kesehatan
+21,XXII,U00-U99,Kode untuk tujuan khusus

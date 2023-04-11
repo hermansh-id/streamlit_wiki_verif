@@ -1,0 +1,35 @@
+,N o .,N e g a r a / W i l a y a h,B e n u a,D a l a m   o p e r a s i o n a l   ( k m ),D a l a m   p e m b a n g u n a n   ( k m ),T o t a l   ( k m ),K e c e p a t a n   m a k s .   ( k m / j a m ),E l e k t r i f k a s i,L e b a r   j a l u r   ( m m )
+0,1,Tiongkok,Asia,40.267[14],29.733,70.000[15],350[16][17][18][19],25 kV 50 Hz,1435
+1,2,Spanyol,Eropa,"4.327,1",1.378,"5.705,1[20]",310,3 kV DC; 25 kV 50 Hz,1435; 1668
+2,3,Prancis,Eropa,2.735,5601,"4.536,867",320[21],25 kV 50 Hz,1435
+3,3,Prancis,Eropa,"1.242,767",5601,"4.536,867",220,"1.5 kV DC, 25 kV 50 Hz",1435
+4,4,Jerman,Eropa,1.571,"3.321,83","6.225,83",300,15 kV 16.7 Hz; Diesel (sebelum 2017),1435
+5,4,Jerman,Eropa,"1.885,4","3.321,83","6.225,83",250,15 kV 16.7 Hz; Diesel (sebelum 2017),1435
+6,5,Jepang,Asia,2.727[22],6571,"3.384,1[23]",320[24],"25 kV 50 Hz, 25 kV 60 Hz",1435; 1435&1067 dual
+7,6,Italia,Eropa,921,96524,"2.982,94",300,"3 kV DC, 25 kV 50 Hz",1435
+8,6,Italia,Eropa,"1.096,7",96524,"2.982,94",300,"3 kV DC, 25 kV 50 Hz",1435
+9,7,Britania Raya,Eropa,113,220,"2.142,7",300[25],25 kV 50 Hz AC; Diesel (atau dual); 3 kV DC Third-Rail (hanya di persimpangan),1435
+10,7,Britania Raya,Eropa,"1.814,7",220,"2.142,7",201[26],25 kV 50 Hz AC; Diesel (atau dual); 3 kV DC Third-Rail (hanya di persimpangan),1435
+11,8,Turki,Asia,724,508,2.335,300,25 kV 50 Hz,1435
+12,8,Turki,Asia,102,550,2.335,200,25 kV 50 Hz,1435
+13,9,Korea Selatan,Asia,6609,712585,"1.906,585",305[27],25 kV 60 Hz,1435
+14,9,Korea Selatan,Asia,6038,712585,"1.906,585",260,25 kV 60 Hz,1435
+15,10,Finlandia,Eropa,1.120,201,1.327,220,25 kV 50 Hz,1524[28]
+16,11,Swedia,Eropa,860[29],7185,"1.578,5",205[30],15 kV 16.7 Hz,1435
+17,12,Amerika Serikat,Amerika Utara,735,"1.789,3","2.524,3",240 [31][32],"12 kV 25 Hz, 12 kV 60 Hz, 25 kV 60 Hz; Diesel (atau dual)",1435
+18,13,Yunani,Eropa,700,695,1.395,200[33],25 kV 50 Hz,1435
+19,14,Rusia,Eropa,650,0[34],650,250[35],"3 kV DC, 25 kV 50 Hz (setelah 2024)",1520
+20,15,Arab Saudi,Asia,449,1.691,2.144,300,25 kV 50 Hz,1435
+21,16,Uzbekistan,Asia,741,465,1.206,250,25 kV 50 Hz,1520
+22,17,Taiwan,Asia,3321,0[36],3321,300,25 kV 60 Hz,1435
+23,18,Austria,Eropa,254,23137,48537,250,15 kV 16.7 Hz,1435
+24,19,Portugal,Eropa,227,626,853,220,25 kV 50 Hz,1668
+25,20,Polandia,Eropa,224,411457,764657,200,3 kV DC,1435
+26,21,Belgia,Eropa,209,293,502,300,"3 kV DC, 25 kV 50 Hz",1435
+27,22,Maroko,Afrika,186[37],1.287,1.473,320,25 kV 50 Hz,1435
+28,23,Swiss,Eropa,178,4314,6094,250,15 kV 16.7 Hz,1435
+29,24,Norwegia,Eropa,1395,45955,5995,210,15 kV 16.7 Hz,1435
+30,25,Belanda,Eropa,90,1668,2568,300[38],"1.5 kV DC, 25 kV 50 Hz",1435
+31,26,Serbia,Eropa,75,1081,1831,200,25 kV 50 Hz,1435
+32,27,Denmark,Eropa,5,7668,7718,200,25 kV 50 Hz; Diesel (sebelum 2017),1435
+33,28,Hong Kong,Asia,26,-,-,200,"1.5 kV DC, 25 kV 50 Hz",1435

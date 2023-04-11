@@ -1,0 +1,11 @@
+,C o n n e c t i o n,T r a n s m i s s i o n   S p e e d
+0,DS-1 (Tier 1),1.544 Mbit/s
+1,E-1,2.048 Mbit/s
+2,DS-3 (Tier 3),44.736 Mbit/s
+3,OC-3,155.52 Mbit/s
+4,OC-12,622.08 Mbit/s
+5,OC-48,2.488 Gbit/s
+6,OC-192,9.953 Gbit/s
+7,OC-768,39.813 Gbit/s
+8,OC-1536,79.6 Gbit/s
+9,OC-3072,159.2 Gbit/s
